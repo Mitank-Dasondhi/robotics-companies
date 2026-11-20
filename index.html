@@ -56,6 +56,12 @@
 .rb .rb-panel label{display:block;font-size:12px;color:var(--muted);margin-bottom:3px}
 .rb .rb-panel select{width:100%;border:1px solid var(--border);border-radius:8px;padding:7px 8px;font-size:13.5px;background-color:#fff;color:var(--text)}
 .rb.m-world .f-region{display:none}
+.rb.searching .f-region,.rb.searching .f-geo{display:none}
+.rb .rb-list{display:inline-block;background:var(--gray-bg);color:var(--gray-t);border-radius:999px;padding:1px 9px;font-size:12px}
+.rb .mx tr.segrow td{font-weight:600}
+.rb .mx tr.sub td:first-child{padding-left:30px}
+.rb .mx tr.click{cursor:pointer}
+.rb .mx tr.click:hover td:first-child{text-decoration:underline}
 .rb .rb-chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px}
 .rb .rb-chip{background:var(--blue-bg);color:var(--blue-t);border:1px solid var(--blue-f);border-radius:999px;padding:2px 10px;font-size:12.5px}
 .rb .rb-count{color:var(--muted);font-size:12.5px;margin-bottom:6px}
@@ -140,14 +146,14 @@ body{margin:0;background:#ffffff;color-scheme:light}
   <section class="p-companies" id="companies">
     <div class="rb-tiles" data-draw="tiles" data-source="india world">—</div>
     <div class="rb-controls">
-      <input class="rb-search" id="q" type="search" placeholder="Search company, category, city or what they do" aria-label="Search companies">
+      <input class="rb-search" id="q" type="search" placeholder="Search both lists: company, segment, city or what they do" aria-label="Search companies">
       <button class="rb-btn" id="filter-btn" type="button">Filters</button>
       <button class="rb-btn" id="clear-btn" type="button">Clear</button>
     </div>
     <div class="rb-panel" id="panel">
       <div><label for="f-segment">Segment</label><select id="f-segment" data-draw="f-segment" data-source="india world" aria-label="Segment"></select></div>
       <div><label for="f-category">Sub-category</label><select id="f-category" data-draw="f-category" data-source="india world" aria-label="Sub-category"></select></div>
-      <div><label for="f-geo">Location</label><select id="f-geo" data-draw="f-geo" data-source="india world" aria-label="Location"></select></div>
+      <div class="f-geo"><label for="f-geo">Location</label><select id="f-geo" data-draw="f-geo" data-source="india world" aria-label="Location"></select></div>
       <div class="f-region"><label for="f-region">India presence</label><select id="f-region" data-draw="f-region" aria-label="India presence"></select></div>
       <div><label for="f-size">Headcount</label><select id="f-size" data-draw="f-size" aria-label="Headcount"></select></div>
     </div>
@@ -183,7 +189,7 @@ body{margin:0;background:#ffffff;color-scheme:light}
     </div>
     <div class="rb-card" id="chart-matrix">
       <h2>Segment by company size</h2>
-      <p class="sub">Number of companies in each size group. Darker blue means more companies.</p>
+      <p class="sub">Every sub-category is listed under its segment. Darker blue means more companies. Click a row to open those companies.</p>
       <div class="rb-scroll" data-draw="an-matrix" data-source="india world">—</div>
     </div>
   </section>
@@ -191,9 +197,11 @@ body{margin:0;background:#ffffff;color-scheme:light}
   <section class="p-readme rb-readme" id="readme">
     <div class="rb-card">
       <h2>What this is</h2>
-      <p>A directory of robotics and automation companies, taken from the Google Sheet “Robotics &amp; Automation Directory – MASTER (segmented)”, 19 November 2026. It has two lists: <b>India</b> (companies based in India or with an India presence) and <b>World</b> (companies elsewhere). The two lists do not overlap and are never mixed.</p>
+      <p>A directory of robotics and automation companies, taken from the Google Sheet “Robotics &amp; Automation Directory – MASTER”, 20 November 2026. It has two lists: <b>India</b> (companies based in India or with an India presence) and <b>World</b> (companies elsewhere). The two lists do not overlap and are never mixed.</p>
       <h2>Order of the list</h2>
       <p>Robotics companies come first. Below them, in this order and with serial numbers running straight on: <b>Suppliers (Tier 2-3)</b>, then <b>Aerospace &amp; Space</b>, <b>Drones &amp; UAVs</b> and <b>AV &amp; Adjacent</b> at the very end. Each segment has its own divider row in the list, and you can filter by segment. Suppliers, aerospace, drones and AV &amp; adjacent companies sit in the India list when their country is India, and in the World list otherwise.</p>
+      <h2>Search</h2>
+      <p>Search looks through <b>both</b> the India and World lists at once, whichever list you are on. Matches show a <b>List</b> column so you can see where each company sits. Location and India-presence filters are paused while you search; segment, sub-category and headcount filters still apply. Clear the search box to go back to the list you were on.</p>
       <h2>Columns</h2>
       <ul>
         <li><b>Company, Website, LinkedIn:</b> as listed in the sheet. Click a row to see the links.</li>
@@ -206,7 +214,7 @@ body{margin:0;background:#ffffff;color-scheme:light}
         <li><b>What they do:</b> a one-line description, shown when you open a row.</li>
       </ul>
       <h2>Where the data comes from</h2>
-      <p>This page shows a saved copy of the sheet, taken on 19 November 2026 from the segmented version of the sheet. Changes made to the sheet afterwards do not appear here until a new copy is attached.</p>
+      <p>This page shows a saved copy of the sheet, taken on 20 November 2026. Changes made to the sheet afterwards do not appear here until a new copy is attached.</p>
       <h2>Gaps in the data</h2>
       <div class="rb-scroll" data-draw="gaps" data-source="india world">—</div>
     </div>
@@ -236,6 +244,17 @@ window.dash={
   function mk(tag,cls,txt){var e=document.createElement(tag);if(cls)e.className=cls;if(txt!=null)e.textContent=txt;return e;}
   function rowsOf(id){var d=dash.data(id);return d.status==='ok'?d.data:null;}
   function cur(){return rowsOf(S.market);}
+  function searching(){return S.q.trim().length>0;}
+  var tagKey='',tagVal=[];
+  function bothRows(){
+    var a=rowsOf('india'),b=rowsOf('world');if(!a||!b)return null;
+    var k=a.length+'-'+b.length;
+    if(k!==tagKey){tagKey=k;tagVal=a.map(function(r){var o=Object.assign({},r);o._m='india';return o;}).concat(b.map(function(r){var o=Object.assign({},r);o._m='world';return o;}));}
+    return tagVal;
+  }
+  function base(){return searching()?bothRows():cur();}
+  function mOf(r){return r._m||S.market;}
+  function rowKey(r){return mOf(r)+':'+r['S.No'];}
   function geoKey(){return S.market==='india'?'HQ City':'Country';}
   function sizeKey(r){return (r['Headcount']||'').trim()||'(none)';}
   function sizeLabel(k){return k==='(none)'?'Not listed':k;}
@@ -250,21 +269,22 @@ window.dash={
   function segStyle(el,x){var i=SEG_ORDER.indexOf(x),P=i>=0?SEG_P[i]:'gray';el.style.background='var(--'+P+'-bg)';el.style.borderColor='var(--'+P+'-f)';el.style.color='var(--'+P+'-t)';}
 
   function filtered(){
-    var rows=cur()||[],q=S.q.trim().toLowerCase(),g=geoKey();
+    var rows=base()||[],q=S.q.trim().toLowerCase(),g=geoKey(),srch=searching();
     var out=rows.filter(function(r){
       if(S.f.segment&&r.Segment!==S.f.segment)return false;
       if(S.f.category&&r.Category!==S.f.category)return false;
-      if(S.f.geo&&r[g]!==S.f.geo)return false;
+      if(!srch&&S.f.geo&&r[g]!==S.f.geo)return false;
       if(S.f.size&&sizeKey(r)!==S.f.size)return false;
-      if(S.market==='india'&&S.f.region&&regionOf(r)!==S.f.region)return false;
-      if(q&&[r.Company,r['What they do'],r.Category,r['HQ City'],r.Country].join(' ').toLowerCase().indexOf(q)<0)return false;
+      if(!srch&&S.market==='india'&&S.f.region&&regionOf(r)!==S.f.region)return false;
+      if(q&&[r.Company,r['What they do'],r.Category,r.Segment,r['HQ City'],r.Country,r['India Presence']].join(' ').toLowerCase().indexOf(q)<0)return false;
       return true;
     });
     var k=S.sk,d=S.dir;
     function key(r){
       if(k==='Headcount'){var i=SIZES.indexOf(sizeKey(r));return i<0?99:i;}
       if(k==='Segment')return segIdx(r.Segment);
-      if(k==='S.No')return +r['S.No']||0;
+      if(k==='S.No'||k==='List')return (srch?(mOf(r)==='india'?0:1)*1000000:0)+(+r['S.No']||0);
+      if(k==='Where')return ((r['India Presence']||r.Country)||'').toLowerCase();
       return (r[k]||'').toLowerCase();
     }
     out=out.slice().sort(function(a,b){var x=key(a),y=key(b);return (x<y?-1:x>y?1:0)*d;});
@@ -281,6 +301,7 @@ window.dash={
     root.classList.toggle('t-readme',S.tab==='readme');
     root.classList.toggle('m-india',S.market==='india');
     root.classList.toggle('m-world',S.market==='world');
+    root.classList.toggle('searching',searching());
     root.querySelectorAll('#markets .rb-btn').forEach(function(b){b.classList.toggle('on',b.getAttribute('data-market')===S.market);});
     root.querySelectorAll('#tabs .rb-tab').forEach(function(b){var on=b.getAttribute('data-tab')===S.tab;b.classList.toggle('on',on);b.setAttribute('aria-selected',on?'true':'false');});
   }
@@ -320,10 +341,10 @@ window.dash={
 
   /* ---------- companies tab ---------- */
   dash.draw('tiles',function(el){
-    var all=cur();
+    var all=base();
     if(!all){el.textContent='—';return;}
     var n=filtered().length,out=[];
-    [[fmt(all.length),'In this list'],[fmt(n),'Matching now']].forEach(function(d){var t=mk('div','rb-tile');t.appendChild(mk('div','v',d[0]));t.appendChild(mk('div','l',d[1]));out.push(t);});
+    [[fmt(all.length),searching()?'In both lists':'In this list'],[fmt(n),'Matching now']].forEach(function(d){var t=mk('div','rb-tile');t.appendChild(mk('div','v',d[0]));t.appendChild(mk('div','l',d[1]));out.push(t);});
     var segc=d3.rollup(all,function(v){return v.length;},function(r){return r.Segment;});
     SEG_ORDER.forEach(function(sg){
       var c=segc.get(sg);if(!c)return;
@@ -343,12 +364,12 @@ window.dash={
     sel.onchange=function(){S.f[key]=sel.value;S.page=0;S.open=null;redraw.apply(null,LIST);};
   }
   dash.draw('f-segment',function(sel){
-    var rows=cur();if(!rows){return;}
+    var rows=base();if(!rows){return;}
     var c=d3.rollup(rows,function(v){return v.length;},function(r){return r.Segment;});
     fillSelect(sel,'All segments',SEG_ORDER.filter(function(x){return c.get(x);}).map(function(x){return[x,c.get(x)];}),S.f.segment,'segment');
   });
   dash.draw('f-category',function(sel){
-    var rows=cur();if(!rows){return;}
+    var rows=base();if(!rows){return;}
     fillSelect(sel,'All sub-categories',counts(rows,function(r){return r.Category;}),S.f.category,'category');
   });
   dash.draw('f-geo',function(sel){
@@ -362,7 +383,7 @@ window.dash={
     fillSelect(sel,'All',counts(rows,regionOf),S.f.region,'region');
   });
   dash.draw('f-size',function(sel){
-    var rows=cur();if(!rows){return;}
+    var rows=base();if(!rows){return;}
     var c=d3.rollup(rows,function(v){return v.length;},sizeKey);
     var items=SIZES.concat(['(none)']).filter(function(k){return c.get(k);}).map(function(k){return[k,c.get(k)];});
     fillSelect(sel,'All sizes',items,S.f.size,'size',function(it){return sizeLabel(it[0])+' ('+it[1]+')';});
@@ -373,8 +394,8 @@ window.dash={
     if(S.q.trim())chips.push(['q','Search: '+S.q.trim()]);
     if(S.f.segment)chips.push(['segment',S.f.segment]);
     if(S.f.category)chips.push(['category',S.f.category]);
-    if(S.f.geo)chips.push(['geo',S.f.geo]);
-    if(S.f.region)chips.push(['region',S.f.region]);
+    if(S.f.geo&&!searching())chips.push(['geo',S.f.geo]);
+    if(S.f.region&&!searching())chips.push(['region',S.f.region]);
     if(S.f.size)chips.push(['size','Headcount: '+sizeLabel(S.f.size)]);
     el.replaceChildren.apply(el,chips.map(function(c){
       var b=mk('button','rb-chip',c[1]+'  ×');b.type='button';b.setAttribute('aria-label','Remove filter '+c[1]);
@@ -386,14 +407,16 @@ window.dash={
     }));
   });
   dash.draw('count',function(el){
-    if(!cur()){el.textContent='—';return;}
-    var n=filtered().length;
-    el.textContent=n===1?'1 company':fmt(n)+' companies';
+    if(!base()){el.textContent='—';return;}
+    var f=filtered(),n=f.length;
+    var txt=n===1?'1 company':fmt(n)+' companies';
+    if(searching()){var ni=f.filter(function(r){return mOf(r)==='india';}).length;txt+=' · '+fmt(ni)+' in India, '+fmt(n-ni)+' in World (searching both lists)';}
+    el.textContent=txt;
   });
 
   dash.draw('table',function(el){
-    var d=dash.data(S.market);
-    if(d.status!=='ok'){notReady(el,S.market);return;}
+    var srch=searching();
+    if(!base()){notReady(el,S.market);return;}
     var rows=filtered(),start=S.page*PAGE,slice=rows.slice(start,start+PAGE);
     if(!rows.length){
       var box=mk('div','rb-note','No companies match these filters. ');
@@ -402,7 +425,8 @@ window.dash={
       box.appendChild(b);el.replaceChildren(box);return;
     }
     var india=S.market==='india';
-    var cols=[['S.No','#','num'],['Segment','Segment',''],['Company','Company',''],['Category','Sub-category',''],['HQ City','HQ city',''],[india?'India Presence':'Country',india?'India presence':'Country',''],['Headcount','Headcount','num']];
+    var cols=srch?[['List','List',''],['Segment','Segment',''],['Company','Company',''],['Category','Sub-category',''],['HQ City','HQ city',''],['Where','Country / presence',''],['Headcount','Headcount','num']]
+      :[['S.No','#','num'],['Segment','Segment',''],['Company','Company',''],['Category','Sub-category',''],['HQ City','HQ city',''],[india?'India Presence':'Country',india?'India presence':'Country',''],['Headcount','Headcount','num']];
     var table=mk('table');
     var thead=mk('thead'),hr=mk('tr');
     cols.forEach(function(c){
@@ -414,22 +438,23 @@ window.dash={
     });
     thead.appendChild(hr);table.appendChild(thead);
     var tb=mk('tbody');
-    var segTotal=d3.rollup(cur(),function(v){return v.length;},function(r){return r.Segment;});
+    var segTotal=srch?new Map():d3.rollup(cur(),function(v){return v.length;},function(r){return r.Segment;});
     slice.forEach(function(r,idx){
-      if(S.sk==='S.No'&&S.dir===1&&(idx===0||slice[idx-1].Segment!==r.Segment)){
+      if(!srch&&S.sk==='S.No'&&S.dir===1&&(idx===0||slice[idx-1].Segment!==r.Segment)){
         var sh=mk('tr','seghead'),sd=mk('td',null,r.Segment+' · '+fmt(segTotal.get(r.Segment)||0)+' companies');sd.colSpan=cols.length;segStyle(sd,r.Segment);sh.appendChild(sd);tb.appendChild(sh);
       }
-      var isOpen=S.open===r['S.No'];
+      var isOpen=S.open===rowKey(r),rm=mOf(r);
       var tr=mk('tr','row'+(isOpen?' open':''));tr.tabIndex=0;
-      var td0=mk('td','num',r['S.No']);
+      var td0=srch?mk('td'):mk('td','num',r['S.No']);
+      if(srch)td0.appendChild(mk('span','rb-list',rm==='india'?'India':'World'));
       var tdC=mk('td');tdC.appendChild(mk('b',null,r.Company));
       var tdSeg=mk('td');var dot=mk('span','dot');dot.style.background=segColor(r.Segment);tdSeg.appendChild(dot);tdSeg.appendChild(document.createTextNode(r.Segment));
       var tdCat=mk('td',null,r.Category);
       var tdH=mk('td',null,r['HQ City']);
-      var tdG=mk('td',null,india?r['India Presence']:r.Country);
+      var tdG=mk('td',null,rm==='india'?r['India Presence']:r.Country);
       var tdS=mk('td','num',sizeLabel(sizeKey(r)));
       [td0,tdSeg,tdC,tdCat,tdH,tdG,tdS].forEach(function(t){tr.appendChild(t);});
-      var toggle=function(){S.open=isOpen?null:r['S.No'];redraw('table');};
+      var toggle=function(){S.open=isOpen?null:rowKey(r);redraw('table');};
       tr.onclick=toggle;tr.onkeydown=function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();toggle();}};
       tb.appendChild(tr);
       if(isOpen){
@@ -446,7 +471,7 @@ window.dash={
   });
 
   dash.draw('pager',function(el){
-    if(!cur()){el.replaceChildren();return;}
+    if(!base()){el.replaceChildren();return;}
     var n=filtered().length,pages=Math.max(1,Math.ceil(n/PAGE));
     if(S.page>=pages)S.page=pages-1;
     var from=n?S.page*PAGE+1:0,to=Math.min(n,(S.page+1)*PAGE);
@@ -556,22 +581,38 @@ window.dash={
   dash.draw('an-matrix',function(el){
     var all=cur();if(!all){notReady(el,S.market);return;}
     var present=new Set(all.map(function(r){return r.Segment;}));
-    var cats=SEG_ORDER.filter(function(x){return present.has(x);});
-    var cell={},max=1;
-    cats.forEach(function(ct){cell[ct]=GROUPS.map(function(g){return all.filter(function(r){return r.Segment===ct&&g[1].indexOf(sizeKey(r))>=0;}).length;});cell[ct].forEach(function(v){if(v>max)max=v;});});
+    var segs=SEG_ORDER.filter(function(x){return present.has(x);});
+    function cnt(f){return GROUPS.map(function(g){return all.filter(function(r){return f(r)&&g[1].indexOf(sizeKey(r))>=0;}).length;});}
+    var plan=[],max=1;
+    segs.forEach(function(sg){
+      var cats=counts(all.filter(function(r){return r.Segment===sg;}),function(r){return r.Category;}).map(function(d){return d[0];});
+      var segCells=cnt(function(r){return r.Segment===sg;});
+      var subs=cats.map(function(ct){var c=cnt(function(r){return r.Segment===sg&&r.Category===ct;});c.forEach(function(v){if(v>max)max=v;});return{ct:ct,c:c};});
+      plan.push({sg:sg,c:segCells,subs:subs});
+    });
     var table=mk('table','mx'),thead=mk('thead'),hr=mk('tr');
-    ['Segment'].concat(GROUPS.map(function(g){return g[0];})).concat(['Total']).forEach(function(h){hr.appendChild(mk('th',null,h));});
+    ['Segment / sub-category'].concat(GROUPS.map(function(g){return g[0];})).concat(['Total']).forEach(function(h){hr.appendChild(mk('th',null,h));});
     thead.appendChild(hr);table.appendChild(thead);
     var tb=mk('tbody');
-    cats.forEach(function(ct){
-      var tr=mk('tr'),first=mk('td');var dot=mk('span','dot');dot.style.background=segColor(ct);first.appendChild(dot);first.appendChild(document.createTextNode(ct));tr.appendChild(first);
-      cell[ct].forEach(function(v){
-        var td=mk('td',null,v?fmt(v):'–');
-        if(v)td.style.background='color-mix(in srgb, var(--blue-c) '+Math.round(8+v/max*52)+'%, #ffffff)';
-        tr.appendChild(td);
-      });
-      tr.appendChild(mk('td',null,fmt(d3.sum(cell[ct]))));
+    function open2(sg,ct){resetFilters();S.f.segment=sg;if(ct)S.f.category=ct;goTab('companies');redraw.apply(null,ALL);}
+    plan.forEach(function(p){
+      var tr=mk('tr','segrow click'),first=mk('td');
+      var dot=mk('span','dot');dot.style.background=segColor(p.sg);first.appendChild(dot);first.appendChild(document.createTextNode(p.sg));tr.appendChild(first);
+      p.c.forEach(function(v){var td=mk('td',null,v?fmt(v):'–');segStyle(td,p.sg);td.style.borderColor='var(--border)';tr.appendChild(td);});
+      var tt=mk('td',null,fmt(d3.sum(p.c)));segStyle(tt,p.sg);tt.style.borderColor='var(--border)';tr.appendChild(tt);
+      tr.onclick=function(){open2(p.sg,'');};
       tb.appendChild(tr);
+      p.subs.forEach(function(sb){
+        var r2=mk('tr','sub click'),f2=mk('td',null,sb.ct);r2.appendChild(f2);
+        sb.c.forEach(function(v){
+          var td=mk('td',null,v?fmt(v):'–');
+          if(v)td.style.background='color-mix(in srgb, var(--blue-c) '+Math.round(8+v/max*52)+'%, #ffffff)';
+          r2.appendChild(td);
+        });
+        r2.appendChild(mk('td',null,fmt(d3.sum(sb.c))));
+        r2.onclick=function(){open2(p.sg,sb.ct);};
+        tb.appendChild(r2);
+      });
     });
     table.appendChild(tb);el.replaceChildren(table);
   });
@@ -601,7 +642,11 @@ window.dash={
   root.querySelector('#tabs').addEventListener('click',function(e){
     var b=e.target.closest('[data-tab]');if(!b)return;goTab(b.getAttribute('data-tab'));
   });
-  root.querySelector('#q').addEventListener('input',function(e){S.q=e.target.value;S.page=0;S.open=null;redraw.apply(null,LIST);});
+  root.querySelector('#q').addEventListener('input',function(e){
+    var was=searching();S.q=e.target.value;S.page=0;S.open=null;
+    if(was!==searching()){applyClasses();redraw('f-segment','f-category','f-size');}
+    redraw.apply(null,LIST);
+  });
   root.querySelector('#filter-btn').addEventListener('click',function(){root.querySelector('#panel').classList.toggle('open');});
   root.querySelector('#clear-btn').addEventListener('click',function(){resetFilters();redraw.apply(null,['f-segment','f-category','f-geo','f-region','f-size'].concat(LIST));});
 

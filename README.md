@@ -1,6 +1,6 @@
 # Robotics & Automation Directory
 
-A searchable directory of 859 robotics and automation companies: 330 in India and 529 in the rest of the world. One static page, no build step.
+A searchable directory of 1,011 robotics and automation companies: 348 in India and 663 in the rest of the world. One static page, no build step.
 
 ## Files
 
@@ -53,8 +53,8 @@ Segments: `Robotics`, `Suppliers (Tier 2-3)`, `Aerospace & Space`, `Drones & UAV
 
 ## What the page has
 
-- **Companies:** search, clickable segment tiles, filters (segment, sub-category, city or country, headcount, and India presence on the India list), sortable columns, 50 rows per page, click a row for the description and links.
-- **Analytics:** for each list, share by segment, top sub-categories, top cities (India) or countries (World), headcount, and segment by company size. Click a bar to open those companies.
+- **Companies:** global search (it looks through both the India and World lists at once, from either tab, and shows a List column for each match),  clickable segment tiles, filters (segment, sub-category, city or country, headcount, and India presence on the India list), sortable columns, 50 rows per page, click a row for the description and links.
+- **Analytics:** for each list, share by segment, top sub-categories, top cities (India) or countries (World), headcount, and segment by company size with every sub-category listed under its segment. Click a bar to open those companies.
 - **README tab:** column guide and a table of data gaps.
 
 ## Design rules
@@ -64,4 +64,4 @@ White page, one font, light pastel highlights, dark shades for charts. Segments 
 ## Notes
 
 - "India presence" in the sheet is free text. The filter groups it into "HQ in India" (exactly `HQ`) and "Office or R&D in India" (everything else).
-- The data is a copy of the "Robotics & Automation Directory – MASTER" Google Sheet taken on 19 November 2026 (segmented version).
+- The data is a copy of the "Robotics & Automation Directory – MASTER" Google Sheet taken on 20 November 2026.

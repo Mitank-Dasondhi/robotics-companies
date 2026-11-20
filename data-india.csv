@@ -39,293 +39,311 @@ S.No,Segment,Company,Website,LinkedIn,Category,HQ City,India Presence,Headcount,
 38,Robotics,Posha (formerly Nymble),https://www.posha.com/,,Service & Delivery Robots,USA,Bengaluru – R&D,,Countertop cooking robot for home kitchens
 39,Robotics,Provision Labs,https://provisionlabs.com/,,Robotics AI & Software,"San Francisco, USA",Bengaluru – engineering team; Mumbai – Basilisk (acquired),11-50,Data and evaluation infrastructure for physical AI
 40,Robotics,Rekise Marine,https://www.rekise.com/,https://www.linkedin.com/company/rekise/,Inspection & Field Robotics,Bengaluru,HQ,11-50,Autonomous surface and underwater vessels
-41,Robotics,Strider Robotics,https://strider-robotics.in/,https://www.linkedin.com/company/strider-robotics/,Inspection & Field Robotics,Bengaluru,HQ,11-50,Quadruped robots for industrial inspection
-42,Robotics,Swamikri Labs,https://swamikri.in/,,Agri Robotics,Bengaluru,HQ,,Tractor-mounted robotic weeding and crop-health sensing
-43,Robotics,Systemantics India,https://www.systemantics.com/,https://www.linkedin.com/company/systemantics-india/,Industrial Automation,Bengaluru,HQ,11-50,Lightweight 6-axis cobots made in India
-44,Robotics,Upliance.ai,https://upliance.ai/,https://www.linkedin.com/company/upliance/,Service & Delivery Robots,Bengaluru,HQ,11-50,AI cooking robot for home kitchens
-45,Robotics,Virya Autonomous Technologies,https://www.virya.ai/,https://www.linkedin.com/company/virya-ai/,Warehouse & ASRS,Bengaluru,HQ,51-200,"Autonomous pallet trucks, AMRs and drive-by-wire platforms"
-46,Robotics,XNG Automation Solutions,https://xng.co.in/,https://www.linkedin.com/company/xng-automation-solutions/,Industrial Automation,Bengaluru,HQ,51-200,Factory and intralogistics automation integrator
-47,Robotics,XP Robotics (xPhi),https://xphirobotics.com/,https://www.linkedin.com/company/xp-robotics/,Robotics AI & Software,Bengaluru,HQ,11-50,Physical-world training data and infrastructure for robots
-48,Robotics,xSpecies AI,https://www.xspecies.ai/,https://www.linkedin.com/company/xpeciesai/,Humanoid / General Purpose,Bengaluru,HQ,2-10,Humanoid robots and embodied AI
-49,Robotics,Cosmoserve Space,https://cosmoserve.space/,https://www.linkedin.com/company/cosmoserve-space/,Space Robotics,Hyderabad,HQ,11-50,Space robotics for orbital debris removal
-50,Robotics,EAS-T Autonomous Solutions,https://eas-t.com/,https://www.linkedin.com/company/eas-t/,Warehouse & ASRS,Hyderabad,HQ,2-10,"AMRs, machine vision and process automation"
-51,Robotics,FarmRobo Technologies,https://farmrobo.in/,https://www.linkedin.com/company/farmrobo-technologies-pvt-ltd/,Agri Robotics,Hyderabad,HQ,11-50,Robotic farm platforms for crop-care operations
-52,Robotics,Harvested Robotics,https://www.harvestedlabs.com/,https://www.linkedin.com/company/harvested-robotics/,Agri Robotics,Hyderabad,HQ,2-10,Tractor-mounted AI laser weeding
-53,Robotics,Makers Hive Innovations,https://makershive.io/,https://www.linkedin.com/company/maker-s-hive-innovations-pvt-ltd/,Medical & Surgical Robotics,Hyderabad,HQ,11-50,KalArm bionic prosthetic hand
-54,Robotics,Perceptyne,https://perceptyne.com/,https://www.linkedin.com/company/perceptyne-robots/,Humanoid / General Purpose,Hyderabad,HQ,11-50,Dual-arm and semi-humanoid robots for industrial tasks
-55,Robotics,Peribott,https://peribott.com/,https://www.linkedin.com/company/peribott/,Warehouse & ASRS,Hyderabad,HQ,2-10,Devibot AMRs plus integrated cobots and service robots
-56,Robotics,Robotspace (Scooby Labs Robotics),https://www.robotspace.in/,https://www.linkedin.com/company/robotspace/,Industrial Automation,Hyderabad,HQ,11-50,"Robotic automation cells, AMRs, MES and IIoT for factories"
-57,Robotics,Seven Robotics,https://sevenrobotics.in/,https://www.linkedin.com/company/sevenrobotics/,Warehouse & ASRS,Hyderabad,HQ,2-10,Intralogistics autonomous mobile robots
-58,Robotics,Svaya Robotics,https://www.svayarobotics.com/,https://www.linkedin.com/company/svayarobotics-pvt-ltd/,Industrial Automation,Hyderabad,HQ,51-200,Collaborative industrial robots designed and built in India
-59,Robotics,Tensrai,https://tensrai.com/,,Industrial Automation,Hyderabad,HQ,,Retrofit autonomy kits and mobile manipulators
-60,Robotics,WATER Robotics,https://www.water.bio/,,Service & Delivery Robots,Hyderabad,HQ,,"Physical-AI consumer products, starting with a robotic bed"
-61,Robotics,XMACHINES,https://xmachines.ai/,https://www.linkedin.com/company/xmachines-ai/,Agri Robotics,Hyderabad,HQ,2-10,"Autonomous robots for agriculture, industry and research"
-62,Robotics,B&G Industrial Robotics & Automation,https://bandgrobotics.com/,,Industrial Automation,Ahmedabad,HQ,,Robotics integration and process automation
-63,Robotics,CosmoChute,https://cosmochute.com/,https://www.linkedin.com/company/cosmochute/,Space Robotics,Ahmedabad,HQ,2-10,Lunar rovers and payload-deployment systems
-64,Robotics,Gridbots Technologies,https://www.gridbots.com/,https://www.linkedin.com/company/gridbots-technologies-pvt--ltd-/,Inspection & Field Robotics,Ahmedabad,HQ,11-50,"Specialty robots for inspection, nuclear and defence work"
-65,Robotics,Ishitva Robotic Systems,https://ishitva.in/,https://www.linkedin.com/company/ishitvasystems/,Industrial Automation,Ahmedabad,HQ,11-50,AI-powered automated waste-sorting systems
-66,Robotics,Kody Robots,https://kodyrobots.com/,https://www.linkedin.com/company/kody-technolab-pvt-ltd/,Service & Delivery Robots,Ahmedabad,HQ,51-200,"Autonomous service robots for hospitality, cleaning and retail"
-67,Robotics,P RoboAI Innovation,https://proboaiinnovation.com/,https://www.linkedin.com/company/p-roboai-innovation-private-limited/,Industrial Automation,Ahmedabad,HQ,1,"Robot-arm cells, AMR/AGV and machine vision"
-68,Robotics,AlgoSurg,https://www.algosurg.ai/,https://www.linkedin.com/company/algosurg/,Medical & Surgical Robotics,"Wilmington, USA",Mumbai – team,2-10,Surgical AI planning from scans to robot-ready plans
-69,Robotics,Jiva Robotics,https://jivarobotics.com/,https://www.linkedin.com/company/jivarobotics/,Warehouse & ASRS,Mumbai,HQ,11-50,Warehouse AMRs and robot arms
-70,Robotics,Miko,https://miko.ai/,https://www.linkedin.com/company/mikorobot/,Service & Delivery Robots,Mumbai,HQ,201-500,AI companion and learning robots for children
-71,Robotics,Vanar Robots,https://www.vanarrobots.com/,https://www.linkedin.com/company/vanar-robots/,Humanoid / General Purpose,Mumbai,HQ,2-10,General-purpose humanoid robots and in-house actuators
-72,Robotics,Rymo Technologies,https://rymo.in/,https://www.linkedin.com/company/rymo-technologies-pvt-ltd/,Medical & Surgical Robotics,Navi Mumbai,HQ,51-200,Portable rehabilitation robots for physiotherapy
-73,Robotics,AutoNxt Automation,https://www.autonxt.in/,https://www.linkedin.com/company/autonxt-automation/,Agri Robotics,Thane,HQ,11-50,Electric and autonomous tractors
-74,Robotics,InspeCity,https://inspecity.com/,https://www.linkedin.com/company/inspecity/,Space Robotics,Thane,HQ,2-10,In-space servicing and satellite propulsion
-75,Robotics,Robo Bionics,https://robobionics.in/,https://www.linkedin.com/company/robo-bionics/,Medical & Surgical Robotics,Vasai,HQ,2-10,Bionic prosthetic hands
-76,Robotics,AgMove Robotics,https://agmove.in/,https://www.linkedin.com/company/agmove-robotics/,Agri Robotics,Pune,HQ,2-10,Compact robotic farm rovers for horticulture
-77,Robotics,ARAPL (Affordable Robotic & Automation),https://arapl.co.in/,https://www.linkedin.com/company/araplindia/,Industrial Automation,Pune,HQ,201-500,"Robotic welding cells, AMRs and automated car parking"
-78,Robotics,Armstrong Dematic,https://www.armstrongltd.com/,https://www.linkedin.com/company/armstrong-mbpl/,Warehouse & ASRS,Pune,HQ,"501-1,000",Warehouse automation and intralogistics systems
-79,Robotics,Axiom Robotics & Automation,https://axiom-robotics-automation.com/,https://www.linkedin.com/company/axiom-robotics-automation/,Industrial Automation,Pune,HQ,11-50,"Robotic welding, machine-tending and palletising cells"
-80,Robotics,CaneBOT,https://www.canebot.com/,https://www.linkedin.com/company/canebot/,Service & Delivery Robots,Pune,HQ,2-10,Automated sugarcane-juice vending robots
-81,Robotics,Cybernetik Technologies,https://cybernetik.com/,,Industrial Automation,Pune,HQ,,"Process, packaging and robotic automation systems for industry"
-82,Robotics,IRTI Robotics,https://irti-robotics.com/,https://www.linkedin.com/company/irti-robotics/,Industrial Automation,Pune,HQ,51-200,"Robotic welding, palletizing cells and refurbished industrial robots"
-83,Robotics,Kikobot Robotics,https://kikobot.com/,https://www.linkedin.com/company/kikobot/,Industrial Automation,Pune,HQ,11-50,Industrial and collaborative robot arms
-84,Robotics,Momentum Robotics,https://momentumrobotics.in/,https://www.linkedin.com/company/momentum-robotics/,Warehouse & ASRS,Pune,HQ,2-10,Autonomous mobile robots and fleet-management software
-85,Robotics,Muks Robotics,https://muksrobotics.com/,https://www.linkedin.com/company/muks/,Humanoid / General Purpose,Pune,HQ,11-50,Enterprise humanoid robots (Spaceo)
-86,Robotics,PARC Robotic Systems,https://parcrobotics.in/,,Industrial Automation,Pune,HQ,,Robotic welding cells and automated assembly lines
-87,Robotics,Peppermint Robotics,https://www.peppermintrobotics.com/,https://www.linkedin.com/company/peppermintrobotics/,Service & Delivery Robots,Pune,HQ,51-200,Autonomous floor-cleaning and material-transport robots
-88,Robotics,Sakar Robotics,https://sakarrobotics.com/,https://www.linkedin.com/company/sakarobotics/,Warehouse & ASRS,Pune,HQ,11-50,AMRs and machine-vision automation for factories
-89,Robotics,SVR Robotics,https://svrrobotics.com/,https://www.linkedin.com/company/svr-robotics/,Industrial Automation,Pune,HQ,11-50,"Industrial robot integration, AMRs and training robots"
-90,Robotics,TAL Brabo (Tata Automation),,https://www.linkedin.com/company/tal-manufacturing-solutions-limited.-tata-automation-limited.-/,Industrial Automation,Pune,HQ,51-200,Indian-made industrial robot arms (Tata group)
-91,Robotics,Taypro,https://taypro.in/,https://www.linkedin.com/company/taypro/,Inspection & Field Robotics,Pune,HQ,11-50,Waterless solar-panel cleaning robots
-92,Robotics,Techligence,https://techligencerobotics.com/,https://www.linkedin.com/company/techligence-world/,Service & Delivery Robots,Pune,HQ,2-10,AI service and humanoid robots for customer service
-93,Robotics,Unbox Robotics,https://unboxrobotics.com/,https://www.linkedin.com/company/unboxrobotics/,Warehouse & ASRS,Pune,HQ,51-200,Robotic parcel sortation systems for warehouses
-94,Robotics,Vector Robotics,https://getvectorbots.com/,https://www.linkedin.com/company/vctr-labs/,Humanoid / General Purpose,Pune,HQ,2-10,"Humanoid robots, AGVs, AMRs and autonomous pallet movers"
-95,Robotics,Wipro PARI,https://wipropari.com/,https://www.linkedin.com/company/wipropari/,Industrial Automation,Pune,HQ,"1,001-5,000",Large-scale factory automation and assembly lines
-96,Robotics,Anzo Controls,https://anzocontrols.com/,https://www.linkedin.com/company/anzo-controls/,Warehouse & ASRS,Gurugram,HQ,51-200,"Robotic palletizing, picking, AGV/AMR and storage automation"
-97,Robotics,Dynamic Robotics,https://www.dynamicrobotics.in/,https://www.linkedin.com/company/dynamic-robotics/,Industrial Automation,Gurugram,HQ,2-10,Industrial automation and special-purpose machines
-98,Robotics,GreyOrange,https://www.greyorange.com/,https://www.linkedin.com/company/gogreyorange/,Warehouse & ASRS,"Suwanee, USA",Gurugram – engineering and operations,"501-1,000",AI warehouse robots and fulfilment orchestration software
-99,Robotics,Novus Hi-Tech,https://novushitech.com/,https://www.linkedin.com/company/novus-hitech/,Warehouse & ASRS,Gurugram,HQ,"501-1,000","AMRs, autonomous forklifts and fleet safety systems"
-100,Robotics,Peer Robotics,https://peerrobotics.ai/,https://www.linkedin.com/company/peer-robotics/,Warehouse & ASRS,"Detroit, USA",Gurugram – R&D centre,11-50,Collaborative mobile robots for plant logistics
-101,Robotics,SS Innovations,https://ssinnovations.com/,https://www.linkedin.com/company/ssinnovationsgroup/,Medical & Surgical Robotics,Gurugram,HQ,"501-1,000",SSi Mantra surgical robotic system
-102,Robotics,Terafac,https://www.terafac.com/,https://www.linkedin.com/company/terafac/,Robotics AI & Software,Chandigarh,HQ,2-10,AI vision for robots and Industry 4.0 training labs
-103,Robotics,Rucha Yantra,,https://www.linkedin.com/company/rucha-yantra-llp/,Warehouse & ASRS,Chh. Sambhajinagar,HQ,11-50,"AGVs, AMRs and special-purpose automation machines"
-104,Robotics,Falcon Autotech,https://www.falconautotech.com/,https://www.linkedin.com/company/falconautotech/,Warehouse & ASRS,Greater Noida,HQ,"501-1,000","Sortation, conveyors and warehouse automation"
-105,Robotics,Pragyanik AI,https://pragyanikai.com/,https://www.linkedin.com/company/pragyanik-ai-private-limited/,Agri Robotics,Indore,HQ,2-10,Autonomous farm-robot prototypes for weeding and spraying
-106,Robotics,xTerra Robotics,https://xterrarobotics.com/,https://www.linkedin.com/company/xterra-robotics/,Inspection & Field Robotics,Kanpur,HQ (IIT Kanpur),11-50,Autonomous legged robots for industrial inspection
-107,Robotics,Milagrow HumanTech,https://www.milagrowhumantech.com/,https://www.linkedin.com/company/milagrow/,Service & Delivery Robots,New Delhi,HQ,11-50,Robot vacuums and service robots
-108,Robotics,Addverb Technologies,https://addverb.com/,https://www.linkedin.com/company/addverb-ai/,Warehouse & ASRS,Noida,HQ,"1,001-5,000","Warehouse automation: AMRs, ASRS, sortation and picking robots"
-109,Robotics,Alphadroid,https://www.alphadroid.io/,https://www.linkedin.com/company/alphadroid/,Warehouse & ASRS,Noida,HQ,51-200,AI mobile robots for logistics and warehouses
-110,Robotics,Octobotics,https://octobotics.tech/,https://www.linkedin.com/company/octobotics-tech/,Inspection & Field Robotics,Noida,HQ,11-50,AI-enabled NDT inspection robots for industry and rail
-111,Robotics,Orangewood Labs,https://www.orangewood.co/,https://www.linkedin.com/company/orangewood-labs/,Industrial Automation,"San Francisco, USA",Noida – India office,51-200,Affordable AI-powered collaborative robot arms
-112,Robotics,Ottonomy,https://ottonomy.io/,https://www.linkedin.com/company/ottonomyio/,Service & Delivery Robots,"Sunnyvale, USA",Noida – Ottonomy IO Pvt Ltd office,11-50,Autonomous indoor and outdoor delivery robots
-113,Robotics,Robophin,https://robophin.com/,https://www.linkedin.com/company/robophin-enterprises-llp/,Inspection & Field Robotics,Noida,HQ,2-10,Autonomous robotic platforms for defence
-114,Robotics,Capivora Robotics,https://capivorarobotics.com/,https://www.linkedin.com/company/capivora-robotics/,Robotics AI & Software,Chennai,HQ,2-10,AI vision for factory inspection and robotic picking
-115,Robotics,DexSent Robotics,https://www.dexsentrobotics.com/,https://www.linkedin.com/company/dexsent-robotics/,Industrial Automation,Chennai,HQ,2-10,Vision-enabled adaptive industrial robots
-116,Robotics,HARVTECH,https://harvtech.in/,https://www.linkedin.com/company/harvtechllp/,Agri Robotics,Chennai,HQ,2-10,Autonomous electric tractor technology
-117,Robotics,Motubot Agritech,https://motubot.com/,https://www.linkedin.com/company/motubot/,Agri Robotics,Chennai,HQ,2-10,AI farm robots and drones for field operations
-118,Robotics,OrbitAID Aerospace,https://orbitaid.com/,https://www.linkedin.com/company/orbitaid-aerospace/,Space Robotics,Chennai,HQ,11-50,In-space refuelling and satellite servicing
-119,Robotics,Planys Technologies,https://planystech.com/,https://www.linkedin.com/company/planys/,Inspection & Field Robotics,Chennai,HQ,51-200,"Underwater ROVs for ports, dams and infrastructure"
-120,Robotics,Solinas Integrity,https://solinas.in/,https://www.linkedin.com/company/solinas-integrity/,Inspection & Field Robotics,Chennai,HQ (IITM Research Park),51-200,Pipe-inspection and sanitation robots
-121,Robotics,Tvasta,https://tvasta.construction/,https://www.linkedin.com/company/tvasta/,Construction Robotics,Chennai,HQ,11-50,Robotic 3D construction printing
-122,Robotics,Vikra Ocean Tech,https://vikraoceantech.com/,https://www.linkedin.com/company/vikra-ocean-tech-pvt-ltd/,Inspection & Field Robotics,Chennai,HQ,11-50,"Underwater ROVs, USVs and marine robotics"
-123,Robotics,Vividobots,https://vividobots.com/,https://www.linkedin.com/company/vividobots-private-limited/,Construction Robotics,Chennai,HQ,11-50,Construction robotics
-124,Robotics,Xera Robotics,https://xerarobotics.com/,https://www.linkedin.com/company/xera-robotics-india/,Inspection & Field Robotics,Chennai,HQ,11-50,"Underwater, surface and quadruped robots"
-125,Robotics,Anya Robotics,https://anyarobotics.com/,https://www.linkedin.com/company/anya-robotics/,Warehouse & ASRS,Coimbatore,HQ,2-10,Modular autonomous mobile robots
-126,Robotics,GOAT Robotics,https://goat-robotics.com/,https://www.linkedin.com/company/goat-robotics/,Warehouse & ASRS,Coimbatore,HQ,11-50,Autonomous mobile robots for factory material handling
-127,Robotics,Asimov Robotics,https://www.asimovrobotics.com/,https://www.linkedin.com/company/asimov-robotics/,Service & Delivery Robots,Kochi,HQ,11-50,Service and industrial robots for hazardous tasks
-128,Robotics,Astrek Innovations,https://astrekinnovations.com/,https://www.linkedin.com/company/astrekinnovations/,Medical & Surgical Robotics,Kochi,HQ,2-10,Robotic exoskeletons for gait rehabilitation
-129,Robotics,EyeROV,https://www.eyerov.com/,https://www.linkedin.com/company/eyerov/,Inspection & Field Robotics,Kochi,HQ,51-200,"Underwater ROVs for dams, ports and pipelines"
-130,Robotics,iHub Robotics,https://www.ihubrobotics.com/,https://www.linkedin.com/company/ihub-robotics/,Service & Delivery Robots,Kochi,HQ,11-50,Semi-humanoid service robots for hospitality and healthcare
-131,Robotics,Sastra Robotics,https://sastrarobotics.com/,https://www.linkedin.com/company/sastra-robotics-india-private-limited/,Industrial Automation,Kochi,HQ,11-50,Robots that automate touchscreen and device testing
-132,Robotics,Mask Robotics,https://maskrobotics.in/,,Service & Delivery Robots,Madurai,HQ,,Service and humanoid robot sales and rental
-133,Robotics,Vanora Robots,https://vanorarobots.com/,https://www.linkedin.com/company/vanorarobots/,Inspection & Field Robotics,"Aberdeen, UK",Mangaluru – Vanora Robots Pvt Ltd,2-10,Modular heavy-duty mobile robots and UGVs
-134,Robotics,Coratia Technologies,https://coratia.com/,https://www.linkedin.com/company/coratia-technologies-pvt-ltd/,Inspection & Field Robotics,Rourkela,HQ,11-50,Underwater robots and marine inspection services
-135,Robotics,Simpliforge Creations,https://simpliforge.com/,https://www.linkedin.com/company/simpliforge/,Construction Robotics,Siddipet,HQ,11-50,Robotic concrete 3D printing for construction
-136,Robotics,Freeman Robots,http://www.freemanrobots.com,https://www.linkedin.com/company/freeman-robots/,Agri Robotics,Thiruvananthapuram,HQ,11-50,Gardro AI gardening and farm robots
-137,Robotics,Genrobotics,https://genrobotics.com/,https://www.linkedin.com/company/genrobotics/,Service & Delivery Robots,Thiruvananthapuram,HQ,201-500,Bandicoot manhole and sewer-cleaning robots
-138,Robotics,Estro Tech Robotics,https://www.estrotech.in/,https://www.linkedin.com/company/estro-tech-robotics/,Service & Delivery Robots,Thrissur,HQ,11-50,RobAd in-store retail marketing robot
-139,Robotics,HANBEE,https://hanbee.in/,https://www.linkedin.com/company/hanbee-india/,Service & Delivery Robots,Tirukalukunram,HQ,11-50,Service robots and robotics education
-140,Robotics,RobotVerse,https://www.robotverse.in/,https://www.linkedin.com/company/robotverse/,Industrial Automation,Villupuram,HQ,51-200,"Online marketplace for industrial robots, parts and services"
-141,Robotics,BotForge Robotics,https://botforge.in/,https://www.linkedin.com/company/botforge/,Inspection & Field Robotics,Anakapalli,HQ,2-10,ROS 2 mobile-robot platforms for education and research
-142,Suppliers (Tier 2-3),Qualitas Technologies,https://qualitastech.com/,https://www.linkedin.com/company/qualitastech/,Tier 2,Bengaluru,HQ,11-50,AI machine-vision inspection systems for manufacturing
-143,Suppliers (Tier 2-3),Sapien Robotics,https://sapienrobotics.ai/,https://www.linkedin.com/company/sapien-robotics/,Tier 2,Bengaluru,HQ,2-10,Industrial AI and vision for manufacturing automation
-144,Suppliers (Tier 2-3),Twara Robotics,https://twararobotics.in/,https://www.linkedin.com/company/twara-robotics/,Tier 2,Bengaluru,HQ,11-50,"Robotic arms, actuators, AMRs and soft grippers"
-145,Suppliers (Tier 2-3),Vimag Labs,https://vi-mag.com/,https://www.linkedin.com/company/vimag-labs/,Tier 2,Bengaluru,HQ,11-50,Magnet-free electric motors for robotics and mobility
-146,Suppliers (Tier 2-3),DreamVu,https://www.dreamvu.ai/,https://www.linkedin.com/company/dreamvu/,Tier 2,"Philadelphia, USA",HQ,11-50,360-degree 3D vision systems for robots
-147,Suppliers (Tier 2-3),Eternal Robotics,https://eternalrobotics.com/,https://www.linkedin.com/company/eternal-robotics/,Tier 2,Hyderabad,HQ,51-200,Computer-vision AI for manufacturing quality
-148,Suppliers (Tier 2-3),Rotatum Mechatronics,https://rotatummechatronics.com/,https://www.linkedin.com/company/rotatum-mechatronics-pvt-ltd/,Tier 2,Hyderabad,HQ,2-10,Precision actuators and motion-control components for robots
-149,Suppliers (Tier 2-3),Amess Controls,https://www.acpl-india.in/,https://www.linkedin.com/company/amess-controls-pvt-ltd/,Tier 2,Ahmedabad,HQ,51-200,"DC and servo drives, CNC controllers"
-150,Suppliers (Tier 2-3),H.P. Automation,https://www.hpautomation.in/,https://www.linkedin.com/company/h-p-automation-and-controls-pvt-ltd/,Tier 2,Ahmedabad,HQ,51-200,"Servo drives, VFDs and PLC-based automation"
-151,Suppliers (Tier 2-3),Bharat Bijlee,https://www.bharatbijlee.com/,https://www.linkedin.com/company/bharat-bijlee-ltd/,Tier 3,Mumbai,HQ,"1,001-5,000","Electric motors, drives and industrial automation systems"
-152,Suppliers (Tier 2-3),MumbaiSemi,https://mumbaisemi.com/,https://www.linkedin.com/company/mumbaisemi/,Tier 3,Mumbai,HQ,2-10,NavIC/GPS navigation receiver chips
-153,Suppliers (Tier 2-3),Aeron Systems,https://www.aeronsystems.com/,https://www.linkedin.com/company/aeron-systems-pvt-ltd-/,Tier 2,Pune,HQ,51-200,Inertial navigation systems for drones and defence
-154,Suppliers (Tier 2-3),Messung Systems,https://messung.com/,https://www.linkedin.com/company/messung-group-of-companies/,Tier 2,Pune,HQ,201-500,PLCs and industrial automation products
-155,Suppliers (Tier 2-3),Quintrans,https://quintrans.tech/,https://www.linkedin.com/company/quintrans/,Tier 2,Pune,HQ,11-50,Precision linear actuators and motion stages
-156,Suppliers (Tier 2-3),Autman Robotics,https://aut-man.com/,https://www.linkedin.com/company/autman-robotics/,Tier 2,"Birmingham, UK",HQ,11-50,Tactile sensing and adaptive grippers for manufacturing robots
-157,Suppliers (Tier 2-3),e-con Systems,https://www.e-consystems.com/,https://www.linkedin.com/company/e-con-systems/,Tier 2,"Fremont, USA",HQ,"501-1,000",Embedded vision cameras for robots and AMRs
-158,Suppliers (Tier 2-3),The Propulsion Company,https://viridianingnipropulsion.com/,https://www.linkedin.com/company/viridian-ingni-propulsion/,Tier 2,Chennai,HQ,2-10,"Motors and propulsion for EVs, drones and robots"
-159,Suppliers (Tier 2-3),Torus Motion (formerly Torus Robotics),https://torusmotion.com/,https://www.linkedin.com/company/torus-robotics/,Tier 2,Chennai,HQ,11-50,Axial-flux electric motors for mobility and robotics
-160,Suppliers (Tier 2-3),Welkinrim Technologies,https://welkinrim.com/,https://www.linkedin.com/company/welkinrimtechnologies/,Tier 2,Chennai,HQ,11-50,"Motors, drives and propulsion for UAVs and robots"
-161,Suppliers (Tier 2-3),XYMA Analytics,https://xyma.in/,https://www.linkedin.com/company/xyma-analytics/,Tier 3,Chennai,HQ,51-200,Ultrasonic waveguide sensors for industrial process monitoring
-162,Suppliers (Tier 2-3),Nawe Robotics (NMotion),https://nmotion.in/,https://www.linkedin.com/company/nawe-robotics/,Tier 2,Kozhikode,HQ,2-10,Motion-control modules and robotics building blocks
-163,Suppliers (Tier 2-3),Manav Robotics,https://manav.co/,https://www.linkedin.com/company/manav-robotics/,Tier 2,,HQ,11-50,Touch-sensing robotic hands for industry
-164,Aerospace & Space,Aadyah Aerospace,https://www.aadyah.com/,,Satellites & Space Systems,Bengaluru,HQ,,Space technology and aerospace systems
-165,Aerospace & Space,Alpha Design Technologies,https://www.adtl.co.in/,https://www.linkedin.com/company/alpha-design-technologies/,Defence Aerospace,Bengaluru,HQ,"501-1,000","Defence electronics, avionics and space systems"
-166,Aerospace & Space,Ananth Technologies,https://ananthtech.com/,https://www.linkedin.com/company/ananth-technologies/,Aerospace Manufacturing,Bengaluru,HQ,"501-1,000",Spacecraft and aerospace systems manufacturing
-167,Aerospace & Space,Ankit Aerospace,,https://www.linkedin.com/company/ankit-aerospace-pvt-ltd/,Aerospace Manufacturing,Bengaluru,HQ,51-200,Aerospace precision components
-168,Aerospace & Space,Astrobase Space Technologies,https://www.astrobase.in/,https://www.linkedin.com/company/astrobase-space-technologies/,Launch & Propulsion,Bengaluru,HQ,51-200,Reusable rockets powered by an in-house staged-combustion engine
-169,Aerospace & Space,Astrogate Labs,http://astrogatelabs.com/,https://www.linkedin.com/company/astrogate-labs/,Satellites & Space Systems,Bengaluru,HQ,11-50,Optical communication terminals for satellites
-170,Aerospace & Space,Bellatrix Aerospace,https://bellatrix.aero/,https://www.linkedin.com/company/bellatrix-aerospace/,Launch & Propulsion,Bengaluru,HQ,51-200,Satellite propulsion and orbital transfer vehicles
-171,Aerospace & Space,Dheya Engineering Technologies,https://www.dheyatech.com/,https://www.linkedin.com/company/dheyatech/,Aerospace Systems & Platforms,Bengaluru,HQ,11-50,Micro turbojet engines and turbomachinery
-172,Aerospace & Space,Digantara,https://www.digantara.co.in/,https://www.linkedin.com/company/digantara/,Satellites & Earth Observation,Bengaluru,HQ,51-200,Space surveillance satellites and space intelligence
-173,Aerospace & Space,Dynamatic Technologies,https://www.dynamatics.com/,https://www.linkedin.com/company/dynamatic-technologies-limited/,Aerospace Manufacturing,Bengaluru,HQ,"1,001-5,000","Aerostructures, hydraulics and precision engineering"
-174,Aerospace & Space,EtherealX,http://www.etherealx.space/,https://www.linkedin.com/company/etherealexplorationguild/,Launch & Propulsion,Bengaluru,HQ,51-200,Reusable medium-lift launch vehicles
-175,Aerospace & Space,GalaxEye Space,https://galaxeye.space/,https://www.linkedin.com/company/galaxeye/,Satellites & Earth Observation,Bengaluru,HQ,51-200,Multi-sensor SAR and optical earth-observation satellites
-176,Aerospace & Space,Grahaa Space,https://grahaa.space/,https://www.linkedin.com/company/grahaaspace/,Satellites & Earth Observation,Bengaluru,HQ,2-10,Satellites for near real-time geospatial video
-177,Aerospace & Space,KaleidEO Space Systems,https://kaleideo.co/,https://www.linkedin.com/company/kaleideo-space/,Satellites & Earth Observation,Bengaluru,HQ,2-10,Earth-observation satellite payloads
-178,Aerospace & Space,Nabhdrishti Aerospace,https://nabhdrishti.in/,https://www.linkedin.com/company/nabhdrishti-aerospace/,Aerospace Systems & Platforms,Bengaluru,HQ,11-50,Micro gas turbines for aerial vehicles and power
-179,Aerospace & Space,Othisis Systems,https://othisissystems.com/,https://www.linkedin.com/company/othisissystems/,Launch & Propulsion,Bengaluru,HQ,11-50,Reusable rockets and methane rocket engines
-180,Aerospace & Space,OXG Space,https://www.oxgspace.com/,https://www.linkedin.com/company/oxgspace/,Satellites & Space Systems,Bengaluru,HQ,2-10,In-orbit computing and satellite connectivity network
-181,Aerospace & Space,Pixxel,https://www.pixxel.space/,https://www.linkedin.com/company/pixxelspace/,Satellites & Earth Observation,Bengaluru,HQ,201-500,Hyperspectral earth-imaging satellites
-182,Aerospace & Space,Pramatra Space,https://pramatra.space/,https://www.linkedin.com/company/pramatra-space/,Satellites & Space Systems,Bengaluru,HQ,2-10,Space-based quantum key distribution
-183,Aerospace & Space,Qosmic,https://qosmic.space/,https://www.linkedin.com/company/qosmicspace/,Satellites & Space Systems,Bengaluru,HQ,2-10,Optical ground-station infrastructure for satellites
-184,Aerospace & Space,Rangsons Aerospace,https://rangsons.com/,https://www.linkedin.com/company/rangsons/,Defence Aerospace,Bengaluru,HQ,51-200,Aerospace and defence components and systems
-185,Aerospace & Space,Sarla Aviation,https://sarla-aviation.com/,https://www.linkedin.com/company/sarla-aviation/,Aircraft & eVTOL,Bengaluru,HQ,51-200,Electric VTOL aircraft for urban mobility
-186,Aerospace & Space,Satlabs Space Systems,https://satlabs.space/,https://www.linkedin.com/company/satlabs-space/,Satellites & Space Systems,Bengaluru,HQ,2-10,Real-time satellite commanding via data-relay network
-187,Aerospace & Space,SkyServe,https://skyserve.ai/,https://www.linkedin.com/company/skyserve-ai/,Satellites & Earth Observation,Bengaluru,HQ,11-50,Onboard AI computing for earth-observation satellites
-188,Aerospace & Space,SpaceFields,https://spacefields.in/,https://www.linkedin.com/company/spacefields/,Launch & Propulsion,Bengaluru,HQ,51-200,"Solid propulsion for rockets, drones and defence"
-189,Aerospace & Space,VyomIC,https://vyomic.space/,https://www.linkedin.com/company/vyomic/,Satellites & Space Systems,Bengaluru,HQ,11-50,Satellite navigation and timing systems
-190,Aerospace & Space,Wipro Aerospace,https://wiproaerospace.com/,https://www.linkedin.com/company/wipro-aerospace/,Aerospace Manufacturing,Bengaluru,HQ,51-200,Aerospace components and assemblies
-191,Aerospace & Space,Xovian Aerospace,http://www.xovian.co.in/,https://www.linkedin.com/company/xovian/,Satellites & Space Systems,Bengaluru,HQ,11-50,Satellite and space hardware startup
-192,Aerospace & Space,Azista Aerospace,https://www.azistaaerospace.com/,https://www.linkedin.com/company/azista-aerospace/,Satellites & Space Systems,Hyderabad,HQ,201-500,Satellites and aerospace systems
-193,Aerospace & Space,BluJ Aerospace,https://blujaero.com/,https://www.linkedin.com/company/bluj-aerospace-private-limited/,Aircraft & eVTOL,Hyderabad,HQ,11-50,Hydrogen-electric VTOL aircraft for cargo and passengers
-194,Aerospace & Space,Dhruva Space,https://www.dhruvaspace.com/,https://www.linkedin.com/company/dhruva-space/,Satellites & Space Systems,Hyderabad,HQ,51-200,"Satellite platforms, deployers and ground stations"
-195,Aerospace & Space,EON Space Labs,https://www.eonspacelabs.com/,https://www.linkedin.com/company/eonspacelabs/,Satellites & Earth Observation,Hyderabad,HQ,2-10,EO/IR payloads for satellites and drones
-196,Aerospace & Space,Jeh Aerospace,https://jehaerospace.com/,,Aerospace Manufacturing,Hyderabad,HQ,,Software-defined precision aerospace manufacturing
-197,Aerospace & Space,MTAR Technologies,https://mtar.in/,https://www.linkedin.com/company/mtar-technologies-ltd/,Aerospace Manufacturing,Hyderabad,HQ,"1,001-5,000","Precision-engineered systems for space, nuclear and defence"
-198,Aerospace & Space,Onnes Aerospace,https://onnesaerospace.com/,https://www.linkedin.com/company/onnesaerospace/,Aerospace Manufacturing,Hyderabad,HQ,11-50,Composite cryogenic tanks for space vehicles
-199,Aerospace & Space,Raghu Vamsi Aerospace Group,https://raghuvamsi.com/,https://www.linkedin.com/company/raghu-vamsi-group/,Aerospace Manufacturing,Hyderabad,HQ,201-500,Aerospace precision components
-200,Aerospace & Space,Sanyark Space,https://sanyark.com/,https://www.linkedin.com/company/sanyarkspace/,Satellites & Space Systems,Hyderabad,HQ,11-50,Fused PNT and 5G NTN satellite communications
-201,Aerospace & Space,Skyroot Aerospace,https://www.skyroot.in/,https://www.linkedin.com/company/skyroot-aerospace/,Launch & Propulsion,Hyderabad,HQ,"501-1,000",Vikram small-satellite launch vehicles
-202,Aerospace & Space,TakeMe2Space,https://tm2.space/,https://www.linkedin.com/company/tm2space/,Satellites & Space Systems,Hyderabad,HQ,11-50,AI compute satellites and in-orbit data services
-203,Aerospace & Space,Tata Advanced Systems,https://www.tataadvancedsystems.com/,https://www.linkedin.com/company/tataadvanced/,Defence Aerospace,Hyderabad,HQ,"5,001-10,000","Aerospace, defence platforms and UAVs (Tata Group)"
-204,Aerospace & Space,Telos Aerospace,https://telosaero.com/,https://www.linkedin.com/company/telos-aerosapace/,Aerospace Manufacturing,Hyderabad,HQ,51-200,"Aerospace engineering, manufacturing and MRO"
-205,Aerospace & Space,XDLINX Space Labs,https://xdlinx.space/,https://www.linkedin.com/company/xdlinx-labs/,Satellites & Space Systems,Hyderabad,HQ,51-200,Small satellites and satellite subsystems
-206,Aerospace & Space,Adani Defence & Aerospace,https://adanidefence.com/,https://www.linkedin.com/company/adani-defence-and-aerospace/,Defence Aerospace,Ahmedabad,HQ,"1,001-5,000","Defence and aerospace manufacturing, including drones"
-207,Aerospace & Space,Catalyx Space,https://www.catalyx.space/,https://www.linkedin.com/company/catalyxspace/,Satellites & Space Systems,"San Francisco, USA",HQ,11-50,Satellite buses and re-entry capsules
-208,Aerospace & Space,Cligent Aerospace,https://www.cligent.com/,https://www.linkedin.com/company/cligent-aerospace/,Aircraft & eVTOL,Ahmedabad,HQ,11-50,Hybrid-electric short-takeoff regional aircraft
-209,Aerospace & Space,Omspace Rocket & Exploration,https://omspacerocket.com/,https://www.linkedin.com/company/omspace/,Launch & Propulsion,Ahmedabad,HQ,11-50,Reusable launch vehicles
-210,Aerospace & Space,Orbitt Space,https://orbitt.space/,https://www.linkedin.com/company/orbitt-space/,Launch & Propulsion,Ahmedabad,HQ,11-50,Green satellite propulsion systems
-211,Aerospace & Space,PierSight,https://piersight.space/,https://www.linkedin.com/company/piersight-space/,Satellites & Earth Observation,Ahmedabad,HQ,51-200,SAR satellites for maritime monitoring
-212,Aerospace & Space,SatLeo Labs,https://www.satleolabs.com/,https://www.linkedin.com/company/satleo-labs/,Satellites & Earth Observation,Ahmedabad,HQ,11-50,Thermal-infrared earth-observation satellites
-213,Aerospace & Space,SpectraGaze Systems,https://www.spectragaze.com/,https://www.linkedin.com/company/spectragaze/,Satellites & Earth Observation,Ahmedabad,HQ,11-50,Electro-optical systems for space missions
-214,Aerospace & Space,Manastu Space,https://manastuspace.com/,https://www.linkedin.com/company/manastu-space/,Launch & Propulsion,Mumbai,HQ,51-200,Green propulsion for satellites
-215,Aerospace & Space,Paras Defence and Space Technologies,https://parasdefence.com/,https://www.linkedin.com/company/paras-defence/,Defence Aerospace,Navi Mumbai,HQ,"501-1,000","Defence optronics, drones and anti-drone systems"
-216,Aerospace & Space,Astrophel Aerospace,https://astrophelaerospace.in/,https://www.linkedin.com/company/astrophel-aerospace/,Launch & Propulsion,Pune,HQ,11-50,Semi-cryogenic engines and reusable launch vehicles
-217,Aerospace & Space,BAAS Technologies,https://baas.co.in/,https://www.linkedin.com/company/baastechnologies/,Launch & Propulsion,Pune,HQ,11-50,End-to-end rocket company
-218,Aerospace & Space,Thrustworks Dynetics,http://thrustworksdynetics.in/,https://www.linkedin.com/company/thrustworks-dynetics/,Launch & Propulsion,Pune,HQ,11-50,Rocket and propulsion engineering
-219,Aerospace & Space,LAT Aerospace,https://lataerospace.com/,https://www.linkedin.com/company/lataerospace/,Aircraft & eVTOL,Gurugram,HQ,11-50,Regional aircraft development
-220,Aerospace & Space,Kawa Space,https://www.kawaspace.com/,https://www.linkedin.com/company/kawaspace/,Satellites & Earth Observation,Delhi,HQ,11-50,Earth-observation satellites
-221,Aerospace & Space,Dream Aerospace,https://dreamaerospace.in/,https://www.linkedin.com/company/dream-aerospace/,Launch & Propulsion,Kanpur,HQ,11-50,Propulsion systems for aerospace
-222,Aerospace & Space,Kalam Labs,https://kalamlabs.in/,https://www.linkedin.com/company/kalamlabs/,Aerospace Systems & Platforms,Lucknow,HQ,2-10,Stratospheric aerial systems
-223,Aerospace & Space,PTC Industries,https://www.ptcil.com/,https://www.linkedin.com/company/ptc-industries-limited/,Defence Aerospace,Lucknow,HQ,"501-1,000",Precision castings and titanium parts for aerospace and defence
-224,Aerospace & Space,Agnikul Cosmos,https://agnikul.in/,https://www.linkedin.com/company/agnikul-cosmos/,Launch & Propulsion,Chennai,HQ,51-200,3D-printed rocket engines and small launch vehicles
-225,Aerospace & Space,Hathor Rockets,https://www.hathor.space/,https://www.linkedin.com/company/hathor-rockets/,Launch & Propulsion,Chennai,HQ,2-10,Rocket propulsion systems
-226,Aerospace & Space,The ePlane Company,https://www.eplane.ai/,https://www.linkedin.com/company/the-eplane-company/,Aircraft & eVTOL,Chennai,HQ,201-500,Electric VTOL aircraft
-227,Aerospace & Space,Vinata Aeromobility,https://vinata.co.in/,https://www.linkedin.com/company/vinata-aeromobility/,Aircraft & eVTOL,Chennai,HQ,2-10,Hybrid flying cars and personal VTOLs
-228,Aerospace & Space,Sisir Radar,https://sisirradar.com/,https://www.linkedin.com/company/sisir-radar/,Defence Aerospace,Kolkata,HQ,51-200,"Radar systems for aircraft, drones and satellites"
-229,Aerospace & Space,N Space Tech,https://www.nspacetech.in/,https://www.linkedin.com/company/nspacetech/,Satellites & Space Systems,Tenali,HQ,11-50,CubeSats and satellite communication systems
-230,Aerospace & Space,Hex20,https://hex20.space/,https://www.linkedin.com/company/hex20/,Satellites & Space Systems,Thiruvananthapuram,HQ,51-200,Small satellites and space hardware
-231,Aerospace & Space,Red Balloon Aerospace,https://www.red-balloon.space/,https://www.linkedin.com/company/redballoon-aerospace/,Aerospace Systems & Platforms,Vijayawada,HQ,11-50,"Stratospheric airships, balloons and aerostats"
-232,Aerospace & Space,ULOOK,https://ulook.space/,,Satellites & Earth Observation,,HQ,,RF-sensing satellite constellation
-233,Drones & UAVs,Aarav Unmanned Systems,https://aaravdrones.com/,,Industrial & Mapping Drones,Bengaluru,HQ,,Drones for mapping and surveying
-234,Drones & UAVs,Agam Robotics,https://agamrobotics.com/,https://www.linkedin.com/company/agamrobotics/,Drone Components & Payloads,Bengaluru,HQ,2-10,"Flight controllers, GPS modules and sensors"
-235,Drones & UAVs,Airbound,https://www.airbound.com/,https://www.linkedin.com/company/airbound-co/,Delivery & Logistics Drones,Bengaluru,HQ,51-200,Autonomous delivery drones
-236,Drones & UAVs,AlgoFET,https://algofet.com/,https://www.linkedin.com/company/algofet/,Drone Software & Services,Bengaluru,HQ,11-50,Autonomous drone docking and charging stations
-237,Drones & UAVs,Alteon,https://www.alteonenergy.co/,https://www.linkedin.com/company/alteonaerospace/,Industrial & Mapping Drones,Bengaluru,HQ,11-50,Autonomous long-endurance fixed-wing aircraft
-238,Drones & UAVs,Arctus Aerospace,https://arctusaerospace.com/,https://www.linkedin.com/company/arctusaerospace/,Industrial & Mapping Drones,Bengaluru,HQ,2-10,High-altitude UAVs for earth observation
-239,Drones & UAVs,Asteria Aerospace,https://www.asteria.co.in/,https://www.linkedin.com/company/asteria-aerospace/,Defence Drones,Bengaluru,HQ,201-500,Defence and mapping drones
-240,Drones & UAVs,Edall Systems,https://edallsystems.com/,https://www.linkedin.com/company/edall-systems/,Defence Drones,Bengaluru,HQ,51-200,Industrial and defence drones
-241,Drones & UAVs,General Aeronautics,https://generalaeronautics.com/,https://www.linkedin.com/company/general-aeronautics-pvt-ltd/,Agri Drones,Bengaluru,HQ,51-200,Agricultural spraying drones
-242,Drones & UAVs,Kadet Defence Systems,http://www.kadet-uav.com/,https://www.linkedin.com/company/kadet-defence-systems/,Defence Drones,Bengaluru,HQ,11-50,Aerial target drones and UAVs for defence
-243,Drones & UAVs,NeoSky India,https://www.neosky.co.in/,https://www.linkedin.com/company/neosky-india-limited/,Drone Software & Services,Bengaluru,HQ,51-200,Drones and drone services (RattanIndia subsidiary)
-244,Drones & UAVs,NewSpace Research and Technologies,https://newspace.co.in/,https://www.linkedin.com/company/newspacert/,Defence Drones,Bengaluru,HQ,"501-1,000","Defence UAVs, swarms and high-altitude platforms"
-245,Drones & UAVs,Okulo Aerospace,https://www.okuloaerospace.com/,https://www.linkedin.com/company/okuloaerospace/,Industrial & Mapping Drones,Bengaluru,HQ,11-50,Drones and aviation components
-246,Drones & UAVs,Paar Autonomy,https://paar-autonomy.com/,https://www.linkedin.com/company/paar-autonomy/,Drone Components & Payloads,Bengaluru,HQ,11-50,Camera payloads and GPS-free navigation for drones
-247,Drones & UAVs,Redwing Labs,https://www.redwinglabs.in/,https://www.linkedin.com/company/redwinglabs/,Delivery & Logistics Drones,Bengaluru,HQ,11-50,Autonomous drone logistics
-248,Drones & UAVs,Scandron,https://scandron.in/,https://www.linkedin.com/company/scandron/,Defence Drones,Bengaluru,HQ,51-200,Industrial and defence drones
-249,Drones & UAVs,Skylark Drones,https://skylarkdrones.com/,https://www.linkedin.com/company/skylark-drones/,Drone Software & Services,Bengaluru,HQ,51-200,Drone data analytics and fleet-operations software
-250,Drones & UAVs,SUIND,https://suind.com/,https://www.linkedin.com/company/suind/,Industrial & Mapping Drones,Bengaluru,HQ,11-50,Autonomous drones and aerial intelligence
-251,Drones & UAVs,Throttle Aerospace Systems,http://throttle.aero/,https://www.linkedin.com/company/throttle-aerospace-systems/,Defence Drones,Bengaluru,HQ,51-200,"Mapping, surveillance and defence drones"
-252,Drones & UAVs,Tsalla Aerospace,https://www.tsallaaerospace.com/,https://www.linkedin.com/company/tsallaaerospace/,Defence Drones,Bengaluru,HQ,2-10,Unmanned systems and AI for defence
-253,Drones & UAVs,Unmannd,https://www.unmannd.com/,https://www.linkedin.com/company/unmannd-autonomy/,Defence Drones,Bengaluru,HQ,11-50,Autonomous logistics drones and counter-UAS interceptors
-254,Drones & UAVs,Vecros Technologies,https://vecros.com/,https://www.linkedin.com/company/vecros/,Industrial & Mapping Drones,Bengaluru,HQ,11-50,Autonomous drones with GPS-denied navigation
-255,Drones & UAVs,ZMotion Autonomous Systems,https://www.zmotion.in/,https://www.linkedin.com/company/zmotion-autonomous-systems/,Defence Drones,Bengaluru,HQ,11-50,Loitering munitions and armed UAVs
-256,Drones & UAVs,AKSI Aerospace Group,https://aksiaerospace.group/,https://www.linkedin.com/company/aksi-aerospace/,Industrial & Mapping Drones,Hyderabad,HQ,51-200,Drones and aerospace subsystems
-257,Drones & UAVs,Beijan,https://beijan.com/,https://www.linkedin.com/company/beijan/,Drone Components & Payloads,Hyderabad,HQ,2-10,GPS-denied navigation and autonomy modules for defence UAVs
-258,Drones & UAVs,Drogo Drones,https://drogodrones.com/,https://www.linkedin.com/company/drogo-drones/,Drone Software & Services,Hyderabad,HQ,201-500,Drone manufacturer and drone services
-259,Drones & UAVs,Marut Drones,https://marutdrones.com/,https://www.linkedin.com/company/marutdrones/,Agri Drones,Hyderabad,HQ,51-200,Agricultural spraying and seeding drones
-260,Drones & UAVs,Thanos Technologies,https://thanos.in/,https://www.linkedin.com/company/thanostechnologies/,Agri Drones,Hyderabad,HQ,11-50,Agricultural spraying drones
-261,Drones & UAVs,Vyomik Drones,https://vyomikdrones.com/,https://www.linkedin.com/company/vyomik-drones/,Agri Drones,Hyderabad,HQ,51-200,Drones for agriculture and infrastructure
-262,Drones & UAVs,Zebu Intelligent Systems,https://zebu.ai/,https://www.linkedin.com/company/zebu-intelligent-systems/,Drone Software & Services,Hyderabad,HQ,11-50,Collaborative autonomy for drones and robots
-263,Drones & UAVs,ideaForge,https://ideaforgetech.com/,https://www.linkedin.com/company/ideaforge/,Defence Drones,Navi Mumbai,HQ,"501-1,000",Defence and industrial drones
-264,Drones & UAVs,Drona Aviation,https://dronaaviation.com/,https://www.linkedin.com/company/drona-aviation-pvt-ltd-/,Industrial & Mapping Drones,Thane,HQ,11-50,Programmable educational drones
-265,Drones & UAVs,Aethrone Aerospace,https://www.aethroneaerospace.com/,https://www.linkedin.com/company/aethrone-aerospace/,Industrial & Mapping Drones,Pune,HQ,51-200,Drones and unmanned aerial systems
-266,Drones & UAVs,Artemon Aerospace,https://artemonaerospace.com/,https://www.linkedin.com/company/artemon-aerospace/,Defence Drones,Pune,HQ,11-50,UAVs and loitering munitions
-267,Drones & UAVs,Ayaan Autonomous Systems,https://ayaan.ai/,https://www.linkedin.com/company/ayaan-autonomous-systems/,Industrial & Mapping Drones,Pune,HQ,11-50,UAV and drone manufacturer
-268,Drones & UAVs,Defendron Technologies,https://defendrontech.com/,https://www.linkedin.com/company/defendron-technologies/,Drone Components & Payloads,Pune,HQ,2-10,Lightweight EO/IR gimbal payloads for drones
-269,Drones & UAVs,DroneAcharya Aerial Innovations,https://droneacharya.com/,https://www.linkedin.com/company/droneacharya/,Drone Software & Services,Pune,HQ,51-200,"Drones, drone services and pilot training"
-270,Drones & UAVs,FlytBase,https://flytbase.com/,https://www.linkedin.com/company/flytbase/,Drone Software & Services,"San Jose, USA",HQ,51-200,Autonomy software platform for docked drone fleets
-271,Drones & UAVs,DroneVerse,https://droneverse.in/,https://www.linkedin.com/company/droneverseindia/,Defence Drones,Gurugram,HQ,51-200,FPV drones and drone training for defence
-272,Drones & UAVs,IoTechWorld Avigation,https://iotechworld.com/,https://www.linkedin.com/company/iotechworld/,Agri Drones,Gurugram,HQ,201-500,Agricultural drones
-273,Drones & UAVs,Skye Air Mobility,https://skyeair.tech/,https://www.linkedin.com/company/skye-air-mobility/,Delivery & Logistics Drones,Gurugram,HQ,51-200,Drone delivery network for last-mile logistics
-274,Drones & UAVs,TechEagle,https://www.techeagle.in/,https://www.linkedin.com/company/techeagle/,Delivery & Logistics Drones,Gurugram,HQ,51-200,Autonomous BVLOS drones for logistics
-275,Drones & UAVs,BharatRohan,https://bharatrohan.in/,https://www.linkedin.com/company/bharatrohan/,Agri Drones,Delhi,HQ,2-10,Drone-based hyperspectral crop monitoring
-276,Drones & UAVs,OM UAV Systems,https://omuavsystems.com/,https://www.linkedin.com/company/om-uav-systems/,Defence Drones,Delhi,HQ,11-50,"Surveillance, defence, agricultural and mapping drones"
-277,Drones & UAVs,Zerodrag,https://zerodrag.in/,https://www.linkedin.com/company/zerodrag/,Drone Components & Payloads,Delhi,HQ,2-10,"FPV drone flight controllers, ESCs and radios"
-278,Drones & UAVs,BotLab Dynamics,https://www.botlabdynamics.com/,https://www.linkedin.com/company/botlab-dynamics/,Defence Drones,New Delhi,HQ,51-200,Drone swarms and drone light shows
-279,Drones & UAVs,TSAW Drones,https://www.tsaw.tech/,https://www.linkedin.com/company/tsaw-drones/,Delivery & Logistics Drones,New Delhi,HQ,2-10,"Drone autonomy, fleet software and drone logistics"
-280,Drones & UAVs,EndureAir Systems,https://endureair.com/,https://www.linkedin.com/company/endureair/,Defence Drones,Noida,HQ,51-200,Heavy-payload logistics and defence UAVs
-281,Drones & UAVs,IG Defence,https://igdefence.com/,https://www.linkedin.com/company/igdefence/,Defence Drones,Noida,HQ,201-500,Defence unmanned systems
-282,Drones & UAVs,Indian Robotics Solution,https://indianrobotics.in/,https://www.linkedin.com/company/indian-robotics-solution/,Defence Drones,Noida,HQ,11-50,Drones and robotics for defence and industry
-283,Drones & UAVs,Johnnette Technologies,https://johnnette.com/,https://www.linkedin.com/company/johnnette-technologies/,Defence Drones,Noida,HQ,51-200,Defence drones and anti-drone systems
-284,Drones & UAVs,Omnipresent Robot Tech,https://www.omnipresenttech.com/,https://www.linkedin.com/company/omnipresent-robot-tech/,Industrial & Mapping Drones,Noida,HQ,11-50,"Drones, GPS-denied navigation and space robotics"
-285,Drones & UAVs,Raphe mPhibr,https://www.raphe.com/,https://www.linkedin.com/company/raphe-mphibr/,Defence Drones,Noida,HQ,"501-1,000",Defence and logistics drones and aerospace systems
-286,Drones & UAVs,InsideFPV,http://www.insidefpv.com/,https://www.linkedin.com/company/inside-fpv/,Defence Drones,Surat,HQ,51-200,FPV combat drones for the armed forces
-287,Drones & UAVs,BonV Aero,https://bonvaero.com/,https://www.linkedin.com/company/bonv-technology-pvt-ltd/,Delivery & Logistics Drones,Bhubaneswar,HQ,51-200,Cargo drones for logistics
-288,Drones & UAVs,Amber Wings,https://www.amberwings.co/,https://www.linkedin.com/company/amber-wings-co/,Delivery & Logistics Drones,Chennai,HQ,51-200,Autonomous cargo and heavy-lift drones
-289,Drones & UAVs,AvironiX,https://avironix.com/,https://www.linkedin.com/company/avironix-private-limited/,Agri Drones,Chennai,HQ,11-50,Agricultural spray drones
-290,Drones & UAVs,Dhaksha Unmanned Systems,https://dhaksha.com/,,Defence Drones,Chennai,HQ,,"Agricultural, defence and surveillance drones"
-291,Drones & UAVs,Garuda Aerospace,https://www.garudaaerospace.com/,https://www.linkedin.com/company/garuda-aerospace-private-limited/,Defence Drones,Chennai,HQ,201-500,"Multi-role drones for agriculture, defence and relief"
-292,Drones & UAVs,Spaceborn,https://www.spaceborn.in/,https://www.linkedin.com/company/spaceborn-future/,Drone Software & Services,Chennai,HQ,51-200,Simulation-first autonomy software for drones
-293,Drones & UAVs,Zuppa Geo Navigation,https://zuppa.io/,,Drone Components & Payloads,Chennai,HQ,,Drone autopilots and navigation systems
-294,Drones & UAVs,Fuselage Innovations,https://fuselage.co.in/,https://www.linkedin.com/company/fuselageinnovations/,Agri Drones,Kochi,HQ,11-50,Agricultural drones for crop mapping and spraying
-295,Drones & UAVs,Yali Aerospace,https://www.yaliaero.com/,https://www.linkedin.com/company/yaliaerospace/,Delivery & Logistics Drones,Thanjavur,HQ,51-200,Medical-logistics and surveillance drones
-296,AV & Adjacent,Ace Micromatic Group,https://www.acemicromatic.net/,https://www.linkedin.com/company/ace-micromatic-group/,Machine Tools & Advanced Manufacturing,Bengaluru,HQ,,CNC machine tools and manufacturing automation
-297,AV & Adjacent,AutoMind Dynamics,https://automindynamics.com/,https://www.linkedin.com/company/automindynamics/,Autonomous Vehicles & AV Software,Bengaluru,HQ,11-50,Autonomy software and retrofit kits for ground vehicles
-298,AV & Adjacent,Bharat Fritz Werner (BFW),https://bfwindia.com/,https://www.linkedin.com/company/bfw/,Machine Tools & Advanced Manufacturing,Bengaluru,HQ,"1,001-5,000",CNC machining centres and automation
-299,AV & Adjacent,Ethereal Machines,https://etherealmachines.com/,https://www.linkedin.com/company/etherealmachines/,Machine Tools & Advanced Manufacturing,Bengaluru,HQ,51-200,5-axis CNC machines and precision manufacturing
-300,AV & Adjacent,Fabheads Automation,https://fabheads.com/,https://www.linkedin.com/company/fabheads-automation/,Machine Tools & Advanced Manufacturing,Bengaluru,HQ,51-200,Automated carbon-fibre composite manufacturing
-301,AV & Adjacent,Flux Auto,https://fluxauto.ai/,https://www.linkedin.com/company/flux-auto/,Autonomous Vehicles & AV Software,Bengaluru,HQ,51-200,Autonomy retrofit kits for trucks and fleets
-302,AV & Adjacent,Minus Zero,https://minuszero.ai/,https://www.linkedin.com/company/minuszero/,Autonomous Vehicles & AV Software,Bengaluru,HQ,11-50,Full-stack AI for autonomous driving
-303,AV & Adjacent,Mistral Solutions,https://mistralsolutions.com/,https://www.linkedin.com/company/mistral-solutions-pvt.-ltd/,Defence Systems & Autonomy,Bengaluru,HQ,"501-1,000","Defence electronics, UAV and robotics subsystems"
-304,AV & Adjacent,Moonrider,https://moonrider.ai/,https://www.linkedin.com/company/moonrider-ai/,EV & Farm Machinery,Bengaluru,HQ,51-200,Electric tractors and farm machinery
-305,AV & Adjacent,MultiplexEV (formerly Bullwork Mobility),https://bullworkmobility.com/,https://www.linkedin.com/company/multiplexev/,EV & Farm Machinery,Bengaluru,HQ,11-50,Electric tractors and industrial utility vehicles
-306,AV & Adjacent,SensoVision Systems,https://sensoviz.com/,https://www.linkedin.com/company/sensovision-systems/,Automation-adjacent,Bengaluru,HQ,11-50,Optical sorting and visual inspection machines
-307,AV & Adjacent,Tonbo Imaging,https://tonboimaging.com/,https://www.linkedin.com/company/tonbo-imaging/,Defence Systems & Autonomy,Bengaluru,HQ,201-500,Thermal imaging and sensors for defence systems
-308,AV & Adjacent,TrashCon Labs,https://trashcon.in/,https://www.linkedin.com/company/trashcon/,Automation-adjacent,Bengaluru,HQ,51-200,Automated waste segregation and recycling machines
-309,AV & Adjacent,Grene Robotics (Indrajaal),https://grenerobotics.com/,https://www.linkedin.com/company/grene-robotics/,Defence Systems & Autonomy,Hyderabad,HQ,51-200,Autonomous anti-drone defence system
-310,AV & Adjacent,Indrajaal,https://indrajaal.in/,https://www.linkedin.com/company/indrajaalofficial/,Defence Systems & Autonomy,Hyderabad,HQ,51-200,AI-powered autonomous anti-drone defence
-311,AV & Adjacent,Zen Technologies,https://www.zentechnologies.com/,https://www.linkedin.com/company/zen-technologies/,Defence Systems & Autonomy,Hyderabad,HQ,201-500,"Defence simulators, counter-drone systems and robots"
-312,AV & Adjacent,Optimized Electrotech,https://optimizedelectrotech.com/,https://www.linkedin.com/company/optimized-electrotech-pvt-ltd/,Defence Systems & Autonomy,Ahmedabad,HQ,51-200,EO/IR surveillance and tracking systems
-313,AV & Adjacent,Leelavati Automation,https://leelavatiautomation.com/,https://www.linkedin.com/company/leelavatiautomation/,Automation-adjacent,Mumbai,HQ,11-50,Industrial and building automation solutions
-314,AV & Adjacent,Sagar Defence Engineering,https://www.sagardefence.com/,https://www.linkedin.com/company/sagar-defence-engineering/,Defence Systems & Autonomy,Mumbai,HQ,201-500,Unmanned surface vessels and maritime autonomy
-315,AV & Adjacent,Agrograde,https://agrograde.com/,https://www.linkedin.com/company/agrograde/,Automation-adjacent,Pune,HQ,11-50,AI sorting and grading machines for fresh produce
-316,AV & Adjacent,AnG Robotics,https://www.angrobotics.com/,https://www.linkedin.com/company/ang-robotics/,Automation-adjacent,Pune,HQ,2-10,Industrial and home automation systems
-317,AV & Adjacent,Haber,https://haberwater.com/,https://www.linkedin.com/company/haber-tech/,Automation-adjacent,"Naperville, USA",HQ,201-500,AI process control for water and process industries
-318,AV & Adjacent,Kalyani Strategic Systems,,https://www.linkedin.com/company/kalyani-strategic-systems-limited/,Defence Systems & Autonomy,Pune,HQ,,"Artillery, armoured vehicles and loitering munitions (Bharat Forge)"
-319,AV & Adjacent,Siliconia Technologies,https://www.siliconiatech.com/,https://www.linkedin.com/company/siliconia-technologies-private-limited/,Defence Systems & Autonomy,Pune,HQ,11-50,"Radar, SATCOM and unmanned systems"
-320,AV & Adjacent,Swaayatt Robots,https://www.swaayattrobots.com/,https://www.linkedin.com/company/swaayatt-robots/,Autonomous Vehicles & AV Software,Bhopal,HQ,2-10,Autonomous driving for unstructured Indian roads
-321,AV & Adjacent,SLTL Group (Sahajanand Laser Technology),https://sahajanandlaser.com/,https://www.linkedin.com/company/sltlgroup/,Machine Tools & Advanced Manufacturing,Gandhinagar,HQ,"501-1,000","Industrial laser cutting, welding and marking machines"
-322,AV & Adjacent,ScaNxt,https://scanxt.com/,https://www.linkedin.com/company/scanxt/,EV & Farm Machinery,Greater Noida,HQ,11-50,IoT agritech and compact electric tractors
-323,AV & Adjacent,STEMROBO Technologies,https://www.stemrobo.com/,https://www.linkedin.com/company/stemrobo/,Robotics Education,Noida,HQ,201-500,Robotics and AI labs and kits for schools
-324,AV & Adjacent,Jyoti CNC Automation,https://jyoti.co.in/,https://www.linkedin.com/company/jyoticnc/,Machine Tools & Advanced Manufacturing,Rajkot,HQ,"1,001-5,000",CNC machines and machining centres
-325,AV & Adjacent,Meril,https://www.merillife.com/,https://www.linkedin.com/company/meril/,Medical Devices,Vapi,HQ,"10,001+",Medical devices including the MISSO surgical robot
-326,AV & Adjacent,STEPUPIFY,https://stepupify.com/,https://www.linkedin.com/company/stepupify-labs/,EV & Farm Machinery,Bhagalpur,HQ,11-50,Modular battery-powered farm machinery
-327,AV & Adjacent,Big Bang Boom Solutions,https://www.bigbangboom.com/,https://www.linkedin.com/company/big-bang-boom-solutions-private-limited/,Defence Systems & Autonomy,Chennai,HQ,51-200,Deep-tech defence systems
-328,AV & Adjacent,Detect Technologies,https://detecttechnologies.com/,https://www.linkedin.com/company/detect-technologies/,Industrial AI Software,Chennai,HQ,201-500,AI workplace safety with drones and robotic inspection
-329,AV & Adjacent,ThinkMetal,https://www.thinkmetal.in/,https://www.linkedin.com/company/thinkmetal/,Machine Tools & Advanced Manufacturing,Chennai,HQ,11-50,Industrial metal 3D printing systems
-330,AV & Adjacent,RoshAi,https://www.rosh.ai/,https://www.linkedin.com/company/roshartificialintelligence/,Autonomous Vehicles & AV Software,"Delaware, USA",HQ,11-50,Drive-by-wire autonomy kits and robotic test drivers
+41,Robotics,Sirena Technologies,https://sirenatech.com/,,Service & Delivery Robots,"Los Angeles, USA",Bengaluru – engineering (Sirena AI Systems),,"Social, educational and research robots"
+42,Robotics,Strider Robotics,https://strider-robotics.in/,https://www.linkedin.com/company/strider-robotics/,Inspection & Field Robotics,Bengaluru,HQ,11-50,Quadruped robots for industrial inspection
+43,Robotics,Swamikri Labs,https://swamikri.in/,,Agri Robotics,Bengaluru,HQ,,Tractor-mounted robotic weeding and crop-health sensing
+44,Robotics,Systemantics India,https://www.systemantics.com/,https://www.linkedin.com/company/systemantics-india/,Industrial Automation,Bengaluru,HQ,11-50,Lightweight 6-axis cobots made in India
+45,Robotics,Upliance.ai,https://upliance.ai/,https://www.linkedin.com/company/upliance/,Service & Delivery Robots,Bengaluru,HQ,11-50,AI cooking robot for home kitchens
+46,Robotics,Virya Autonomous Technologies,https://www.virya.ai/,https://www.linkedin.com/company/virya-ai/,Warehouse & ASRS,Bengaluru,HQ,51-200,"Autonomous pallet trucks, AMRs and drive-by-wire platforms"
+47,Robotics,XNG Automation Solutions,https://xng.co.in/,https://www.linkedin.com/company/xng-automation-solutions/,Industrial Automation,Bengaluru,HQ,51-200,Factory and intralogistics automation integrator
+48,Robotics,XP Robotics (xPhi),https://xphirobotics.com/,https://www.linkedin.com/company/xp-robotics/,Robotics AI & Software,Bengaluru,HQ,11-50,Physical-world training data and infrastructure for robots
+49,Robotics,xSpecies AI,https://www.xspecies.ai/,https://www.linkedin.com/company/xpeciesai/,Humanoid / General Purpose,Bengaluru,HQ,2-10,Humanoid robots and embodied AI
+50,Robotics,Black Coffee Robotics,https://www.blackcoffeerobotics.com/,https://www.linkedin.com/company/blackcoffeerobotics/,Robotics AI & Software,Hyderabad,HQ,,"Robotics software engineering: ROS, autonomy and simulation"
+51,Robotics,Cosmoserve Space,https://cosmoserve.space/,https://www.linkedin.com/company/cosmoserve-space/,Space Robotics,Hyderabad,HQ,11-50,Space robotics for orbital debris removal
+52,Robotics,EAS-T Autonomous Solutions,https://eas-t.com/,https://www.linkedin.com/company/eas-t/,Warehouse & ASRS,Hyderabad,HQ,2-10,"AMRs, machine vision and process automation"
+53,Robotics,FarmRobo Technologies,https://farmrobo.in/,https://www.linkedin.com/company/farmrobo-technologies-pvt-ltd/,Agri Robotics,Hyderabad,HQ,11-50,Robotic farm platforms for crop-care operations
+54,Robotics,Harvested Robotics,https://www.harvestedlabs.com/,https://www.linkedin.com/company/harvested-robotics/,Agri Robotics,Hyderabad,HQ,2-10,Tractor-mounted AI laser weeding
+55,Robotics,Makers Hive Innovations,https://makershive.io/,https://www.linkedin.com/company/maker-s-hive-innovations-pvt-ltd/,Medical & Surgical Robotics,Hyderabad,HQ,11-50,KalArm bionic prosthetic hand
+56,Robotics,Perceptyne,https://perceptyne.com/,https://www.linkedin.com/company/perceptyne-robots/,Humanoid / General Purpose,Hyderabad,HQ,11-50,Dual-arm and semi-humanoid robots for industrial tasks
+57,Robotics,Peribott,https://peribott.com/,https://www.linkedin.com/company/peribott/,Warehouse & ASRS,Hyderabad,HQ,2-10,Devibot AMRs plus integrated cobots and service robots
+58,Robotics,Robotspace (Scooby Labs Robotics),https://www.robotspace.in/,https://www.linkedin.com/company/robotspace/,Industrial Automation,Hyderabad,HQ,11-50,"Robotic automation cells, AMRs, MES and IIoT for factories"
+59,Robotics,Seven Robotics,https://sevenrobotics.in/,https://www.linkedin.com/company/sevenrobotics/,Warehouse & ASRS,Hyderabad,HQ,2-10,Intralogistics autonomous mobile robots
+60,Robotics,Svaya Robotics,https://www.svayarobotics.com/,https://www.linkedin.com/company/svayarobotics-pvt-ltd/,Industrial Automation,Hyderabad,HQ,51-200,Collaborative industrial robots designed and built in India
+61,Robotics,Tensrai,https://tensrai.com/,,Industrial Automation,Hyderabad,HQ,,Retrofit autonomy kits and mobile manipulators
+62,Robotics,WATER Robotics,https://www.water.bio/,,Service & Delivery Robots,Hyderabad,HQ,,"Physical-AI consumer products, starting with a robotic bed"
+63,Robotics,XMACHINES,https://xmachines.ai/,https://www.linkedin.com/company/xmachines-ai/,Agri Robotics,Hyderabad,HQ,2-10,"Autonomous robots for agriculture, industry and research"
+64,Robotics,B&G Industrial Robotics & Automation,https://bandgrobotics.com/,,Industrial Automation,Ahmedabad,HQ,,Robotics integration and process automation
+65,Robotics,CosmoChute,https://cosmochute.com/,https://www.linkedin.com/company/cosmochute/,Space Robotics,Ahmedabad,HQ,2-10,Lunar rovers and payload-deployment systems
+66,Robotics,Gridbots Technologies,https://www.gridbots.com/,https://www.linkedin.com/company/gridbots-technologies-pvt--ltd-/,Inspection & Field Robotics,Ahmedabad,HQ,11-50,"Specialty robots for inspection, nuclear and defence work"
+67,Robotics,Ishitva Robotic Systems,https://ishitva.in/,https://www.linkedin.com/company/ishitvasystems/,Industrial Automation,Ahmedabad,HQ,11-50,AI-powered automated waste-sorting systems
+68,Robotics,Kody Robots,https://kodyrobots.com/,https://www.linkedin.com/company/kody-technolab-pvt-ltd/,Service & Delivery Robots,Ahmedabad,HQ,51-200,"Autonomous service robots for hospitality, cleaning and retail"
+69,Robotics,P RoboAI Innovation,https://proboaiinnovation.com/,https://www.linkedin.com/company/p-roboai-innovation-private-limited/,Industrial Automation,Ahmedabad,HQ,1,"Robot-arm cells, AMR/AGV and machine vision"
+70,Robotics,Photom Technologies,https://www.photomtechnologies.com/,https://www.linkedin.com/company/photom-technologies/,Inspection & Field Robotics,Ahmedabad,HQ,,Waterless solar-panel cleaning robots
+71,Robotics,AlgoSurg,https://www.algosurg.ai/,https://www.linkedin.com/company/algosurg/,Medical & Surgical Robotics,"Wilmington, USA",Mumbai – team,2-10,Surgical AI planning from scans to robot-ready plans
+72,Robotics,Inner Sky Labs,https://www.innerskylabs.ai/,,Robotics AI & Software,Mumbai,HQ,,"Perception, action and safety foundation models for robots"
+73,Robotics,Intech Robots,https://intechrobots.com/,,Industrial Automation,Mumbai,HQ,,"Robotic machine tending, palletizing, dispensing and assembly cells"
+74,Robotics,Jiva Robotics,https://jivarobotics.com/,https://www.linkedin.com/company/jivarobotics/,Warehouse & ASRS,Mumbai,HQ,11-50,Warehouse AMRs and robot arms
+75,Robotics,Miko,https://miko.ai/,https://www.linkedin.com/company/mikorobot/,Service & Delivery Robots,Mumbai,HQ,201-500,AI companion and learning robots for children
+76,Robotics,NIDO Group,https://nidoworld.com/,https://www.linkedin.com/company/nido-machineries/,Warehouse & ASRS,Mumbai,HQ,,"Intralogistics automation: AMRs, sortation and pallet handling"
+77,Robotics,Vanar Robots,https://www.vanarrobots.com/,https://www.linkedin.com/company/vanar-robots/,Humanoid / General Purpose,Mumbai,HQ,2-10,General-purpose humanoid robots and in-house actuators
+78,Robotics,Rymo Technologies,https://rymo.in/,https://www.linkedin.com/company/rymo-technologies-pvt-ltd/,Medical & Surgical Robotics,Navi Mumbai,HQ,51-200,Portable rehabilitation robots for physiotherapy
+79,Robotics,AutoNxt Automation,https://www.autonxt.in/,https://www.linkedin.com/company/autonxt-automation/,Agri Robotics,Thane,HQ,11-50,Electric and autonomous tractors
+80,Robotics,InspeCity,https://inspecity.com/,https://www.linkedin.com/company/inspecity/,Space Robotics,Thane,HQ,2-10,In-space servicing and satellite propulsion
+81,Robotics,Robo Bionics,https://robobionics.in/,https://www.linkedin.com/company/robo-bionics/,Medical & Surgical Robotics,Vasai,HQ,2-10,Bionic prosthetic hands
+82,Robotics,AgMove Robotics,https://agmove.in/,https://www.linkedin.com/company/agmove-robotics/,Agri Robotics,Pune,HQ,2-10,Compact robotic farm rovers for horticulture
+83,Robotics,ARAPL (Affordable Robotic & Automation),https://arapl.co.in/,https://www.linkedin.com/company/araplindia/,Industrial Automation,Pune,HQ,201-500,"Robotic welding cells, AMRs and automated car parking"
+84,Robotics,Armstrong Dematic,https://www.armstrongltd.com/,https://www.linkedin.com/company/armstrong-mbpl/,Warehouse & ASRS,Pune,HQ,"501-1,000",Warehouse automation and intralogistics systems
+85,Robotics,Axiom Robotics & Automation,https://axiom-robotics-automation.com/,https://www.linkedin.com/company/axiom-robotics-automation/,Industrial Automation,Pune,HQ,11-50,"Robotic welding, machine-tending and palletising cells"
+86,Robotics,CaneBOT,https://www.canebot.com/,https://www.linkedin.com/company/canebot/,Service & Delivery Robots,Pune,HQ,2-10,Automated sugarcane-juice vending robots
+87,Robotics,Cybernetik Technologies,https://cybernetik.com/,,Industrial Automation,Pune,HQ,,"Process, packaging and robotic automation systems for industry"
+88,Robotics,ERIC Robotics,https://www.ericrobotics.com/,https://www.linkedin.com/company/eric-robotics/,Inspection & Field Robotics,Pune,HQ,11-50,Autonomous railway-track and infrastructure inspection robots (RailwayMitra)
+89,Robotics,Faith Automation,https://www.faithautomation.com/,,Industrial Automation,Pune,HQ,,Robotic BIW spot-welding and body-shop lines
+90,Robotics,IRTI Robotics,https://irti-robotics.com/,https://www.linkedin.com/company/irti-robotics/,Industrial Automation,Pune,HQ,51-200,"Robotic welding, palletizing cells and refurbished industrial robots"
+91,Robotics,Kikobot Robotics,https://kikobot.com/,https://www.linkedin.com/company/kikobot/,Industrial Automation,Pune,HQ,11-50,Industrial and collaborative robot arms
+92,Robotics,Momentum Robotics,https://momentumrobotics.in/,https://www.linkedin.com/company/momentum-robotics/,Warehouse & ASRS,Pune,HQ,2-10,Autonomous mobile robots and fleet-management software
+93,Robotics,Muks Robotics,https://muksrobotics.com/,https://www.linkedin.com/company/muks/,Humanoid / General Purpose,Pune,HQ,11-50,Enterprise humanoid robots (Spaceo)
+94,Robotics,PARC Robotic Systems,https://parcrobotics.in/,,Industrial Automation,Pune,HQ,,Robotic welding cells and automated assembly lines
+95,Robotics,Peppermint Robotics,https://www.peppermintrobotics.com/,https://www.linkedin.com/company/peppermintrobotics/,Service & Delivery Robots,Pune,HQ,51-200,Autonomous floor-cleaning and material-transport robots
+96,Robotics,Sakar Robotics,https://sakarrobotics.com/,https://www.linkedin.com/company/sakarobotics/,Warehouse & ASRS,Pune,HQ,11-50,AMRs and machine-vision automation for factories
+97,Robotics,SVR Robotics,https://svrrobotics.com/,https://www.linkedin.com/company/svr-robotics/,Industrial Automation,Pune,HQ,11-50,"Industrial robot integration, AMRs and training robots"
+98,Robotics,TAL Brabo (Tata Automation),,https://www.linkedin.com/company/tal-manufacturing-solutions-limited.-tata-automation-limited.-/,Industrial Automation,Pune,HQ,51-200,Indian-made industrial robot arms (Tata group)
+99,Robotics,Taypro,https://taypro.in/,https://www.linkedin.com/company/taypro/,Inspection & Field Robotics,Pune,HQ,11-50,Waterless solar-panel cleaning robots
+100,Robotics,Techligence,https://techligencerobotics.com/,https://www.linkedin.com/company/techligence-world/,Service & Delivery Robots,Pune,HQ,2-10,AI service and humanoid robots for customer service
+101,Robotics,Unbox Robotics,https://unboxrobotics.com/,https://www.linkedin.com/company/unboxrobotics/,Warehouse & ASRS,Pune,HQ,51-200,Robotic parcel sortation systems for warehouses
+102,Robotics,Vector Robotics,https://getvectorbots.com/,https://www.linkedin.com/company/vctr-labs/,Humanoid / General Purpose,Pune,HQ,2-10,"Humanoid robots, AGVs, AMRs and autonomous pallet movers"
+103,Robotics,Wipro PARI,https://wipropari.com/,https://www.linkedin.com/company/wipropari/,Industrial Automation,Pune,HQ,"1,001-5,000",Large-scale factory automation and assembly lines
+104,Robotics,Anzo Controls,https://anzocontrols.com/,https://www.linkedin.com/company/anzo-controls/,Warehouse & ASRS,Gurugram,HQ,51-200,"Robotic palletizing, picking, AGV/AMR and storage automation"
+105,Robotics,Dynamic Robotics,https://www.dynamicrobotics.in/,https://www.linkedin.com/company/dynamic-robotics/,Industrial Automation,Gurugram,HQ,2-10,Industrial automation and special-purpose machines
+106,Robotics,GreyOrange,https://www.greyorange.com/,https://www.linkedin.com/company/gogreyorange/,Warehouse & ASRS,"Suwanee, USA",Gurugram – engineering and operations,"501-1,000",AI warehouse robots and fulfilment orchestration software
+107,Robotics,Motionworks Robotics,https://www.motionworksrobotics.com/,https://www.linkedin.com/company/motionworks-robotics/,Industrial Automation,Gurugram,HQ,,"Robotic welding, bin-picking and assembly automation cells"
+108,Robotics,Novus Hi-Tech,https://novushitech.com/,https://www.linkedin.com/company/novus-hitech/,Warehouse & ASRS,Gurugram,HQ,"501-1,000","AMRs, autonomous forklifts and fleet safety systems"
+109,Robotics,Peer Robotics,https://peerrobotics.ai/,https://www.linkedin.com/company/peer-robotics/,Warehouse & ASRS,"Detroit, USA",Gurugram – R&D centre,11-50,Collaborative mobile robots for plant logistics
+110,Robotics,SS Innovations,https://ssinnovations.com/,https://www.linkedin.com/company/ssinnovationsgroup/,Medical & Surgical Robotics,Gurugram,HQ,"501-1,000",SSi Mantra surgical robotic system
+111,Robotics,Terafac,https://www.terafac.com/,https://www.linkedin.com/company/terafac/,Robotics AI & Software,Chandigarh,HQ,2-10,AI vision for robots and Industry 4.0 training labs
+112,Robotics,Rucha Yantra,,https://www.linkedin.com/company/rucha-yantra-llp/,Warehouse & ASRS,Chh. Sambhajinagar,HQ,11-50,"AGVs, AMRs and special-purpose automation machines"
+113,Robotics,Falcon Autotech,https://www.falconautotech.com/,https://www.linkedin.com/company/falconautotech/,Warehouse & ASRS,Greater Noida,HQ,"501-1,000","Sortation, conveyors and warehouse automation"
+114,Robotics,Pragyanik AI,https://pragyanikai.com/,https://www.linkedin.com/company/pragyanik-ai-private-limited/,Agri Robotics,Indore,HQ,2-10,Autonomous farm-robot prototypes for weeding and spraying
+115,Robotics,xTerra Robotics,https://xterrarobotics.com/,https://www.linkedin.com/company/xterra-robotics/,Inspection & Field Robotics,Kanpur,HQ (IIT Kanpur),11-50,Autonomous legged robots for industrial inspection
+116,Robotics,Milagrow HumanTech,https://www.milagrowhumantech.com/,https://www.linkedin.com/company/milagrow/,Service & Delivery Robots,New Delhi,HQ,11-50,Robot vacuums and service robots
+117,Robotics,Addverb Technologies,https://addverb.com/,https://www.linkedin.com/company/addverb-ai/,Warehouse & ASRS,Noida,HQ,"1,001-5,000","Warehouse automation: AMRs, ASRS, sortation and picking robots"
+118,Robotics,Alphadroid,https://www.alphadroid.io/,https://www.linkedin.com/company/alphadroid/,Warehouse & ASRS,Noida,HQ,51-200,AI mobile robots for logistics and warehouses
+119,Robotics,Octobotics,https://octobotics.tech/,https://www.linkedin.com/company/octobotics-tech/,Inspection & Field Robotics,Noida,HQ,11-50,AI-enabled NDT inspection robots for industry and rail
+120,Robotics,Orangewood Labs,https://www.orangewood.co/,https://www.linkedin.com/company/orangewood-labs/,Industrial Automation,"San Francisco, USA",Noida – India office,51-200,Affordable AI-powered collaborative robot arms
+121,Robotics,Ottonomy,https://ottonomy.io/,https://www.linkedin.com/company/ottonomyio/,Service & Delivery Robots,"Sunnyvale, USA",Noida – Ottonomy IO Pvt Ltd office,11-50,Autonomous indoor and outdoor delivery robots
+122,Robotics,Robophin,https://robophin.com/,https://www.linkedin.com/company/robophin-enterprises-llp/,Inspection & Field Robotics,Noida,HQ,2-10,Autonomous robotic platforms for defence
+123,Robotics,Simplex Robotics,https://www.simplexrobotics.com/,https://www.linkedin.com/company/simplex-robotics-private-limited/,Warehouse & ASRS,Bhilai,HQ,,AGVs and automated guided carts for intralogistics
+124,Robotics,Solabot Technologies,https://solabot.in/,https://www.linkedin.com/company/solabot-technologies-private-limited/,Inspection & Field Robotics,Ghaziabad,HQ,,Autonomous dry-cleaning robots for solar plants
+125,Robotics,SudoYantra,https://www.sudoyantra.com/,,Inspection & Field Robotics,Delhi,HQ,,Lightweight rail-less waterless solar-panel cleaning robots
+126,Robotics,Skilancer Solar,https://www.skilancersolar.com/,https://www.linkedin.com/company/skilancer-solar/,Inspection & Field Robotics,Faridabad,HQ,,Waterless solar-panel cleaning robots
+127,Robotics,Capivora Robotics,https://capivorarobotics.com/,https://www.linkedin.com/company/capivora-robotics/,Robotics AI & Software,Chennai,HQ,2-10,AI vision for factory inspection and robotic picking
+128,Robotics,DexSent Robotics,https://www.dexsentrobotics.com/,https://www.linkedin.com/company/dexsent-robotics/,Industrial Automation,Chennai,HQ,2-10,Vision-enabled adaptive industrial robots
+129,Robotics,Fereydon,https://www.fereydon.com/,,Construction Robotics,Chennai,HQ,,"Autonomous construction-site capture, robotics and analytics"
+130,Robotics,HARVTECH,https://harvtech.in/,https://www.linkedin.com/company/harvtechllp/,Agri Robotics,Chennai,HQ,2-10,Autonomous electric tractor technology
+131,Robotics,Motubot Agritech,https://motubot.com/,https://www.linkedin.com/company/motubot/,Agri Robotics,Chennai,HQ,2-10,AI farm robots and drones for field operations
+132,Robotics,OrbitAID Aerospace,https://orbitaid.com/,https://www.linkedin.com/company/orbitaid-aerospace/,Space Robotics,Chennai,HQ,11-50,In-space refuelling and satellite servicing
+133,Robotics,Planys Technologies,https://planystech.com/,https://www.linkedin.com/company/planys/,Inspection & Field Robotics,Chennai,HQ,51-200,"Underwater ROVs for ports, dams and infrastructure"
+134,Robotics,Sakthi Robotics & Automations (SRAPL),https://www.sraplindia.com/,https://www.linkedin.com/company/sakthi-robotics-automations-pvt-ltd/,Warehouse & ASRS,Chennai,HQ,,"Pallet-shuttle ASRS, AGVs and vision inspection"
+135,Robotics,Solinas Integrity,https://solinas.in/,https://www.linkedin.com/company/solinas-integrity/,Inspection & Field Robotics,Chennai,HQ (IITM Research Park),51-200,Pipe-inspection and sanitation robots
+136,Robotics,Tvasta,https://tvasta.construction/,https://www.linkedin.com/company/tvasta/,Construction Robotics,Chennai,HQ,11-50,Robotic 3D construction printing
+137,Robotics,Vikra Ocean Tech,https://vikraoceantech.com/,https://www.linkedin.com/company/vikra-ocean-tech-pvt-ltd/,Inspection & Field Robotics,Chennai,HQ,11-50,"Underwater ROVs, USVs and marine robotics"
+138,Robotics,Vividobots,https://vividobots.com/,https://www.linkedin.com/company/vividobots-private-limited/,Construction Robotics,Chennai,HQ,11-50,Construction robotics
+139,Robotics,Xera Robotics,https://xerarobotics.com/,https://www.linkedin.com/company/xera-robotics-india/,Inspection & Field Robotics,Chennai,HQ,11-50,"Underwater, surface and quadruped robots"
+140,Robotics,Anya Robotics,https://anyarobotics.com/,https://www.linkedin.com/company/anya-robotics/,Warehouse & ASRS,Coimbatore,HQ,2-10,Modular autonomous mobile robots
+141,Robotics,GOAT Robotics,https://goat-robotics.com/,https://www.linkedin.com/company/goat-robotics/,Warehouse & ASRS,Coimbatore,HQ,11-50,Autonomous mobile robots for factory material handling
+142,Robotics,Asimov Robotics,https://www.asimovrobotics.com/,https://www.linkedin.com/company/asimov-robotics/,Service & Delivery Robots,Kochi,HQ,11-50,Service and industrial robots for hazardous tasks
+143,Robotics,Astrek Innovations,https://astrekinnovations.com/,https://www.linkedin.com/company/astrekinnovations/,Medical & Surgical Robotics,Kochi,HQ,2-10,Robotic exoskeletons for gait rehabilitation
+144,Robotics,EyeROV,https://www.eyerov.com/,https://www.linkedin.com/company/eyerov/,Inspection & Field Robotics,Kochi,HQ,51-200,"Underwater ROVs for dams, ports and pipelines"
+145,Robotics,iHub Robotics,https://www.ihubrobotics.com/,https://www.linkedin.com/company/ihub-robotics/,Service & Delivery Robots,Kochi,HQ,11-50,Semi-humanoid service robots for hospitality and healthcare
+146,Robotics,Sastra Robotics,https://sastrarobotics.com/,https://www.linkedin.com/company/sastra-robotics-india-private-limited/,Industrial Automation,Kochi,HQ,11-50,Robots that automate touchscreen and device testing
+147,Robotics,Mask Robotics,https://maskrobotics.in/,,Service & Delivery Robots,Madurai,HQ,,Service and humanoid robot sales and rental
+148,Robotics,Vanora Robots,https://vanorarobots.com/,https://www.linkedin.com/company/vanorarobots/,Inspection & Field Robotics,"Aberdeen, UK",Mangaluru – Vanora Robots Pvt Ltd,2-10,Modular heavy-duty mobile robots and UGVs
+149,Robotics,Coratia Technologies,https://coratia.com/,https://www.linkedin.com/company/coratia-technologies-pvt-ltd/,Inspection & Field Robotics,Rourkela,HQ,11-50,Underwater robots and marine inspection services
+150,Robotics,Simpliforge Creations,https://simpliforge.com/,https://www.linkedin.com/company/simpliforge/,Construction Robotics,Siddipet,HQ,11-50,Robotic concrete 3D printing for construction
+151,Robotics,Freeman Robots,http://www.freemanrobots.com,https://www.linkedin.com/company/freeman-robots/,Agri Robotics,Thiruvananthapuram,HQ,11-50,Gardro AI gardening and farm robots
+152,Robotics,Genrobotics,https://genrobotics.com/,https://www.linkedin.com/company/genrobotics/,Service & Delivery Robots,Thiruvananthapuram,HQ,201-500,Bandicoot manhole and sewer-cleaning robots
+153,Robotics,Estro Tech Robotics,https://www.estrotech.in/,https://www.linkedin.com/company/estro-tech-robotics/,Service & Delivery Robots,Thrissur,HQ,11-50,RobAd in-store retail marketing robot
+154,Robotics,HANBEE,https://hanbee.in/,https://www.linkedin.com/company/hanbee-india/,Service & Delivery Robots,Tirukalukunram,HQ,11-50,Service robots and robotics education
+155,Robotics,RobotVerse,https://www.robotverse.in/,https://www.linkedin.com/company/robotverse/,Industrial Automation,Villupuram,HQ,51-200,"Online marketplace for industrial robots, parts and services"
+156,Robotics,BotForge Robotics,https://botforge.in/,https://www.linkedin.com/company/botforge/,Inspection & Field Robotics,Anakapalli,HQ,2-10,ROS 2 mobile-robot platforms for education and research
+157,Suppliers (Tier 2-3),Qualitas Technologies,https://qualitastech.com/,https://www.linkedin.com/company/qualitastech/,Tier 2,Bengaluru,HQ,11-50,AI machine-vision inspection systems for manufacturing
+158,Suppliers (Tier 2-3),Sapien Robotics,https://sapienrobotics.ai/,https://www.linkedin.com/company/sapien-robotics/,Tier 2,Bengaluru,HQ,2-10,Industrial AI and vision for manufacturing automation
+159,Suppliers (Tier 2-3),Twara Robotics,https://twararobotics.in/,https://www.linkedin.com/company/twara-robotics/,Tier 2,Bengaluru,HQ,11-50,"Robotic arms, actuators, AMRs and soft grippers"
+160,Suppliers (Tier 2-3),Vimag Labs,https://vi-mag.com/,https://www.linkedin.com/company/vimag-labs/,Tier 2,Bengaluru,HQ,11-50,Magnet-free electric motors for robotics and mobility
+161,Suppliers (Tier 2-3),Yaanendriya,https://www.yaanendriya.com/,https://www.linkedin.com/company/yaanendriya/,Tier 2,Bengaluru,HQ,,Navigation sensors and controllers for robots and drones
+162,Suppliers (Tier 2-3),DreamVu,https://www.dreamvu.ai/,https://www.linkedin.com/company/dreamvu/,Tier 2,"Philadelphia, USA",HQ,11-50,360-degree 3D vision systems for robots
+163,Suppliers (Tier 2-3),Eternal Robotics,https://eternalrobotics.com/,https://www.linkedin.com/company/eternal-robotics/,Tier 2,Hyderabad,HQ,51-200,Computer-vision AI for manufacturing quality
+164,Suppliers (Tier 2-3),Rotatum Mechatronics,https://rotatummechatronics.com/,https://www.linkedin.com/company/rotatum-mechatronics-pvt-ltd/,Tier 2,Hyderabad,HQ,2-10,Precision actuators and motion-control components for robots
+165,Suppliers (Tier 2-3),Amess Controls,https://www.acpl-india.in/,https://www.linkedin.com/company/amess-controls-pvt-ltd/,Tier 2,Ahmedabad,HQ,51-200,"DC and servo drives, CNC controllers"
+166,Suppliers (Tier 2-3),H.P. Automation,https://www.hpautomation.in/,https://www.linkedin.com/company/h-p-automation-and-controls-pvt-ltd/,Tier 2,Ahmedabad,HQ,51-200,"Servo drives, VFDs and PLC-based automation"
+167,Suppliers (Tier 2-3),Bharat Bijlee,https://www.bharatbijlee.com/,https://www.linkedin.com/company/bharat-bijlee-ltd/,Tier 3,Mumbai,HQ,"1,001-5,000","Electric motors, drives and industrial automation systems"
+168,Suppliers (Tier 2-3),MumbaiSemi,https://mumbaisemi.com/,https://www.linkedin.com/company/mumbaisemi/,Tier 3,Mumbai,HQ,2-10,NavIC/GPS navigation receiver chips
+169,Suppliers (Tier 2-3),Aeron Systems,https://www.aeronsystems.com/,https://www.linkedin.com/company/aeron-systems-pvt-ltd-/,Tier 2,Pune,HQ,51-200,Inertial navigation systems for drones and defence
+170,Suppliers (Tier 2-3),Messung Systems,https://messung.com/,https://www.linkedin.com/company/messung-group-of-companies/,Tier 2,Pune,HQ,201-500,PLCs and industrial automation products
+171,Suppliers (Tier 2-3),Quintrans,https://quintrans.tech/,https://www.linkedin.com/company/quintrans/,Tier 2,Pune,HQ,11-50,Precision linear actuators and motion stages
+172,Suppliers (Tier 2-3),Autman Robotics,https://aut-man.com/,https://www.linkedin.com/company/autman-robotics/,Tier 2,"Birmingham, UK",HQ,11-50,Tactile sensing and adaptive grippers for manufacturing robots
+173,Suppliers (Tier 2-3),e-con Systems,https://www.e-consystems.com/,https://www.linkedin.com/company/e-con-systems/,Tier 2,"Fremont, USA",HQ,"501-1,000",Embedded vision cameras for robots and AMRs
+174,Suppliers (Tier 2-3),Jidoka Technologies,https://www.jidoka-tech.ai/,https://www.linkedin.com/company/jidoka-tech/,Tier 2,Chennai,HQ,,AI vision inspection systems for manufacturing
+175,Suppliers (Tier 2-3),The Propulsion Company,https://viridianingnipropulsion.com/,https://www.linkedin.com/company/viridian-ingni-propulsion/,Tier 2,Chennai,HQ,2-10,"Motors and propulsion for EVs, drones and robots"
+176,Suppliers (Tier 2-3),Torus Motion (formerly Torus Robotics),https://torusmotion.com/,https://www.linkedin.com/company/torus-robotics/,Tier 2,Chennai,HQ,11-50,Axial-flux electric motors for mobility and robotics
+177,Suppliers (Tier 2-3),Welkinrim Technologies,https://welkinrim.com/,https://www.linkedin.com/company/welkinrimtechnologies/,Tier 2,Chennai,HQ,11-50,"Motors, drives and propulsion for UAVs and robots"
+178,Suppliers (Tier 2-3),XYMA Analytics,https://xyma.in/,https://www.linkedin.com/company/xyma-analytics/,Tier 3,Chennai,HQ,51-200,Ultrasonic waveguide sensors for industrial process monitoring
+179,Suppliers (Tier 2-3),Nawe Robotics (NMotion),https://nmotion.in/,https://www.linkedin.com/company/nawe-robotics/,Tier 2,Kozhikode,HQ,2-10,Motion-control modules and robotics building blocks
+180,Suppliers (Tier 2-3),Manav Robotics,https://manav.co/,https://www.linkedin.com/company/manav-robotics/,Tier 2,,HQ,11-50,Touch-sensing robotic hands for industry
+181,Aerospace & Space,Aadyah Aerospace,https://www.aadyah.com/,,Satellites & Space Systems,Bengaluru,HQ,,Space technology and aerospace systems
+182,Aerospace & Space,Alpha Design Technologies,https://www.adtl.co.in/,https://www.linkedin.com/company/alpha-design-technologies/,Defence Aerospace,Bengaluru,HQ,"501-1,000","Defence electronics, avionics and space systems"
+183,Aerospace & Space,Ananth Technologies,https://ananthtech.com/,https://www.linkedin.com/company/ananth-technologies/,Aerospace Manufacturing,Bengaluru,HQ,"501-1,000",Spacecraft and aerospace systems manufacturing
+184,Aerospace & Space,Ankit Aerospace,,https://www.linkedin.com/company/ankit-aerospace-pvt-ltd/,Aerospace Manufacturing,Bengaluru,HQ,51-200,Aerospace precision components
+185,Aerospace & Space,Astrobase Space Technologies,https://www.astrobase.in/,https://www.linkedin.com/company/astrobase-space-technologies/,Launch & Propulsion,Bengaluru,HQ,51-200,Reusable rockets powered by an in-house staged-combustion engine
+186,Aerospace & Space,Astrogate Labs,http://astrogatelabs.com/,https://www.linkedin.com/company/astrogate-labs/,Satellites & Space Systems,Bengaluru,HQ,11-50,Optical communication terminals for satellites
+187,Aerospace & Space,Bellatrix Aerospace,https://bellatrix.aero/,https://www.linkedin.com/company/bellatrix-aerospace/,Launch & Propulsion,Bengaluru,HQ,51-200,Satellite propulsion and orbital transfer vehicles
+188,Aerospace & Space,Dheya Engineering Technologies,https://www.dheyatech.com/,https://www.linkedin.com/company/dheyatech/,Aerospace Systems & Platforms,Bengaluru,HQ,11-50,Micro turbojet engines and turbomachinery
+189,Aerospace & Space,Digantara,https://www.digantara.co.in/,https://www.linkedin.com/company/digantara/,Satellites & Earth Observation,Bengaluru,HQ,51-200,Space surveillance satellites and space intelligence
+190,Aerospace & Space,Dynamatic Technologies,https://www.dynamatics.com/,https://www.linkedin.com/company/dynamatic-technologies-limited/,Aerospace Manufacturing,Bengaluru,HQ,"1,001-5,000","Aerostructures, hydraulics and precision engineering"
+191,Aerospace & Space,EtherealX,http://www.etherealx.space/,https://www.linkedin.com/company/etherealexplorationguild/,Launch & Propulsion,Bengaluru,HQ,51-200,Reusable medium-lift launch vehicles
+192,Aerospace & Space,GalaxEye Space,https://galaxeye.space/,https://www.linkedin.com/company/galaxeye/,Satellites & Earth Observation,Bengaluru,HQ,51-200,Multi-sensor SAR and optical earth-observation satellites
+193,Aerospace & Space,Grahaa Space,https://grahaa.space/,https://www.linkedin.com/company/grahaaspace/,Satellites & Earth Observation,Bengaluru,HQ,2-10,Satellites for near real-time geospatial video
+194,Aerospace & Space,KaleidEO Space Systems,https://kaleideo.co/,https://www.linkedin.com/company/kaleideo-space/,Satellites & Earth Observation,Bengaluru,HQ,2-10,Earth-observation satellite payloads
+195,Aerospace & Space,Nabhdrishti Aerospace,https://nabhdrishti.in/,https://www.linkedin.com/company/nabhdrishti-aerospace/,Aerospace Systems & Platforms,Bengaluru,HQ,11-50,Micro gas turbines for aerial vehicles and power
+196,Aerospace & Space,Othisis Systems,https://othisissystems.com/,https://www.linkedin.com/company/othisissystems/,Launch & Propulsion,Bengaluru,HQ,11-50,Reusable rockets and methane rocket engines
+197,Aerospace & Space,OXG Space,https://www.oxgspace.com/,https://www.linkedin.com/company/oxgspace/,Satellites & Space Systems,Bengaluru,HQ,2-10,In-orbit computing and satellite connectivity network
+198,Aerospace & Space,Pixxel,https://www.pixxel.space/,https://www.linkedin.com/company/pixxelspace/,Satellites & Earth Observation,Bengaluru,HQ,201-500,Hyperspectral earth-imaging satellites
+199,Aerospace & Space,Pramatra Space,https://pramatra.space/,https://www.linkedin.com/company/pramatra-space/,Satellites & Space Systems,Bengaluru,HQ,2-10,Space-based quantum key distribution
+200,Aerospace & Space,Qosmic,https://qosmic.space/,https://www.linkedin.com/company/qosmicspace/,Satellites & Space Systems,Bengaluru,HQ,2-10,Optical ground-station infrastructure for satellites
+201,Aerospace & Space,Rangsons Aerospace,https://rangsons.com/,https://www.linkedin.com/company/rangsons/,Defence Aerospace,Bengaluru,HQ,51-200,Aerospace and defence components and systems
+202,Aerospace & Space,Sarla Aviation,https://sarla-aviation.com/,https://www.linkedin.com/company/sarla-aviation/,Aircraft & eVTOL,Bengaluru,HQ,51-200,Electric VTOL aircraft for urban mobility
+203,Aerospace & Space,Satlabs Space Systems,https://satlabs.space/,https://www.linkedin.com/company/satlabs-space/,Satellites & Space Systems,Bengaluru,HQ,2-10,Real-time satellite commanding via data-relay network
+204,Aerospace & Space,SkyServe,https://skyserve.ai/,https://www.linkedin.com/company/skyserve-ai/,Satellites & Earth Observation,Bengaluru,HQ,11-50,Onboard AI computing for earth-observation satellites
+205,Aerospace & Space,SpaceFields,https://spacefields.in/,https://www.linkedin.com/company/spacefields/,Launch & Propulsion,Bengaluru,HQ,51-200,"Solid propulsion for rockets, drones and defence"
+206,Aerospace & Space,VyomIC,https://vyomic.space/,https://www.linkedin.com/company/vyomic/,Satellites & Space Systems,Bengaluru,HQ,11-50,Satellite navigation and timing systems
+207,Aerospace & Space,Wipro Aerospace,https://wiproaerospace.com/,https://www.linkedin.com/company/wipro-aerospace/,Aerospace Manufacturing,Bengaluru,HQ,51-200,Aerospace components and assemblies
+208,Aerospace & Space,Xovian Aerospace,http://www.xovian.co.in/,https://www.linkedin.com/company/xovian/,Satellites & Space Systems,Bengaluru,HQ,11-50,Satellite and space hardware startup
+209,Aerospace & Space,Azista Aerospace,https://www.azistaaerospace.com/,https://www.linkedin.com/company/azista-aerospace/,Satellites & Space Systems,Hyderabad,HQ,201-500,Satellites and aerospace systems
+210,Aerospace & Space,BluJ Aerospace,https://blujaero.com/,https://www.linkedin.com/company/bluj-aerospace-private-limited/,Aircraft & eVTOL,Hyderabad,HQ,11-50,Hydrogen-electric VTOL aircraft for cargo and passengers
+211,Aerospace & Space,Dhruva Space,https://www.dhruvaspace.com/,https://www.linkedin.com/company/dhruva-space/,Satellites & Space Systems,Hyderabad,HQ,51-200,"Satellite platforms, deployers and ground stations"
+212,Aerospace & Space,EON Space Labs,https://www.eonspacelabs.com/,https://www.linkedin.com/company/eonspacelabs/,Satellites & Earth Observation,Hyderabad,HQ,2-10,EO/IR payloads for satellites and drones
+213,Aerospace & Space,Jeh Aerospace,https://jehaerospace.com/,,Aerospace Manufacturing,Hyderabad,HQ,,Software-defined precision aerospace manufacturing
+214,Aerospace & Space,MTAR Technologies,https://mtar.in/,https://www.linkedin.com/company/mtar-technologies-ltd/,Aerospace Manufacturing,Hyderabad,HQ,"1,001-5,000","Precision-engineered systems for space, nuclear and defence"
+215,Aerospace & Space,Onnes Aerospace,https://onnesaerospace.com/,https://www.linkedin.com/company/onnesaerospace/,Aerospace Manufacturing,Hyderabad,HQ,11-50,Composite cryogenic tanks for space vehicles
+216,Aerospace & Space,Raghu Vamsi Aerospace Group,https://raghuvamsi.com/,https://www.linkedin.com/company/raghu-vamsi-group/,Aerospace Manufacturing,Hyderabad,HQ,201-500,Aerospace precision components
+217,Aerospace & Space,Sanyark Space,https://sanyark.com/,https://www.linkedin.com/company/sanyarkspace/,Satellites & Space Systems,Hyderabad,HQ,11-50,Fused PNT and 5G NTN satellite communications
+218,Aerospace & Space,Skyroot Aerospace,https://www.skyroot.in/,https://www.linkedin.com/company/skyroot-aerospace/,Launch & Propulsion,Hyderabad,HQ,"501-1,000",Vikram small-satellite launch vehicles
+219,Aerospace & Space,TakeMe2Space,https://tm2.space/,https://www.linkedin.com/company/tm2space/,Satellites & Space Systems,Hyderabad,HQ,11-50,AI compute satellites and in-orbit data services
+220,Aerospace & Space,Tata Advanced Systems,https://www.tataadvancedsystems.com/,https://www.linkedin.com/company/tataadvanced/,Defence Aerospace,Hyderabad,HQ,"5,001-10,000","Aerospace, defence platforms and UAVs (Tata Group)"
+221,Aerospace & Space,Telos Aerospace,https://telosaero.com/,https://www.linkedin.com/company/telos-aerosapace/,Aerospace Manufacturing,Hyderabad,HQ,51-200,"Aerospace engineering, manufacturing and MRO"
+222,Aerospace & Space,XDLINX Space Labs,https://xdlinx.space/,https://www.linkedin.com/company/xdlinx-labs/,Satellites & Space Systems,Hyderabad,HQ,51-200,Small satellites and satellite subsystems
+223,Aerospace & Space,Adani Defence & Aerospace,https://adanidefence.com/,https://www.linkedin.com/company/adani-defence-and-aerospace/,Defence Aerospace,Ahmedabad,HQ,"1,001-5,000","Defence and aerospace manufacturing, including drones"
+224,Aerospace & Space,Catalyx Space,https://www.catalyx.space/,https://www.linkedin.com/company/catalyxspace/,Satellites & Space Systems,"San Francisco, USA",HQ,11-50,Satellite buses and re-entry capsules
+225,Aerospace & Space,Cligent Aerospace,https://www.cligent.com/,https://www.linkedin.com/company/cligent-aerospace/,Aircraft & eVTOL,Ahmedabad,HQ,11-50,Hybrid-electric short-takeoff regional aircraft
+226,Aerospace & Space,Omspace Rocket & Exploration,https://omspacerocket.com/,https://www.linkedin.com/company/omspace/,Launch & Propulsion,Ahmedabad,HQ,11-50,Reusable launch vehicles
+227,Aerospace & Space,Orbitt Space,https://orbitt.space/,https://www.linkedin.com/company/orbitt-space/,Launch & Propulsion,Ahmedabad,HQ,11-50,Green satellite propulsion systems
+228,Aerospace & Space,PierSight,https://piersight.space/,https://www.linkedin.com/company/piersight-space/,Satellites & Earth Observation,Ahmedabad,HQ,51-200,SAR satellites for maritime monitoring
+229,Aerospace & Space,SatLeo Labs,https://www.satleolabs.com/,https://www.linkedin.com/company/satleo-labs/,Satellites & Earth Observation,Ahmedabad,HQ,11-50,Thermal-infrared earth-observation satellites
+230,Aerospace & Space,SpectraGaze Systems,https://www.spectragaze.com/,https://www.linkedin.com/company/spectragaze/,Satellites & Earth Observation,Ahmedabad,HQ,11-50,Electro-optical systems for space missions
+231,Aerospace & Space,Manastu Space,https://manastuspace.com/,https://www.linkedin.com/company/manastu-space/,Launch & Propulsion,Mumbai,HQ,51-200,Green propulsion for satellites
+232,Aerospace & Space,Paras Defence and Space Technologies,https://parasdefence.com/,https://www.linkedin.com/company/paras-defence/,Defence Aerospace,Navi Mumbai,HQ,"501-1,000","Defence optronics, drones and anti-drone systems"
+233,Aerospace & Space,Astrophel Aerospace,https://astrophelaerospace.in/,https://www.linkedin.com/company/astrophel-aerospace/,Launch & Propulsion,Pune,HQ,11-50,Semi-cryogenic engines and reusable launch vehicles
+234,Aerospace & Space,BAAS Technologies,https://baas.co.in/,https://www.linkedin.com/company/baastechnologies/,Launch & Propulsion,Pune,HQ,11-50,End-to-end rocket company
+235,Aerospace & Space,Thrustworks Dynetics,http://thrustworksdynetics.in/,https://www.linkedin.com/company/thrustworks-dynetics/,Launch & Propulsion,Pune,HQ,11-50,Rocket and propulsion engineering
+236,Aerospace & Space,LAT Aerospace,https://lataerospace.com/,https://www.linkedin.com/company/lataerospace/,Aircraft & eVTOL,Gurugram,HQ,11-50,Regional aircraft development
+237,Aerospace & Space,Kawa Space,https://www.kawaspace.com/,https://www.linkedin.com/company/kawaspace/,Satellites & Earth Observation,Delhi,HQ,11-50,Earth-observation satellites
+238,Aerospace & Space,Dream Aerospace,https://dreamaerospace.in/,https://www.linkedin.com/company/dream-aerospace/,Launch & Propulsion,Kanpur,HQ,11-50,Propulsion systems for aerospace
+239,Aerospace & Space,Kalam Labs,https://kalamlabs.in/,https://www.linkedin.com/company/kalamlabs/,Aerospace Systems & Platforms,Lucknow,HQ,2-10,Stratospheric aerial systems
+240,Aerospace & Space,PTC Industries,https://www.ptcil.com/,https://www.linkedin.com/company/ptc-industries-limited/,Defence Aerospace,Lucknow,HQ,"501-1,000",Precision castings and titanium parts for aerospace and defence
+241,Aerospace & Space,Agnikul Cosmos,https://agnikul.in/,https://www.linkedin.com/company/agnikul-cosmos/,Launch & Propulsion,Chennai,HQ,51-200,3D-printed rocket engines and small launch vehicles
+242,Aerospace & Space,Hathor Rockets,https://www.hathor.space/,https://www.linkedin.com/company/hathor-rockets/,Launch & Propulsion,Chennai,HQ,2-10,Rocket propulsion systems
+243,Aerospace & Space,The ePlane Company,https://www.eplane.ai/,https://www.linkedin.com/company/the-eplane-company/,Aircraft & eVTOL,Chennai,HQ,201-500,Electric VTOL aircraft
+244,Aerospace & Space,Vinata Aeromobility,https://vinata.co.in/,https://www.linkedin.com/company/vinata-aeromobility/,Aircraft & eVTOL,Chennai,HQ,2-10,Hybrid flying cars and personal VTOLs
+245,Aerospace & Space,Sisir Radar,https://sisirradar.com/,https://www.linkedin.com/company/sisir-radar/,Defence Aerospace,Kolkata,HQ,51-200,"Radar systems for aircraft, drones and satellites"
+246,Aerospace & Space,N Space Tech,https://www.nspacetech.in/,https://www.linkedin.com/company/nspacetech/,Satellites & Space Systems,Tenali,HQ,11-50,CubeSats and satellite communication systems
+247,Aerospace & Space,Hex20,https://hex20.space/,https://www.linkedin.com/company/hex20/,Satellites & Space Systems,Thiruvananthapuram,HQ,51-200,Small satellites and space hardware
+248,Aerospace & Space,Red Balloon Aerospace,https://www.red-balloon.space/,https://www.linkedin.com/company/redballoon-aerospace/,Aerospace Systems & Platforms,Vijayawada,HQ,11-50,"Stratospheric airships, balloons and aerostats"
+249,Aerospace & Space,ULOOK,https://ulook.space/,,Satellites & Earth Observation,,HQ,,RF-sensing satellite constellation
+250,Drones & UAVs,Aarav Unmanned Systems,https://aaravdrones.com/,,Industrial & Mapping Drones,Bengaluru,HQ,,Drones for mapping and surveying
+251,Drones & UAVs,Agam Robotics,https://agamrobotics.com/,https://www.linkedin.com/company/agamrobotics/,Drone Components & Payloads,Bengaluru,HQ,2-10,"Flight controllers, GPS modules and sensors"
+252,Drones & UAVs,Airbound,https://www.airbound.com/,https://www.linkedin.com/company/airbound-co/,Delivery & Logistics Drones,Bengaluru,HQ,51-200,Autonomous delivery drones
+253,Drones & UAVs,AlgoFET,https://algofet.com/,https://www.linkedin.com/company/algofet/,Drone Software & Services,Bengaluru,HQ,11-50,Autonomous drone docking and charging stations
+254,Drones & UAVs,Alteon,https://www.alteonenergy.co/,https://www.linkedin.com/company/alteonaerospace/,Industrial & Mapping Drones,Bengaluru,HQ,11-50,Autonomous long-endurance fixed-wing aircraft
+255,Drones & UAVs,Arctus Aerospace,https://arctusaerospace.com/,https://www.linkedin.com/company/arctusaerospace/,Industrial & Mapping Drones,Bengaluru,HQ,2-10,High-altitude UAVs for earth observation
+256,Drones & UAVs,Asteria Aerospace,https://www.asteria.co.in/,https://www.linkedin.com/company/asteria-aerospace/,Defence Drones,Bengaluru,HQ,201-500,Defence and mapping drones
+257,Drones & UAVs,Edall Systems,https://edallsystems.com/,https://www.linkedin.com/company/edall-systems/,Defence Drones,Bengaluru,HQ,51-200,Industrial and defence drones
+258,Drones & UAVs,General Aeronautics,https://generalaeronautics.com/,https://www.linkedin.com/company/general-aeronautics-pvt-ltd/,Agri Drones,Bengaluru,HQ,51-200,Agricultural spraying drones
+259,Drones & UAVs,Kadet Defence Systems,http://www.kadet-uav.com/,https://www.linkedin.com/company/kadet-defence-systems/,Defence Drones,Bengaluru,HQ,11-50,Aerial target drones and UAVs for defence
+260,Drones & UAVs,NeoSky India,https://www.neosky.co.in/,https://www.linkedin.com/company/neosky-india-limited/,Drone Software & Services,Bengaluru,HQ,51-200,Drones and drone services (RattanIndia subsidiary)
+261,Drones & UAVs,NewSpace Research and Technologies,https://newspace.co.in/,https://www.linkedin.com/company/newspacert/,Defence Drones,Bengaluru,HQ,"501-1,000","Defence UAVs, swarms and high-altitude platforms"
+262,Drones & UAVs,Okulo Aerospace,https://www.okuloaerospace.com/,https://www.linkedin.com/company/okuloaerospace/,Industrial & Mapping Drones,Bengaluru,HQ,11-50,Drones and aviation components
+263,Drones & UAVs,Paar Autonomy,https://paar-autonomy.com/,https://www.linkedin.com/company/paar-autonomy/,Drone Components & Payloads,Bengaluru,HQ,11-50,Camera payloads and GPS-free navigation for drones
+264,Drones & UAVs,Redwing Labs,https://www.redwinglabs.in/,https://www.linkedin.com/company/redwinglabs/,Delivery & Logistics Drones,Bengaluru,HQ,11-50,Autonomous drone logistics
+265,Drones & UAVs,Scandron,https://scandron.in/,https://www.linkedin.com/company/scandron/,Defence Drones,Bengaluru,HQ,51-200,Industrial and defence drones
+266,Drones & UAVs,Skylark Drones,https://skylarkdrones.com/,https://www.linkedin.com/company/skylark-drones/,Drone Software & Services,Bengaluru,HQ,51-200,Drone data analytics and fleet-operations software
+267,Drones & UAVs,SUIND,https://suind.com/,https://www.linkedin.com/company/suind/,Industrial & Mapping Drones,Bengaluru,HQ,11-50,Autonomous drones and aerial intelligence
+268,Drones & UAVs,Throttle Aerospace Systems,http://throttle.aero/,https://www.linkedin.com/company/throttle-aerospace-systems/,Defence Drones,Bengaluru,HQ,51-200,"Mapping, surveillance and defence drones"
+269,Drones & UAVs,Tsalla Aerospace,https://www.tsallaaerospace.com/,https://www.linkedin.com/company/tsallaaerospace/,Defence Drones,Bengaluru,HQ,2-10,Unmanned systems and AI for defence
+270,Drones & UAVs,Unmannd,https://www.unmannd.com/,https://www.linkedin.com/company/unmannd-autonomy/,Defence Drones,Bengaluru,HQ,11-50,Autonomous logistics drones and counter-UAS interceptors
+271,Drones & UAVs,Vecros Technologies,https://vecros.com/,https://www.linkedin.com/company/vecros/,Industrial & Mapping Drones,Bengaluru,HQ,11-50,Autonomous drones with GPS-denied navigation
+272,Drones & UAVs,ZMotion Autonomous Systems,https://www.zmotion.in/,https://www.linkedin.com/company/zmotion-autonomous-systems/,Defence Drones,Bengaluru,HQ,11-50,Loitering munitions and armed UAVs
+273,Drones & UAVs,AKSI Aerospace Group,https://aksiaerospace.group/,https://www.linkedin.com/company/aksi-aerospace/,Industrial & Mapping Drones,Hyderabad,HQ,51-200,Drones and aerospace subsystems
+274,Drones & UAVs,Beijan,https://beijan.com/,https://www.linkedin.com/company/beijan/,Drone Components & Payloads,Hyderabad,HQ,2-10,GPS-denied navigation and autonomy modules for defence UAVs
+275,Drones & UAVs,Drogo Drones,https://drogodrones.com/,https://www.linkedin.com/company/drogo-drones/,Drone Software & Services,Hyderabad,HQ,201-500,Drone manufacturer and drone services
+276,Drones & UAVs,Marut Drones,https://marutdrones.com/,https://www.linkedin.com/company/marutdrones/,Agri Drones,Hyderabad,HQ,51-200,Agricultural spraying and seeding drones
+277,Drones & UAVs,Thanos Technologies,https://thanos.in/,https://www.linkedin.com/company/thanostechnologies/,Agri Drones,Hyderabad,HQ,11-50,Agricultural spraying drones
+278,Drones & UAVs,Vyomik Drones,https://vyomikdrones.com/,https://www.linkedin.com/company/vyomik-drones/,Agri Drones,Hyderabad,HQ,51-200,Drones for agriculture and infrastructure
+279,Drones & UAVs,Zebu Intelligent Systems,https://zebu.ai/,https://www.linkedin.com/company/zebu-intelligent-systems/,Drone Software & Services,Hyderabad,HQ,11-50,Collaborative autonomy for drones and robots
+280,Drones & UAVs,ideaForge,https://ideaforgetech.com/,https://www.linkedin.com/company/ideaforge/,Defence Drones,Navi Mumbai,HQ,"501-1,000",Defence and industrial drones
+281,Drones & UAVs,Drona Aviation,https://dronaaviation.com/,https://www.linkedin.com/company/drona-aviation-pvt-ltd-/,Industrial & Mapping Drones,Thane,HQ,11-50,Programmable educational drones
+282,Drones & UAVs,Aethrone Aerospace,https://www.aethroneaerospace.com/,https://www.linkedin.com/company/aethrone-aerospace/,Industrial & Mapping Drones,Pune,HQ,51-200,Drones and unmanned aerial systems
+283,Drones & UAVs,Artemon Aerospace,https://artemonaerospace.com/,https://www.linkedin.com/company/artemon-aerospace/,Defence Drones,Pune,HQ,11-50,UAVs and loitering munitions
+284,Drones & UAVs,Ayaan Autonomous Systems,https://ayaan.ai/,https://www.linkedin.com/company/ayaan-autonomous-systems/,Industrial & Mapping Drones,Pune,HQ,11-50,UAV and drone manufacturer
+285,Drones & UAVs,Defendron Technologies,https://defendrontech.com/,https://www.linkedin.com/company/defendron-technologies/,Drone Components & Payloads,Pune,HQ,2-10,Lightweight EO/IR gimbal payloads for drones
+286,Drones & UAVs,DroneAcharya Aerial Innovations,https://droneacharya.com/,https://www.linkedin.com/company/droneacharya/,Drone Software & Services,Pune,HQ,51-200,"Drones, drone services and pilot training"
+287,Drones & UAVs,FlytBase,https://flytbase.com/,https://www.linkedin.com/company/flytbase/,Drone Software & Services,"San Jose, USA",HQ,51-200,Autonomy software platform for docked drone fleets
+288,Drones & UAVs,DroneVerse,https://droneverse.in/,https://www.linkedin.com/company/droneverseindia/,Defence Drones,Gurugram,HQ,51-200,FPV drones and drone training for defence
+289,Drones & UAVs,IoTechWorld Avigation,https://iotechworld.com/,https://www.linkedin.com/company/iotechworld/,Agri Drones,Gurugram,HQ,201-500,Agricultural drones
+290,Drones & UAVs,Skye Air Mobility,https://skyeair.tech/,https://www.linkedin.com/company/skye-air-mobility/,Delivery & Logistics Drones,Gurugram,HQ,51-200,Drone delivery network for last-mile logistics
+291,Drones & UAVs,TechEagle,https://www.techeagle.in/,https://www.linkedin.com/company/techeagle/,Delivery & Logistics Drones,Gurugram,HQ,51-200,Autonomous BVLOS drones for logistics
+292,Drones & UAVs,BharatRohan,https://bharatrohan.in/,https://www.linkedin.com/company/bharatrohan/,Agri Drones,Delhi,HQ,2-10,Drone-based hyperspectral crop monitoring
+293,Drones & UAVs,OM UAV Systems,https://omuavsystems.com/,https://www.linkedin.com/company/om-uav-systems/,Defence Drones,Delhi,HQ,11-50,"Surveillance, defence, agricultural and mapping drones"
+294,Drones & UAVs,Zerodrag,https://zerodrag.in/,https://www.linkedin.com/company/zerodrag/,Drone Components & Payloads,Delhi,HQ,2-10,"FPV drone flight controllers, ESCs and radios"
+295,Drones & UAVs,BotLab Dynamics,https://www.botlabdynamics.com/,https://www.linkedin.com/company/botlab-dynamics/,Defence Drones,New Delhi,HQ,51-200,Drone swarms and drone light shows
+296,Drones & UAVs,TSAW Drones,https://www.tsaw.tech/,https://www.linkedin.com/company/tsaw-drones/,Delivery & Logistics Drones,New Delhi,HQ,2-10,"Drone autonomy, fleet software and drone logistics"
+297,Drones & UAVs,EndureAir Systems,https://endureair.com/,https://www.linkedin.com/company/endureair/,Defence Drones,Noida,HQ,51-200,Heavy-payload logistics and defence UAVs
+298,Drones & UAVs,IG Defence,https://igdefence.com/,https://www.linkedin.com/company/igdefence/,Defence Drones,Noida,HQ,201-500,Defence unmanned systems
+299,Drones & UAVs,Indian Robotics Solution,https://indianrobotics.in/,https://www.linkedin.com/company/indian-robotics-solution/,Defence Drones,Noida,HQ,11-50,Drones and robotics for defence and industry
+300,Drones & UAVs,Johnnette Technologies,https://johnnette.com/,https://www.linkedin.com/company/johnnette-technologies/,Defence Drones,Noida,HQ,51-200,Defence drones and anti-drone systems
+301,Drones & UAVs,Omnipresent Robot Tech,https://www.omnipresenttech.com/,https://www.linkedin.com/company/omnipresent-robot-tech/,Industrial & Mapping Drones,Noida,HQ,11-50,"Drones, GPS-denied navigation and space robotics"
+302,Drones & UAVs,Raphe mPhibr,https://www.raphe.com/,https://www.linkedin.com/company/raphe-mphibr/,Defence Drones,Noida,HQ,"501-1,000",Defence and logistics drones and aerospace systems
+303,Drones & UAVs,InsideFPV,http://www.insidefpv.com/,https://www.linkedin.com/company/inside-fpv/,Defence Drones,Surat,HQ,51-200,FPV combat drones for the armed forces
+304,Drones & UAVs,BonV Aero,https://bonvaero.com/,https://www.linkedin.com/company/bonv-technology-pvt-ltd/,Delivery & Logistics Drones,Bhubaneswar,HQ,51-200,Cargo drones for logistics
+305,Drones & UAVs,Amber Wings,https://www.amberwings.co/,https://www.linkedin.com/company/amber-wings-co/,Delivery & Logistics Drones,Chennai,HQ,51-200,Autonomous cargo and heavy-lift drones
+306,Drones & UAVs,AvironiX,https://avironix.com/,https://www.linkedin.com/company/avironix-private-limited/,Agri Drones,Chennai,HQ,11-50,Agricultural spray drones
+307,Drones & UAVs,Dhaksha Unmanned Systems,https://dhaksha.com/,,Defence Drones,Chennai,HQ,,"Agricultural, defence and surveillance drones"
+308,Drones & UAVs,Garuda Aerospace,https://www.garudaaerospace.com/,https://www.linkedin.com/company/garuda-aerospace-private-limited/,Defence Drones,Chennai,HQ,201-500,"Multi-role drones for agriculture, defence and relief"
+309,Drones & UAVs,Spaceborn,https://www.spaceborn.in/,https://www.linkedin.com/company/spaceborn-future/,Drone Software & Services,Chennai,HQ,51-200,Simulation-first autonomy software for drones
+310,Drones & UAVs,Zuppa Geo Navigation,https://zuppa.io/,,Drone Components & Payloads,Chennai,HQ,,Drone autopilots and navigation systems
+311,Drones & UAVs,Fuselage Innovations,https://fuselage.co.in/,https://www.linkedin.com/company/fuselageinnovations/,Agri Drones,Kochi,HQ,11-50,Agricultural drones for crop mapping and spraying
+312,Drones & UAVs,Yali Aerospace,https://www.yaliaero.com/,https://www.linkedin.com/company/yaliaerospace/,Delivery & Logistics Drones,Thanjavur,HQ,51-200,Medical-logistics and surveillance drones
+313,AV & Adjacent,Ace Micromatic Group,https://www.acemicromatic.net/,https://www.linkedin.com/company/ace-micromatic-group/,Machine Tools & Advanced Manufacturing,Bengaluru,HQ,,CNC machine tools and manufacturing automation
+314,AV & Adjacent,AutoMind Dynamics,https://automindynamics.com/,https://www.linkedin.com/company/automindynamics/,Autonomous Vehicles & AV Software,Bengaluru,HQ,11-50,Autonomy software and retrofit kits for ground vehicles
+315,AV & Adjacent,Bharat Fritz Werner (BFW),https://bfwindia.com/,https://www.linkedin.com/company/bfw/,Machine Tools & Advanced Manufacturing,Bengaluru,HQ,"1,001-5,000",CNC machining centres and automation
+316,AV & Adjacent,Ethereal Machines,https://etherealmachines.com/,https://www.linkedin.com/company/etherealmachines/,Machine Tools & Advanced Manufacturing,Bengaluru,HQ,51-200,5-axis CNC machines and precision manufacturing
+317,AV & Adjacent,Fabheads Automation,https://fabheads.com/,https://www.linkedin.com/company/fabheads-automation/,Machine Tools & Advanced Manufacturing,Bengaluru,HQ,51-200,Automated carbon-fibre composite manufacturing
+318,AV & Adjacent,Flux Auto,https://fluxauto.ai/,https://www.linkedin.com/company/flux-auto/,Autonomous Vehicles & AV Software,Bengaluru,HQ,51-200,Autonomy retrofit kits for trucks and fleets
+319,AV & Adjacent,Minus Zero,https://minuszero.ai/,https://www.linkedin.com/company/minuszero/,Autonomous Vehicles & AV Software,Bengaluru,HQ,11-50,Full-stack AI for autonomous driving
+320,AV & Adjacent,Mistral Solutions,https://mistralsolutions.com/,https://www.linkedin.com/company/mistral-solutions-pvt.-ltd/,Defence Systems & Autonomy,Bengaluru,HQ,"501-1,000","Defence electronics, UAV and robotics subsystems"
+321,AV & Adjacent,Moonrider,https://moonrider.ai/,https://www.linkedin.com/company/moonrider-ai/,EV & Farm Machinery,Bengaluru,HQ,51-200,Electric tractors and farm machinery
+322,AV & Adjacent,MultiplexEV (formerly Bullwork Mobility),https://bullworkmobility.com/,https://www.linkedin.com/company/multiplexev/,EV & Farm Machinery,Bengaluru,HQ,11-50,Electric tractors and industrial utility vehicles
+323,AV & Adjacent,SensoVision Systems,https://sensoviz.com/,https://www.linkedin.com/company/sensovision-systems/,Automation-adjacent,Bengaluru,HQ,11-50,Optical sorting and visual inspection machines
+324,AV & Adjacent,Tonbo Imaging,https://tonboimaging.com/,https://www.linkedin.com/company/tonbo-imaging/,Defence Systems & Autonomy,Bengaluru,HQ,201-500,Thermal imaging and sensors for defence systems
+325,AV & Adjacent,TrashCon Labs,https://trashcon.in/,https://www.linkedin.com/company/trashcon/,Automation-adjacent,Bengaluru,HQ,51-200,Automated waste segregation and recycling machines
+326,AV & Adjacent,Grene Robotics (Indrajaal),https://grenerobotics.com/,https://www.linkedin.com/company/grene-robotics/,Defence Systems & Autonomy,Hyderabad,HQ,51-200,Autonomous anti-drone defence system
+327,AV & Adjacent,Indrajaal,https://indrajaal.in/,https://www.linkedin.com/company/indrajaalofficial/,Defence Systems & Autonomy,Hyderabad,HQ,51-200,AI-powered autonomous anti-drone defence
+328,AV & Adjacent,Zen Technologies,https://www.zentechnologies.com/,https://www.linkedin.com/company/zen-technologies/,Defence Systems & Autonomy,Hyderabad,HQ,201-500,"Defence simulators, counter-drone systems and robots"
+329,AV & Adjacent,Optimized Electrotech,https://optimizedelectrotech.com/,https://www.linkedin.com/company/optimized-electrotech-pvt-ltd/,Defence Systems & Autonomy,Ahmedabad,HQ,51-200,EO/IR surveillance and tracking systems
+330,AV & Adjacent,Leelavati Automation,https://leelavatiautomation.com/,https://www.linkedin.com/company/leelavatiautomation/,Automation-adjacent,Mumbai,HQ,11-50,Industrial and building automation solutions
+331,AV & Adjacent,Sagar Defence Engineering,https://www.sagardefence.com/,https://www.linkedin.com/company/sagar-defence-engineering/,Defence Systems & Autonomy,Mumbai,HQ,201-500,Unmanned surface vessels and maritime autonomy
+332,AV & Adjacent,Agrograde,https://agrograde.com/,https://www.linkedin.com/company/agrograde/,Automation-adjacent,Pune,HQ,11-50,AI sorting and grading machines for fresh produce
+333,AV & Adjacent,AnG Robotics,https://www.angrobotics.com/,https://www.linkedin.com/company/ang-robotics/,Automation-adjacent,Pune,HQ,2-10,Industrial and home automation systems
+334,AV & Adjacent,Haber,https://haberwater.com/,https://www.linkedin.com/company/haber-tech/,Automation-adjacent,"Naperville, USA",HQ,201-500,AI process control for water and process industries
+335,AV & Adjacent,Kalyani Strategic Systems,,https://www.linkedin.com/company/kalyani-strategic-systems-limited/,Defence Systems & Autonomy,Pune,HQ,,"Artillery, armoured vehicles and loitering munitions (Bharat Forge)"
+336,AV & Adjacent,Siliconia Technologies,https://www.siliconiatech.com/,https://www.linkedin.com/company/siliconia-technologies-private-limited/,Defence Systems & Autonomy,Pune,HQ,11-50,"Radar, SATCOM and unmanned systems"
+337,AV & Adjacent,Swaayatt Robots,https://www.swaayattrobots.com/,https://www.linkedin.com/company/swaayatt-robots/,Autonomous Vehicles & AV Software,Bhopal,HQ,2-10,Autonomous driving for unstructured Indian roads
+338,AV & Adjacent,SLTL Group (Sahajanand Laser Technology),https://sahajanandlaser.com/,https://www.linkedin.com/company/sltlgroup/,Machine Tools & Advanced Manufacturing,Gandhinagar,HQ,"501-1,000","Industrial laser cutting, welding and marking machines"
+339,AV & Adjacent,ScaNxt,https://scanxt.com/,https://www.linkedin.com/company/scanxt/,EV & Farm Machinery,Greater Noida,HQ,11-50,IoT agritech and compact electric tractors
+340,AV & Adjacent,STEMROBO Technologies,https://www.stemrobo.com/,https://www.linkedin.com/company/stemrobo/,Robotics Education,Noida,HQ,201-500,Robotics and AI labs and kits for schools
+341,AV & Adjacent,Jyoti CNC Automation,https://jyoti.co.in/,https://www.linkedin.com/company/jyoticnc/,Machine Tools & Advanced Manufacturing,Rajkot,HQ,"1,001-5,000",CNC machines and machining centres
+342,AV & Adjacent,Meril,https://www.merillife.com/,https://www.linkedin.com/company/meril/,Medical Devices,Vapi,HQ,"10,001+",Medical devices including the MISSO surgical robot
+343,AV & Adjacent,Robro Systems,https://www.robrosystems.com/,https://www.linkedin.com/company/robrosystems/,Automation-adjacent,Indore,HQ,,AI textile inspection machines
+344,AV & Adjacent,STEPUPIFY,https://stepupify.com/,https://www.linkedin.com/company/stepupify-labs/,EV & Farm Machinery,Bhagalpur,HQ,11-50,Modular battery-powered farm machinery
+345,AV & Adjacent,Big Bang Boom Solutions,https://www.bigbangboom.com/,https://www.linkedin.com/company/big-bang-boom-solutions-private-limited/,Defence Systems & Autonomy,Chennai,HQ,51-200,Deep-tech defence systems
+346,AV & Adjacent,Detect Technologies,https://detecttechnologies.com/,https://www.linkedin.com/company/detect-technologies/,Industrial AI Software,Chennai,HQ,201-500,AI workplace safety with drones and robotic inspection
+347,AV & Adjacent,ThinkMetal,https://www.thinkmetal.in/,https://www.linkedin.com/company/thinkmetal/,Machine Tools & Advanced Manufacturing,Chennai,HQ,11-50,Industrial metal 3D printing systems
+348,AV & Adjacent,RoshAi,https://www.rosh.ai/,https://www.linkedin.com/company/roshartificialintelligence/,Autonomous Vehicles & AV Software,"Delaware, USA",HQ,11-50,Drive-by-wire autonomy kits and robotic test drivers
