@@ -1,0 +1,296 @@
+Layer,Component,Foreign supplier company,Country,India channel,Notes,Source URL
+L01 Magnets,Rare-earth magnets,Arnold Magnetic Technologies,USA,Unknown,No India office listed,stage2-L01-notes.md (no row-level URL)
+L01 Magnets,Rare-earth magnets,Neo Performance Materials,Canada,Unknown,Bid in Indian magnet tender; no Indian subsidiary listed,stage2-L01-notes.md (no row-level URL)
+L01 Magnets,Rare-earth and ferrite magnets,Proterial Ltd,Japan,Proterial (India) Pvt Ltd (formerly Hitachi Metals India),Importer; made in / imported from: Japan,https://auto.economictimes.indiatimes.com/news/auto-components/proterial-plans-to-localize-magnet-production-in-india-expanding-into-heavy-rare-earth-free-magnets-and-amorphous-steel/128872250
+L01 Magnets,Rare-earth magnets,Shin-Etsu Chemical,Japan,Unknown,No rare-earth-magnet sales office in India; nearest office Singapore,stage2-L01-notes.md (no row-level URL)
+L02 Motors,Servo motors,B&R (ABB),Austria,Unknown,Named servo supplier in layer notes,stage2-L02-notes.md (no row-level URL)
+L02 Motors,Servo motors,Beckhoff Automation,Germany,Unknown,Named servo supplier in layer notes,stage2-L02-notes.md (no row-level URL)
+L02 Motors,Servo / frameless torque motors,Bosch Rexroth,Germany,Bosch Rexroth (India) Pvt Ltd,Importer; made in / imported from: Unknown,https://motorindustry.in/exports/imported-servo-and-hv-motors
+L02 Motors,Servo / frameless torque motors,Delta Electronics,Taiwan,Delta Electronics India Pvt Ltd,Importer; made in / imported from: Unknown,https://motorindustry.in/exports/imported-servo-and-hv-motors
+L02 Motors,Micro / coreless motors,FAULHABER,Germany,FAULHABER Drive Systems India Pvt Ltd,Importer; made in / imported from: Unknown,https://www.faulhaber.com/en/about-us/locations/faulhaber-drive-systems-india-pvt-ltd-in/
+L02 Motors,Servo / frameless torque motors,Inovance Technology,China,Inovance Technology India Pvt Ltd,Importer; made in / imported from: China,https://motorindustry.in/exports/imported-servo-and-hv-motors
+L02 Motors,Servo / frameless torque motors,Kollmorgen (Regal Rexnord),USA,Kollmorgen India (Regal Rexnord),Importer; made in / imported from: Unknown,https://motorindustry.in/exports/imported-servo-and-hv-motors
+L02 Motors,Servo motors,Lenze,Germany,Unknown,Named servo supplier in layer notes,stage2-L02-notes.md (no row-level URL)
+L02 Motors,Micro / coreless motors,maxon group,Switzerland,maxon precision motor India Pvt Ltd,Importer; made in / imported from: Switzerland,https://www.maxongroup.com/en-in/contact
+L02 Motors,Stepper motors,MinebeaMitsumi,Japan,MinebeaMitsumi India Pvt Ltd,Importer; made in / imported from: Unknown,https://motorindustry.in/exports/imported-servo-and-hv-motors
+L02 Motors,Servo / frameless torque motors,Mitsubishi Electric,Japan,Mitsubishi Electric India Pvt Ltd,Importer; made in / imported from: Unknown,https://www.mitsubishielectric.in/news/mitsubishi-electric-inaugurates-new-manufacturing-plant-worth-2200-minr-for-cutting-edge-factory-automation-systems-in-maharashtra-india
+L02 Motors,Stepper motors,MOONS',China,MOONS' Industries India,Importer; made in / imported from: China,https://motorindustry.in/exports/imported-servo-and-hv-motors
+L02 Motors,Stepper motors,Oriental Motor,Japan,Oriental Motor (India) Pvt Ltd,Importer; made in / imported from: Unknown,https://www.orientalmotor.co.in/in/company/profile/network/domestic
+L02 Motors,Servo / frameless torque motors,Panasonic,Japan,Panasonic Life Solutions India Pvt Ltd,Importer; made in / imported from: Unknown,https://motorindustry.in/exports/imported-servo-and-hv-motors
+L02 Motors,Servo motors,Rockwell Automation,USA,Unknown,Named servo supplier in layer notes,stage2-L02-notes.md (no row-level URL)
+L02 Motors,Stepper motors,Sanyo Denki,Japan,Sanyo Denki India Pvt Ltd,Importer; made in / imported from: Unknown,https://www.sanyodenki.com/india/contacts/contacts.html
+L02 Motors,Servo motors,Siemens,Germany,Unknown,Named servo supplier in layer notes,stage2-L02-notes.md (no row-level URL)
+L02 Motors,Drone BLDC motors,T-Motor,China,Xrobo Dynamics (Xrobo.in),Distributor; made in / imported from: China,https://uav-en.tmotor.com/Dealer/
+L02 Motors,Drone BLDC motors,T-Motor,China,Robokits India (Dazzle Robotics),Distributor; made in / imported from: China,https://uav-en.tmotor.com/Dealer/
+L02 Motors,Drone BLDC motors,T-Motor,China,ROBU (Robu.in),Distributor; made in / imported from: China,https://uav-en.tmotor.com/Dealer/
+L02 Motors,Servo / frameless torque motors,Yaskawa Electric,Japan,Yaskawa India Pvt Ltd,Importer; made in / imported from: Unknown,https://www.yaskawaindia.in/yaskawa-india.php
+L03 Reducers,Precision planetary gearboxes,Apex Dynamics Inc,Taiwan,Apex Dynamics India,Importer; made in / imported from: Taiwan,https://www.apexdyna.co.in/about.html
+L03 Reducers,Strain-wave (harmonic) reducers,Bonsystems,China,Dashmesh Enterprises,Distributor; made in / imported from: China,https://dashmeshtech.com/
+L03 Reducers,Strain-wave (harmonic) reducers,Cubemars,China,Dashmesh Enterprises,Distributor; made in / imported from: China,https://dashmeshtech.com/
+L03 Reducers,Precision planetary gearboxes,GearKo,Unknown,Hiramani Tech Solution (GearKo Reducers),Distributor; made in / imported from: Unknown,https://gearkoreducer.com/about/
+L03 Reducers,Strain-wave (harmonic) reducers,Harmonic Drive,Japan/Germany,Fidus India Automation,Distributor; made in / imported from: Unknown,https://www.fidusindia.com/brands/harmonic-drive
+L03 Reducers,Strain-wave (harmonic) reducers,Harmonic Drive SE,Germany,System Controls Technology Solutions Pvt Ltd (SCTSPL),Distributor; made in / imported from: Germany,https://www.systemcontrolstspl.com/harmonic-drive
+L03 Reducers,Strain-wave (harmonic) reducers,Laifual,China,Dashmesh Enterprises,Distributor; made in / imported from: China,https://dashmeshtech.com/
+L03 Reducers,Strain-wave (harmonic) reducers,Leaderdrive,China,Dashmesh Enterprises,Distributor; made in / imported from: China,https://dashmeshtech.com/
+L03 Reducers,Cycloidal / RV reducers,Nabtesco Corporation,Japan,Nabtesco India Pvt Ltd,Importer; made in / imported from: Unknown,https://nabtesco.co.in/pr/company/
+L03 Reducers,Precision planetary gearboxes,Shimpo (Nidec),Japan,Strategi Automation,Distributor; made in / imported from: Unknown,https://strategiautomation.com/servo-planetary-gear-reducer/
+L03 Reducers,Cycloidal / RV reducers,Sumitomo Heavy Industries,Japan,Sumi-Cyclo Drive India Pvt Ltd (Sumitomo Heavy Industries),Importer; made in / imported from: Unknown,https://emeia.sumitomodrive.com/en-gb/news/sumitomo-opens-cyclo-center-pune
+L03 Reducers,Precision planetary gearboxes,WITTENSTEIN,Germany,Panchal Power Transmission LLP,Distributor; made in / imported from: Unknown,https://auto.economictimes.indiatimes.com/expo/automotive-engineering-show/panchal-power-transmission-llp/45
+L04 Screws Guides Bearings,Ball screws,Bosch Rexroth,Germany,Bosch Rexroth (India) Pvt Ltd,Importer; made in / imported from: Unknown,https://www.boschrexroth.com/en/in/contact/contact-locator/contracted-channel-partners/
+L04 Screws Guides Bearings,Linear guides / rails,HIWIN Technologies,Taiwan,Fluro Engineering Pvt Ltd (Hiwin India),Distributor; made in / imported from: Taiwan,https://www.hiwin-india.com/
+L04 Screws Guides Bearings,Robot / servo holding brakes,Kendrion NV,Netherlands,INTORQ India Pvt Ltd (Kendrion),Importer; made in / imported from: Unknown,https://www.kendrion.com/en/locations
+L04 Screws Guides Bearings,Holding brakes,Mayr,Germany,Unknown,ROBA-servostop brakes; India manufacture not confirmed,stage2-L04-notes.md (no row-level URL)
+L04 Screws Guides Bearings,Linear guides / rails,NSK,Japan,Linear Automations,Distributor; made in / imported from: Japan,https://linearautomations.com/products
+L04 Screws Guides Bearings,Planetary roller screws,Schaeffler AG (EWELLIX),Germany,Schaeffler India Ltd (EWELLIX),Importer; made in / imported from: Unknown,https://medias.schaeffler.co.in/en/product/linear-motion/ewellix-linear-actuators/ewellix-matrix-series/c/MatrixSeries
+L04 Screws Guides Bearings,"Precision, crossed-roller & thin-section bearings",SFT,Taiwan,Star Precision Products,Importer; made in / imported from: Taiwan,https://www.starprecisionproducts.in/crossed-roller-bearing.html
+L04 Screws Guides Bearings,Thin-section bearings,SKF (Kaydon),Sweden,Unknown,Thin-section bearings,stage2-L04-notes.md (no row-level URL)
+L04 Screws Guides Bearings,Linear guides / rails,THK,Japan,THK India Pvt Ltd,Importer; made in / imported from: Unknown,https://linkedin.com/company/thk-india
+L04 Screws Guides Bearings,Linear guides / rails,THK,Japan,Linear Automations,Distributor; made in / imported from: Japan,https://linearautomations.com/products
+L04 Screws Guides Bearings,"Precision, crossed-roller & thin-section bearings",THK (model ranges),Japan,Shree Krishna Bearing Industries (SKBI),Distributor; made in / imported from: Unknown,https://www.skbibearings.com/cross_roller_bearings.html
+L05 Drives & Controllers,PLCs & motion control modules,B&R (ABB),Austria,"B&R Industrial Automation (ABB machine automation), India",Importer; made in / imported from: Unknown,https://www.br-automation.com/en-in/about-us/contact/
+L05 Drives & Controllers,PLCs & motion control modules,Beckhoff Automation,Germany,Beckhoff Automation Pvt Ltd,Importer; made in / imported from: Unknown,https://www.beckhoff.com/en-us/company/global-presence/india.html
+L05 Drives & Controllers,Servo drives,Delta Electronics,Taiwan,Unknown,Partly made locally,stage2-L05-notes.md (no row-level URL)
+L05 Drives & Controllers,Robot / motion / CNC controllers,FANUC Corporation,Japan,FANUC India Pvt Ltd,Importer; made in / imported from: Unknown,https://www.fanuc.co.jp/en/service/asia/india.html
+L05 Drives & Controllers,PLCs & motion control modules,Fuji Electric,Japan,Messung Systems Pvt Ltd,Distributor; made in / imported from: Japan (Fuji Electric); Austria (Sigmatek),https://www.messungautomation.co.in/knowledge-bank__trashed/leading-indigenous-plc-manufacturer-in-india-messung/
+L05 Drives & Controllers,Drone ESCs,Hobbywing,China,Unknown,Default drone ESC source,stage2-L05-notes.md (no row-level URL)
+L05 Drives & Controllers,Servo drives (industrial AC),Inovance Technology,China,Inovance Technology India Pvt Ltd,Importer; made in / imported from: China,https://www.inovance.eu/india/company/about-inovance
+L05 Drives & Controllers,Servo drives (industrial AC),Mitsubishi Electric,Japan,Mitsubishi Electric India Pvt Ltd,Importer; made in / imported from: Unknown,https://www.mitsubishielectric.in/fa/about-us/core-competencies/manufacturing/index.html
+L05 Drives & Controllers,PLCs & motion control modules,Rockwell Automation,USA,Rockwell Automation India Pvt Ltd,Importer; made in / imported from: Unknown,https://timesofindia.indiatimes.com/city/chennai/rockwell-automation-ramps-up-india-mfg-capacity-as-data-centres-boom-spur-demand/articleshow/135468095.cms
+L05 Drives & Controllers,PLCs & motion control modules,Siemens,Germany,Siemens Ltd,Importer; made in / imported from: Unknown,https://www.siemens.com/en-us/company/insights/kalwa-digitalized-sustainable-factory/
+L05 Drives & Controllers,PLCs & motion control modules,Sigmatek,Austria,Messung Systems Pvt Ltd,Distributor; made in / imported from: Japan (Fuji Electric); Austria (Sigmatek),https://www.messungautomation.co.in/knowledge-bank__trashed/leading-indigenous-plc-manufacturer-in-india-messung/
+L05 Drives & Controllers,Drone ESCs,T-Motor,China,Xrobo Dynamics; Robokits India; ROBU,Default drone ESC source; dealers listed in L02,stage2-L05-notes.md (no row-level URL)
+L05 Drives & Controllers,Servo drives (industrial AC),Yaskawa Electric,Japan,Yaskawa India Pvt Ltd,Importer; made in / imported from: Unknown,https://yaskawaindia.in/yaskawa-india.php
+L06 Actuators,Integrated robot joint actuators,Cubemars,China,Dashmesh Enterprises,Distributor; made in / imported from: China,https://dashmeshtech.com/
+L06 Actuators,Electric actuators and cobot grippers,Festo,Germany,Unknown,Import vs India manufacture not verified,stage2-L06-notes.md (no row-level URL)
+L06 Actuators,Integrated robot joint actuators,Laifual,China,Dashmesh Enterprises,Distributor; made in / imported from: China,https://dashmeshtech.com/
+L06 Actuators,Electric linear actuators,LINAK A/S,Denmark,LINAK India Actuator Systems Pvt Ltd,Importer; made in / imported from: Denmark/China/USA/Slovakia/Thailand (LINAK factories; plant not specified),https://www.linak.in/about/factories/
+L06 Actuators,Linear actuators,Schaeffler AG (EWELLIX),Germany,Schaeffler India Ltd,"Roller-screw actuators, imported (see L04)",stage2-L06-notes.md (no row-level URL)
+L06 Actuators,Electric actuators and cobot grippers,SMC,Japan,Unknown,Import vs India manufacture not verified,stage2-L06-notes.md (no row-level URL)
+L06 Actuators,Rotary actuators,Unitree,China,Unknown,Common source in global humanoid supply chains,stage2-L06-notes.md (no row-level URL)
+L07 Proprioceptive Sensors,Force/torque sensors,ATI Industrial Automation,USA,Indian partners (unnamed),Search summaries only; not verified,stage2-L07-notes.md (no row-level URL)
+L07 Proprioceptive Sensors,Force/torque sensors,HBK (Spectris),UK,Unknown,Search summaries only; not verified,stage2-L07-notes.md (no row-level URL)
+L07 Proprioceptive Sensors,Encoders (optical / magnetic / absolute),Hohner Automation,Spain,Hohner Automation India,Importer; made in / imported from: Europe (country not stated),https://www.hohner.in/about/
+L07 Proprioceptive Sensors,Force/torque sensors,Kistler Group,Switzerland,Kistler Instruments India Pvt Ltd,Importer; made in / imported from: Unknown,https://www.indiamart.com/kistlerinstruments-india/industrial-sensors.html
+L07 Proprioceptive Sensors,Encoders,Kübler,Germany,Kuebler India (partly assembled in Pune),Partly assembled in Pune,stage2-L07-notes.md (no row-level URL)
+L07 Proprioceptive Sensors,Encoders,Renishaw plc,UK,Renishaw India,Pune makes components such as encoder cables only,stage2-L07-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,Basler,Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,CHC Navigation,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Machine-vision & embedded cameras,Cognex Corporation,USA,Cognex Sensors India Pvt Ltd,Importer; made in / imported from: Unknown,https://www.cognex.com/en/company/asia-australia
+L08 Perception Sensors,Perception sensors,Hesai,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,Hikrobot,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,Hokuyo,Japan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,Infineon,Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,Intel RealSense,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Machine-vision & embedded cameras,Keyence Corporation,Japan,Keyence India Pvt Ltd,Importer; made in / imported from: Unknown,https://www.keyence.co.in/about-us/network/local.jsp
+L08 Perception Sensors,Perception sensors,Leuze,Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,Livox,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,NXP,Netherlands,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,Omron,Japan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,onsemi,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,Orbbec,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,Ouster,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,Pepperl+Fuchs,Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,RoboSense,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,Septentrio,Belgium,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Safety laser scanners,SICK AG,Germany,SICK India Pvt Ltd,Importer; made in / imported from: Unknown,https://www.sick.com/in/en/sick-india/w/sick
+L08 Perception Sensors,Safety laser scanners,SICK AG,Germany,Innovative Technologies,Distributor; made in / imported from: Unknown,https://www.sick.com/in/en/contact-support/partners-distributors-sick-experts-in-your-region/w/contact-partners-distributors
+L08 Perception Sensors,Perception sensors,Sony,Japan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,Stereolabs,France,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,Texas Instruments,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,Trimble,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,u-blox,Switzerland,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,Unicore,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L08 Perception Sensors,Perception sensors,Velodyne,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L08-notes.md (no row-level URL)
+L09 Batteries,"Cells, BMS chips, AMR charging",Analog Devices,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L09-notes.md (no row-level URL)
+L09 Batteries,"Cells, BMS chips, AMR charging",BYD,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L09-notes.md (no row-level URL)
+L09 Batteries,"Cells, BMS chips, AMR charging",CATL,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L09-notes.md (no row-level URL)
+L09 Batteries,"Cells, BMS chips, AMR charging",Conductix-Wampfler,Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L09-notes.md (no row-level URL)
+L09 Batteries,"Cells, BMS chips, AMR charging",Delta Electronics,Taiwan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L09-notes.md (no row-level URL)
+L09 Batteries,"Cells, BMS chips, AMR charging",EVE Energy,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L09-notes.md (no row-level URL)
+L09 Batteries,"Cells, BMS chips, AMR charging",Gotion,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L09-notes.md (no row-level URL)
+L09 Batteries,"Cells, BMS chips, AMR charging",Greenway,Unknown,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L09-notes.md (no row-level URL)
+L09 Batteries,"Cells, BMS chips, AMR charging","Grepow (Tattu, Gens Ace)",China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L09-notes.md (no row-level URL)
+L09 Batteries,"Cells, BMS chips, AMR charging",LG Energy Solution,South Korea,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L09-notes.md (no row-level URL)
+L09 Batteries,"Cells, BMS chips, AMR charging",Molicel,Taiwan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L09-notes.md (no row-level URL)
+L09 Batteries,"Cells, BMS chips, AMR charging",NXP,Netherlands,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L09-notes.md (no row-level URL)
+L09 Batteries,"Cells, BMS chips, AMR charging",Panasonic,Japan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L09-notes.md (no row-level URL)
+L09 Batteries,"Cells, BMS chips, AMR charging",PULS GmbH (Wiferion),Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L09-notes.md (no row-level URL)
+L09 Batteries,"Cells, BMS chips, AMR charging",Renesas,Japan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L09-notes.md (no row-level URL)
+L09 Batteries,Li-ion cells,Samsung (INR21700-50S cells),South Korea,Lion Battery,Distributor; made in / imported from: Unknown,https://lionbattery.in/shop/shop/lithium-cells/li-ion-cylindrical-battery-cell/samsung-inr21700-50s-3-6v-5000mah-45a-li-ion-battery-original/
+L09 Batteries,"Cells, BMS chips, AMR charging",Samsung SDI,South Korea,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L09-notes.md (no row-level URL)
+L09 Batteries,"Cells, BMS chips, AMR charging",Texas Instruments,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L09-notes.md (no row-level URL)
+L10 Semiconductors,"Compute, MCUs, power devices, foundries",EPC,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L10-notes.md (no row-level URL)
+L10 Semiconductors,"Compute, MCUs, power devices, foundries",GlobalFoundries,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L10-notes.md (no row-level URL)
+L10 Semiconductors,"Compute, MCUs, power devices, foundries",Infineon,Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L10-notes.md (no row-level URL)
+L10 Semiconductors,"Compute, MCUs, power devices, foundries",Microchip,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L10-notes.md (no row-level URL)
+L10 Semiconductors,"Compute, MCUs, power devices, foundries",Navitas,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L10-notes.md (no row-level URL)
+L10 Semiconductors,Distributors of robot-relevant chips,NVIDIA,USA,Rashi Peripherals Ltd (RP Tech India),Distributor; made in / imported from: Unknown,https://rptechindia.com/nvidia/developer-kit.html
+L10 Semiconductors,Distributors of robot-relevant chips,NVIDIA,USA,Tanna TechBiz,Distributor; made in / imported from: Unknown,https://forums.developer.nvidia.com/t/nvidia-jetson-agx-orin-64gb-developer-kit-where-to-buy-in-india/378390
+L10 Semiconductors,Distributors of robot-relevant chips,NVIDIA,USA,Arrow Electronics (India),Distributor; made in / imported from: Unknown,https://www.ti.com/en-us/support/faqs/purchasing-online/authorized-distributors
+L10 Semiconductors,Distributors of robot-relevant chips,NVIDIA,USA,EDOM Technology (India subsidiary),Distributor; made in / imported from: Unknown,https://developer.nvidia.com/embedded/ecosystem?refinementList%255Bcategories%255D%255B0%255D=Distributor&sortBy=jetson_ecosystem_partners%2Fsort%2Fcompany_name%3Aasc
+L10 Semiconductors,Distributors of robot-relevant chips,NXP,Netherlands,Mouser Electronics (India),Distributor; made in / imported from: Unknown,https://www.mouser.in/en/newsroom/publicrelations-ti-supplier-focus-2026final/
+L10 Semiconductors,"Compute, MCUs, power devices, foundries",onsemi,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L10-notes.md (no row-level URL)
+L10 Semiconductors,"Compute, MCUs, power devices, foundries",PSMC,Taiwan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L10-notes.md (no row-level URL)
+L10 Semiconductors,"Compute, MCUs, power devices, foundries",Qualcomm,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L10-notes.md (no row-level URL)
+L10 Semiconductors,"Compute, MCUs, power devices, foundries",Renesas,Japan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L10-notes.md (no row-level URL)
+L10 Semiconductors,Distributors of robot-relevant chips,STMicroelectronics,Switzerland,Mouser Electronics (India),Distributor; made in / imported from: Unknown,https://www.mouser.in/en/newsroom/publicrelations-ti-supplier-focus-2026final/
+L10 Semiconductors,Distributors of robot-relevant chips,Texas Instruments,USA,Arrow Electronics (India),Distributor; made in / imported from: Unknown,https://www.ti.com/en-us/support/faqs/purchasing-online/authorized-distributors
+L10 Semiconductors,Distributors of robot-relevant chips,Texas Instruments,USA,Mouser Electronics (India),Distributor; made in / imported from: Unknown,https://www.mouser.in/en/newsroom/publicrelations-ti-supplier-focus-2026final/
+L10 Semiconductors,"Compute, MCUs, power devices, foundries",TSMC,Taiwan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L10-notes.md (no row-level URL)
+L10 Semiconductors,"Compute, MCUs, power devices, foundries",UMC,Taiwan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L10-notes.md (no row-level URL)
+L10 Semiconductors,"Compute, MCUs, power devices, foundries",Wolfspeed,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L10-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Amphenol,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",CubePilot (Herelink),Australia,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Doodle Labs,Unknown,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Fibocom,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",HARTING,Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Helukabel,Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Hirose,Japan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,Cables & harnesses (robot/drag-chain),igus GmbH,Germany,igus (India) Pvt Ltd,Importer; made in / imported from: Unknown,https://www.igus.in/energy-chain/robot-cable-management/cf-robot
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",JST,Japan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",LAPP,Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Microhard,Canada,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Molex,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Murata,Japan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Nan Ya,Taiwan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Panasonic,Japan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Phoenix Contact,Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Quectel,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Rogers,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Samsung Electro-Mechanics,South Korea,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Shengyi,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Silvus,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",TDK,Japan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",TE Connectivity,Unknown,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Telit,Unknown,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",u-blox,Switzerland,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Vishay,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L11 PCB EMS Connectors,"PCB, passives, connectors, cables, modules, datalinks",Yageo,Taiwan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L11-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,APC Propellers,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,ARK Electronics,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,BlueMark,Unknown,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,CUAV,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,CubePilot,Australia,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,DJI,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,Dronetag,Czech Republic,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,Fruity Chutes,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,Gremsy,Vietnam,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,Hobbywing,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,Holybro,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,iRay (InfiRay),China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,Lynred,France,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,Mars Parachutes,Unknown,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,Mejzlik,Czech Republic,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,ParaZero,Israel,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,SIYI,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,T-Motor,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,Teledyne FLIR,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,ViewPro,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L12 Drone Subsystems,Drone subsystems,Workswell,Czech Republic,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L12-notes.md (no row-level URL)
+L13 End Effectors,End effectors,Abicor Binzel,Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L13-notes.md (no row-level URL)
+L13 End Effectors,End effectors,ATI Industrial Automation,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L13-notes.md (no row-level URL)
+L13 End Effectors,Electric / adaptive grippers,DH-Robotics,China,Mayura Automation Robotic Systems Pvt Ltd (Autobots-Inc),Distributor; made in / imported from: China,https://www.autobots-inc.co.in/electric-grippers.html
+L13 End Effectors,Robotic welding torches & equipment,ESAB Corporation,USA,ESAB India Ltd,Importer; made in / imported from: Unknown,https://esabindia.com/in/ind_en/products-solutions/product/robotics/robotic-equipment/robotic-torches/aristo-rt-robotic-torches/
+L13 End Effectors,End effectors,Festo,Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L13-notes.md (no row-level URL)
+L13 End Effectors,Robotic welding torches & equipment,Fronius International,Austria,Fronius India Pvt Ltd,Importer; made in / imported from: Unknown,https://www.fronius.com/en-in/india/welding-technology/product-information/mig-mag-robot-welding-torches
+L13 End Effectors,End effectors,Inspire Robots,China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L13-notes.md (no row-level URL)
+L13 End Effectors,Vacuum grippers & components,J. Schmalz GmbH,Germany,Schmalz India Pvt Ltd,Importer; made in / imported from: Germany,https://themachinemaker.com/people/we-want-to-give-hands-to-the-amr-philip-mani-schmalz-india/
+L13 End Effectors,Electric / adaptive grippers,OnRobot,Denmark,Mayura Automation Robotic Systems Pvt Ltd (Autobots-Inc),Distributor; made in / imported from: China,https://www.autobots-inc.co.in/electric-grippers.html
+L13 End Effectors,"Grippers & tool changers (multi-type, imported brands)",OnRobot,Denmark,Blue Star Engineering & Electronics Ltd,Distributor; made in / imported from: Unknown,https://www.ipfonline.com/news/detail/roboticsindustrialelectronicsandautomationequipment/danish-firm-onrobot-launches-tools-for-robotic-systems-in-india-/11760
+L13 End Effectors,Vacuum grippers & components,Piab,Sweden,Mechatronics Control Equipments Pvt Ltd,Distributor; made in / imported from: Unknown,https://mechatronicscontrolindia.com/piap.php
+L13 End Effectors,Electric / adaptive grippers,Robotiq,Canada,Optima Robotics (OptiRobotics Pvt Ltd),Distributor; made in / imported from: Unknown,https://optima-robotics.com/products/grippers
+L13 End Effectors,"Grippers & tool changers (multi-type, imported brands)",SCHUNK,Germany,SCHUNK Intec India Pvt Ltd,Importer; made in / imported from: Unknown,https://www.schunkindia.co.in/automation-solutions-and-machining-technologies
+L13 End Effectors,End effectors,SMC,Japan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L13-notes.md (no row-level URL)
+L13 End Effectors,End effectors,Stäubli,Switzerland,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L13-notes.md (no row-level URL)
+L13 End Effectors,Dexterous hands,Unitree,China,Xboom,Distributor; made in / imported from: Unknown,https://x.com/XboomContact/status/2120412039894229295
+L13 End Effectors,"Grippers & tool changers (multi-type, imported brands)",Zimmer Group,Germany,SEIMITSU Factory Automation Pvt Ltd,Distributor; made in / imported from: Unknown,https://www.seimitsu.in/zimmer-group-distributor-in-india-automation-supplier.html
+L14 Structural,Structural,Hexcel,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L14-notes.md (no row-level URL)
+L14 Structural,Structural,HP (MJF),USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L14-notes.md (no row-level URL)
+L14 Structural,Structural,Hyosung,South Korea,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L14-notes.md (no row-level URL)
+L14 Structural,Aluminium extrusions & T-slot profiles,item Industrietechnik,Germany,BIBUS India Pvt Ltd,Distributor; made in / imported from: Germany,https://www.item24.com/en-us/partner
+L14 Structural,Structural,Toray,Japan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L14-notes.md (no row-level URL)
+L14 Structural,"Wheels, castors & tracks (AMR/AGV/UGV)",Vulkoprin,Belgium,Gite Industries,Distributor; made in / imported from: Belgium,https://giteindustries.com/vulkoprin-india
+L15 Power & Thermal,Wireless / contact charging hardware (AGV/AMR),Conductix-Wampfler,Germany,Conductix-Wampfler India Pvt Ltd,Importer; made in / imported from: Unknown,https://www.conductix.in/in/industrial-mobile-robots/agvs-and-amrs-intralogistics
+L15 Power & Thermal,Power and thermal,ebm-papst,Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L15-notes.md (no row-level URL)
+L15 Power & Thermal,"AC-DC power supplies (SMPS, DIN-rail)",Mean Well,Taiwan,Nippon India BBY,Distributor; made in / imported from: Unknown,https://www.meanwell.com/distributors.aspx?c1=3&c2=70&s=
+L15 Power & Thermal,"AC-DC power supplies (SMPS, DIN-rail)",Mean Well,Taiwan,Digital Promoters (India) Pvt Ltd,Distributor; made in / imported from: Unknown,https://www.meanwell.com/distributors.aspx?c1=3&c2=70&s=
+L15 Power & Thermal,"AC-DC power supplies (SMPS, DIN-rail)",PULS GmbH,Germany,Puls Power India Pvt Ltd,Importer; made in / imported from: Unknown,https://www.industrialautomationindia.in/editorschoice/puls-india-power-solutions-automation-oems
+L15 Power & Thermal,DC-DC converters / BECs,PULS GmbH (Adelsystem),Germany,Puls Power India Pvt Ltd (Adelsystem),Importer; made in / imported from: Czech Republic/China/Germany (PULS plants; plant not specified),https://www.industrialautomationindia.in/editorschoice/puls-india-power-solutions-automation-oems
+L15 Power & Thermal,Wireless / contact charging hardware (AGV/AMR),PULS GmbH (Wiferion),Germany,Puls Power India Pvt Ltd (Wiferion),Importer; made in / imported from: Unknown,https://www.industrialautomationindia.in/editorschoice/puls-india-power-solutions-automation-oems
+L16 Mfg Equipment,SMT / PCB assembly equipment,ASMPT,Unknown,ASMPT India Pvt Ltd,Importer; made in / imported from: Unknown,https://www.electronicsforyou.biz/electronics-manufacturing-india-new-and-features/leading-suppliers-of-smt-pick-place-machines/
+L16 Mfg Equipment,Manufacturing equipment,DMG Mori,Unknown,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L16-notes.md (no row-level URL)
+L16 Mfg Equipment,Manufacturing equipment,DN Solutions,South Korea,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L16-notes.md (no row-level URL)
+L16 Mfg Equipment,Manufacturing equipment,FUJI Corporation,Japan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L16-notes.md (no row-level URL)
+L16 Mfg Equipment,Gear hobbing/grinding & thread grinding machines,Gleason Corporation,USA,Gleason Works (India) Pvt Ltd,Importer; made in / imported from: Unknown,https://www.gleason.com/en/operations/gleason-works-india-private-ltd-bangalore-india
+L16 Mfg Equipment,Manufacturing equipment,Hanwha,South Korea,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L16-notes.md (no row-level URL)
+L16 Mfg Equipment,Manufacturing equipment,Hexagon AB,Sweden,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L16-notes.md (no row-level URL)
+L16 Mfg Equipment,Manufacturing equipment,Hioki,Japan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L16-notes.md (no row-level URL)
+L16 Mfg Equipment,Manufacturing equipment,IPG Photonics,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L16-notes.md (no row-level URL)
+L16 Mfg Equipment,Manufacturing equipment,Mazak,Japan,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L16-notes.md (no row-level URL)
+L16 Mfg Equipment,Manufacturing equipment,Mycronic,Sweden,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L16-notes.md (no row-level URL)
+L16 Mfg Equipment,SMT / PCB assembly equipment,Panasonic,Japan,Daiichi Jitsugyo India Pvt Ltd (DJK India),Distributor; made in / imported from: Unknown,https://www.electronicsforyou.biz/electronics-manufacturing-india-new-and-features/leading-suppliers-of-smt-pick-place-machines/
+L16 Mfg Equipment,EDM machines,Seibu Electric & Machinery,Japan,Sparkonix (India) Pvt Ltd,Distributor; made in / imported from: Japan,https://www.sparkonix.com/seibu-cnc-edm-wire-cut-machine/
+L16 Mfg Equipment,Manufacturing equipment,Trumpf,Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L16-notes.md (no row-level URL)
+L16 Mfg Equipment,SMT / PCB assembly equipment,Yamaha Motor,Japan,Yamaha Motor India Sales Pvt Ltd (Robotics Business),Importer; made in / imported from: Unknown,https://www.electronicsforyou.biz/electronics-manufacturing-india-new-and-features/leading-suppliers-of-smt-pick-place-machines/
+L16 Mfg Equipment,Manufacturing equipment,Zeiss,Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L16-notes.md (no row-level URL)
+L17 Software & Simulation,Offline programming & simulation (OEM subsidiaries),ABB,Switzerland,ABB India Ltd (Robotics),Importer; made in / imported from: Unknown,https://new.abb.com/news/detail/66029/abb-india-opens-a-new-robotics-facility-to-support-the-digital-transformation-of-manufacturing-in-india
+L17 Software & Simulation,Offline programming & simulation (resellers),Dassault Systemes,France,EDS Technologies Pvt Ltd,Distributor; made in / imported from: Unknown,https://elioplus.com/asia-pacific/india/channel-partners/delmia
+L17 Software & Simulation,Software and simulation platforms,DJI (dock ecosystem),China,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L17-notes.md (no row-level URL)
+L17 Software & Simulation,Offline programming & simulation (OEM subsidiaries),FANUC Corporation,Japan,FANUC India Pvt Ltd,Importer; made in / imported from: Japan,https://www.fanucindia.com/products/robot/roboguide
+L17 Software & Simulation,Offline programming & simulation (OEM subsidiaries),KUKA AG,Germany,KUKA India Pvt Ltd,Importer; made in / imported from: Unknown,https://www.kuka.com/en-in/products/robotics-systems/software/simulation-planning-optimization
+L17 Software & Simulation,Software and simulation platforms,"NVIDIA (Isaac, Omniverse, Cosmos)",USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L17-notes.md (no row-level URL)
+L17 Software & Simulation,Software and simulation platforms,Open Robotics (ROS/ROS 2),USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L17-notes.md (no row-level URL)
+L17 Software & Simulation,Software and simulation platforms,PX4 / ArduPilot / QGroundControl (open source),Unknown,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L17-notes.md (no row-level URL)
+L17 Software & Simulation,Offline programming & simulation (resellers),RoboDK,Canada,Automax Robotics Pvt Ltd,Distributor; made in / imported from: Canada,https://linkedin.com/company/automax-robotics
+L17 Software & Simulation,Offline programming & simulation (resellers),RoboDK,Canada,Indiasoft Technologies Pvt Ltd,Distributor; made in / imported from: Unknown,https://www.indiamart.com/proddetail/robodk-robotic-cell-simulation-software-multiple-robot-brands-25591488888.html
+L17 Software & Simulation,Offline programming & simulation (resellers),Siemens Digital Industries Software,Germany,DDSPLM,Distributor; made in / imported from: Unknown,https://www.ddsplm.com/solutions/Digital/tecnomatix/
+L17 Software & Simulation,Offline programming & simulation (resellers),Siemens Digital Industries Software,Germany,IndishTech,Distributor; made in / imported from: Unknown,https://indishtech.in/about/siemens-authorized-reseller-in-india/
+L17 Software & Simulation,Offline programming & simulation (OEM subsidiaries),Siemens Digital Industries Software,Germany,Siemens Industry Software India Pvt Ltd (Siemens Digital Industries Software),Importer; made in / imported from: Unknown,https://press.siemens.com/in/en/pressrelease/siemens-industry-software-inaugurates-global-software-rd-center-pune
+L18a Robot OEMs,"Industrial arms, cobots & specialty cells",ABB,Switzerland,ABB India Ltd (Robotics),Importer; made in / imported from: Unknown,https://new.abb.com/news/detail/66029/abb-india-opens-a-new-robotics-facility-to-support-the-digital-transformation-of-manufacturing-in-india
+L18a Robot OEMs,"Industrial arms, cobots & specialty cells",ABB (used),Switzerland,RobotVerse,Distributor; made in / imported from: Unknown,https://www.robotverse.in/
+L18a Robot OEMs,AMR / AGV / ASRS & sortation,Autoxing,Unknown,Peribott,Distributor; made in / imported from: Unknown,https://peribott.com/
+L18a Robot OEMs,"Industrial arms, cobots & specialty cells",Doosan Robotics,South Korea,Mayura Automation Robotic Systems Pvt Ltd (Autobots INC),Distributor; made in / imported from: South Korea,https://www.linkedin.com/posts/autobots-inc_autobotsinc-doosanrobotics-diamonddistributor-activity-7444618849854861313-wqeP
+L18a Robot OEMs,AMR / AGV / ASRS & sortation,FAIRINO,China,Peribott,Distributor; made in / imported from: Unknown,https://peribott.com/
+L18a Robot OEMs,"Industrial arms, cobots & specialty cells",FANUC (used),Japan,RobotVerse,Distributor; made in / imported from: Unknown,https://www.robotverse.in/
+L18a Robot OEMs,"Industrial arms, cobots & specialty cells",FANUC Corporation,Japan,FANUC India Pvt Ltd,Importer; made in / imported from: Japan,https://www.fanuc.co.jp/en/service/asia/india.html
+L18a Robot OEMs,"Industrial arms, cobots & specialty cells",Kawasaki Heavy Industries,Japan,Kawasaki Robotics India Pvt Ltd,Importer; made in / imported from: Unknown,https://global.kawasaki.com/en/corp/profile/network/kird.html
+L18a Robot OEMs,"Industrial arms, cobots & specialty cells",KUKA (used),Germany,RobotVerse,Distributor; made in / imported from: Unknown,https://www.robotverse.in/
+L18a Robot OEMs,"Industrial arms, cobots & specialty cells",KUKA AG (Midea group),Germany,KUKA India Pvt Ltd,Importer; made in / imported from: Unknown,https://www.kuka.com/en-in/company/iimagazine/2025/10/interview-with-abhijeet-nehra-ceo-kuka-india
+L18a Robot OEMs,"Industrial arms, cobots & specialty cells",Mitsubishi Electric,Japan,Mitsubishi Electric India (Factory Automation),Importer; made in / imported from: Unknown,https://www.mitsubishielectric.com/fa/about-us/overseas/apac/index.html
+L18a Robot OEMs,"Service, cleaning, food & consumer",Pacific Industries (Zhongshan) Ltd (contract manufacturer),China,Miko (Emotix / RN Chidakashi Technologies),Importer; made in / imported from: China,https://www.livelaw.in/pdf_upload/r-n-chidakashi-technologies-pvt-ltd-531238.pdf
+L18a Robot OEMs,"Industrial arms, cobots & specialty cells",Seiko Epson,Japan,Epson India Pvt Ltd (Robots),Importer; made in / imported from: Unknown,https://www.epson.co.in/robotscontacts
+L18a Robot OEMs,"Industrial arms, cobots & specialty cells",Techman Robot,Taiwan,Janatics India Pvt Ltd,Distributor; made in / imported from: Taiwan,https://sisindia.in/janatics-robotics-cobots.html
+L18a Robot OEMs,Humanoid & legged,Unitree,China,Mask Robotics,Distributor; made in / imported from: Unknown,https://maskrobotics.in/
+L18a Robot OEMs,Humanoid & legged,Unitree,China,XBOOM,Distributor; made in / imported from: Unknown,https://www.xboom.in/unitree-go2-robot-dog-india/
+L18a Robot OEMs,"Industrial arms, cobots & specialty cells",Universal Robots A/S,Denmark,Universal Robots (India) Pvt Ltd,Importer; made in / imported from: Denmark,https://www.prnewswire.com/in/news-releases/universal-robots-launches-new-service-and-repair-center-in-india-elevating-customer-support-302314006.html
+L18a Robot OEMs,"Industrial arms, cobots & specialty cells",Universal Robots A/S,Denmark,MAC Robotics & Automation,Distributor; made in / imported from: Denmark,https://www.mac-robotics.com/
+L18a Robot OEMs,"Industrial arms, cobots & specialty cells",Universal Robots A/S,Denmark,Pima Controls,Distributor; made in / imported from: Denmark,https://pima.in/our-offering/technology-partners/universal-robots/
+L18a Robot OEMs,"Industrial arms, cobots & specialty cells",Yaskawa (used),Japan,RobotVerse,Distributor; made in / imported from: Unknown,https://www.robotverse.in/
+L18a Robot OEMs,"Industrial arms, cobots & specialty cells",Yaskawa Electric,Japan,Yaskawa India Pvt Ltd (Robotics Division),Importer; made in / imported from: Unknown,https://www.yaskawa-global.com/company/profile/global
+L18b Drone OEMs,"Industrial, mapping & education drones",DJI,China,XBOOM,Distributor; made in / imported from: Unknown,https://www.xboom.in/how-to-buy-a-dji-drone-in-india-in-2026-xboom/
+L19 Testing & Certification,Calibration equipment & services,Automated Precision Inc (API),USA,API Technical Services (India) Pvt Ltd,Importer; made in / imported from: Unknown,https://www.apimetrology.asia/
+L19 Testing & Certification,Testing and certification,Bureau Veritas,France,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L19-notes.md (no row-level URL)
+L19 Testing & Certification,"HIL, motor & propulsion test rigs",dSPACE,Germany,dSPACE India Solutions Pvt Ltd,Importer; made in / imported from: Germany,https://www.autocarpro.in/feature/inside-dspace-indias-next-phase-local-product-development-frugal-racks-and-a-push-beyond-auto-136025
+L19 Testing & Certification,Calibration equipment & services,FARO,USA,RASCO Automotive Systems,Distributor; made in / imported from: Unknown,https://rascoindia.com/faro-products/
+L19 Testing & Certification,Calibration equipment & services,Hexagon AB (Leica trackers),Sweden,Hexagon Metrology India (Hexagon Manufacturing Intelligence),Importer; made in / imported from: Unknown,https://www.indiamart.com/proddetail/hexagon-at960-scanner-bundle-leica-absolute-tracker-21389267862.html
+L19 Testing & Certification,Testing and certification,Intertek,UK,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L19-notes.md (no row-level URL)
+L19 Testing & Certification,"HIL, motor & propulsion test rigs",OPAL-RT,Canada,OPAL-RT Technologies India Pvt Ltd,Importer; made in / imported from: Canada,https://linkedin.com/company/opal-rt-technologies-india-pvt-ltd
+L19 Testing & Certification,Calibration equipment & services,Renishaw plc,UK,Renishaw Metrology Systems Pvt Ltd,Importer; made in / imported from: Unknown,https://www.renishaw.com/en/39799.aspx
+L19 Testing & Certification,Testing and certification,SGS,Switzerland,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L19-notes.md (no row-level URL)
+L19 Testing & Certification,"HIL, motor & propulsion test rigs",Typhoon HIL,Unknown,Quarbz Info Systems,Distributor; made in / imported from: Unknown,https://linkedin.com/company/quarbz-info-systems
+L19 Testing & Certification,Testing and certification,TÜV Rheinland,Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L19-notes.md (no row-level URL)
+L19 Testing & Certification,Testing and certification,TÜV SÜD,Germany,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L19-notes.md (no row-level URL)
+L19 Testing & Certification,Testing and certification,UL Solutions,USA,Unknown,Named in layer notes as a main foreign supplier; no India channel mapped,stage2-L19-notes.md (no row-level URL)
+Stage 1 taxonomy,FPGAs,AMD (Xilinx),USA,Unknown,Named in Stage 1 key global supplier regions,stage1-taxonomy.csv (no row-level URL)
+Stage 1 taxonomy,IMUs,Bosch,Germany,Unknown,Named in Stage 1 key global supplier regions,stage1-taxonomy.csv (no row-level URL)
+Stage 1 taxonomy,Six-axis force/torque sensors,Bota Systems,Switzerland,Unknown,Named in Stage 1 key global supplier regions,stage1-taxonomy.csv (no row-level URL)
+Stage 1 taxonomy,Planetary and inverted roller screws,GSA,Switzerland,Unknown,Named in Stage 1 key global supplier regions,stage1-taxonomy.csv (no row-level URL)
+Stage 1 taxonomy,Strain-wave (harmonic) reducers,Harmonic Drive Systems,Japan,Unknown,Named in Stage 1 key global supplier regions,stage1-taxonomy.csv (no row-level URL)
+Stage 1 taxonomy,Rotary encoders,Heidenhain,Germany,Unknown,Named in Stage 1 key global supplier regions,stage1-taxonomy.csv (no row-level URL)
+Stage 1 taxonomy,IMUs,Honeywell,USA,Unknown,Named in Stage 1 key global supplier regions,stage1-taxonomy.csv (no row-level URL)
+Stage 1 taxonomy,FPGAs,Intel (Altera),USA,Unknown,Named in Stage 1 key global supplier regions,stage1-taxonomy.csv (no row-level URL)
+Stage 1 taxonomy,FPGAs,Lattice,USA,Unknown,Named in Stage 1 key global supplier regions,stage1-taxonomy.csv (no row-level URL)
+Stage 1 taxonomy,Rotary encoders,Nikon,Japan,Unknown,Named in Stage 1 key global supplier regions,stage1-taxonomy.csv (no row-level URL)
+Stage 1 taxonomy,"Safety laser scanners, light curtains",Pilz,Germany,Unknown,Named in Stage 1 key global supplier regions,stage1-taxonomy.csv (no row-level URL)
+Stage 1 taxonomy,Planetary and inverted roller screws,Rollvis,Switzerland,Unknown,Named in Stage 1 key global supplier regions,stage1-taxonomy.csv (no row-level URL)
+Stage 1 taxonomy,Rotary encoders,Tamagawa,Japan,Unknown,Named in Stage 1 key global supplier regions,stage1-taxonomy.csv (no row-level URL)
